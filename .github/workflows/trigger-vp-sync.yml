@@ -1,0 +1,17 @@
+name: Trigger VitePress Sync
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger VitePress Sync
+        run: |
+          curl -X POST \
+            -H "Accept: application/vnd.github.v3+json" \
+            -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
+            https://api.github.com/repos/evolved-ro/wiki/dispatches \
+            -d '{"event_type":"wiki_updated"}'
