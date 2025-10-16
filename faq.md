@@ -1,6 +1,5 @@
 ---
 title: FAQ
-sidebar_order: 2
 ---
 Scopul acestei pagini de [WIKI](wiki.evolved.ro) este acela de a diminua intrebarile de pe server ce sunt puse prin chat-ul de ajutor ``/n``, dar si pentru a oferi informatiile esentiale jucatorilor legate de sistemele de pe server.
 
