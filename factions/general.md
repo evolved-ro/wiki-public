@@ -4,24 +4,25 @@ title: General Information
 
 # Informații generale despre facțiuni
 
-Facțiunile disponibile pe server-ul nostru sunt urmatoarele:
+Factiunile disponibile pe server-ul nostru sunt urmatoarele:
 
-| Factiune | Cerințe minime |  Nr. locuri disponibile |
+| Factiune | Cerinte minime |  Nr. locuri disponibile |
 | :-----------: | :-----------: | :-----------: |
 | Los Santos Police Department |  level 10 și 50 de ore | 50 |
 | Federal Bureau of Investigations | level 10 și 50 de ore |  50 |
-| National Guard | level 10 și 50 de ore |  50 |
+| National Army | level 10 și 50 de ore |  50 |
 | Emergency Services Department | level 10 și 50 de ore |  50 |
-| School Instructors | level 10 și 50 de ore | 50 |
+| School Instructors LV | level 10 și 50 de ore | 50 |
 | News Reporters | level 10 și 50 de ore | 50 |
 | Mechanics | level 10 și 50 de ore | 50 |
 | Grove Street | level 7 și 20 de ore  | 20 |
 | Ballas | level 7 și 20 de ore  | 20 |
-| Los Aztecas | level 7 și 20 de ore  | 20 |
+| Los Vagos | level 7 și 20 de ore  | 20 |
 | The Russian Mafia | level 7 și 20 de ore  | 20 |
 | Red Dragon Triads | level 7 și 20 de ore  | 20 |
-| Crips Gang | level 7 și 20 de ore | 20 |
+| Los Aztecas | level 7 și 20 de ore | 20 |
 ---
+
 [//]: # (de completat cu mafii plm si level)
 
 <br />
