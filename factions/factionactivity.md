@@ -16,7 +16,7 @@ Daca faci parte dintr-o factiune, e esential sa stii ca activitatea ta este moni
 
 ---
 
-##  Rank Up in Cadrul Factiunii
+## Rank Up in Cadrul Factiunii
 
 Sistemul de rank-up e simplu si bazat pe loialitate si timp. Promovarea se acorda **automat** dupa ce ai implinit un numar prestabilit de zile ca membru.
 
@@ -32,7 +32,7 @@ Sistemul de rank-up e simplu si bazat pe loialitate si timp. Promovarea se acord
 
 ---
 
-## 🛠️ Rapoarte pe Factiuni: Puncte de Activitate (Activity Points)
+##  Rapoarte pe Factiuni: Puncte de Activitate (Activity Points)
 
 **Punctele de activitate (XP)** reprezinta numarul total de actiuni specifice factiunii care trebuie atinse, pe langa orele jucate.
 
@@ -42,12 +42,12 @@ Sistemul de rank-up e simplu si bazat pe loialitate si timp. Promovarea se acord
 
 ### De exemplu:
 
-Daca esti rank 1 intr-o factiune si ai de completat 1500 **puncte de activitate**: 
+Daca esti rank 1 intr-o factiune si ai de completat 15000 **puncte de activitate**: 
 
-- poti avea 750 puncte de activitate **(XP)** din actiuni efective si 750 puncte de activitate **(XP)** din ore jucate.
-- poti avea 1250 puncte de activitate **(XP)** din actiuni efective si 250 puncte de activitate **(XP)** din ore jucate.
+- poti avea 7500 puncte de activitate **(XP)** din actiuni efective si 7500 puncte de activitate **(XP)** din ore jucate.
+- poti avea 12500 puncte de activitate **(XP)** din actiuni efective si 2500 puncte de activitate **(XP)** din ore jucate.
 
-> [!WARNING] Nu poti obtine mai mult de 50% din numarul total de XP din ore jucate sau, pe cazul de mai sus, mai mult de 750 XP.
+> [!WARNING] Nu poti obtine mai mult de 50% din numarul total de XP din ore jucate sau, pe cazul de mai sus, mai mult de **7500 XP**.
 
 
 
@@ -58,58 +58,58 @@ Daca esti rank 1 intr-o factiune si ai de completat 1500 **puncte de activitate*
 
 | Rank | Puncte Activitate Necesare |
 | :--- | :--- |
-| **1** | 1500 XP |
-| **2** | 1250 XP |
-| **3** | 1000 XP |
-| **4** | 750 XP |
-| **5** | 500 XP |
+| **1** | 15000 XP |
+| **2** | 12500 XP |
+| **3** | 10000 XP |
+| **4** | 7500 XP |
+| **5** | 5000 XP |
 
 
 
 
 ---
 
-##  Police Departments
+## POLICE DEPARTMENTS
 <details>
 <summary>Vezi Punctele de XP pentru Politisti</summary>
 
 | Tip de Actiune | Nivel Wanted | XP Standard | XP Bonus (Daca e singurul in range / arrest) |
 | :--- | :--- | :--- | :--- |
-| **Arestare (Wanted)** | Wanted 1 | 25 XP | 50 XP |
-| **Arestare (Wanted)** | Wanted 2 | 30 XP | 60 XP |
-| **Arestare (Wanted)** | Wanted 3 | 35 XP | 70 XP |
-| **Arestare (Wanted)** | Wanted 4 | 40 XP | 80 XP |
-| **Arestare (Wanted)** | Wanted 5 | 45 XP | 90 XP |
-| **Arestare (Wanted)** | Wanted 6 | 50 XP | 100 XP |
-| **Amenda** | N/A | 40 XP | N/A |
-| **Confiscare Permis** | N/A | 75 XP | N/A |
-| **Confiscare Ambele Licente** | N/A | 150 XP | N/A |
-| **Frisk** | N/A | 30 XP | N/A |
+| **Arestare (Wanted)** | Wanted 1 | 250 XP | 500 XP |
+| **Arestare (Wanted)** | Wanted 2 | 300 XP | 600 XP |
+| **Arestare (Wanted)** | Wanted 3 | 350 XP | 700 XP |
+| **Arestare (Wanted)** | Wanted 4 | 400 XP | 800 XP |
+| **Arestare (Wanted)** | Wanted 5 | 450 XP | 900 XP |
+| **Arestare (Wanted)** | Wanted 6 | 500 XP | 1000 XP |
+| **Amenda** | N/A | 400 XP | N/A |
+| **Confiscare Permis** | N/A | 750 XP | N/A |
+| **Confiscare Ambele Licente** | N/A | 1500 XP | N/A |
+| **Frisk** | N/A | 300 XP | N/A |
 
 </details>
 
 ---
 
-##  ESD
+## ESD
 
 <details>
 <summary>Vezi Punctele de XP pentru ESD</summary>
 
 | Tip de Actiune | XP Acordat | Detalii |
 | :--- | :--- | :--- |
-| **Heal** | 25 XP | XP per jucator vindecat (HEAL) |
-| **Actiune cu Serverul** | 50 XP | XP per actiune speciala (ex: resuscitare/incendiu stins, unde este implicata interactiunea cu serverul) |
+| **Heal** | 250 XP | XP per jucator vindecat (HEAL) |
+| **Actiune cu Serverul** | 500 XP | XP per actiune speciala (ex: resuscitare/incendiu stins, unde este implicata interactiunea cu serverul) |
 
 </details>
 
-##  SCHOOL INSTRUCTORS
+## SCHOOL INSTRUCTORS
 
 <details>
 <summary>Vezi Punctele de XP pentru Instructori</summary>
 
 | Tip de Actiune | XP Acordat |
 | :--- | :--- |
-| **Licenta Acordata** | 75 XP |
+| **Licenta Acordata** | 750 XP |
 
 </details>
 
@@ -122,8 +122,8 @@ Daca esti rank 1 intr-o factiune si ai de completat 1500 **puncte de activitate*
 
 | Tip de Actiune | XP Acordat | Detalii |
 | :--- | :--- | :--- |
-| **Masina Tractata** | 50 XP | XP per masina tractata |
-| **Inspect Vehicle (ITP)** | 125 XP | XP per inspectie tehnica periodica |
+| **Masina Tractata** | 500 XP | XP per masina tractata |
+| **Inspect Vehicle (ITP)** | 1250 XP | XP per inspectie tehnica periodica |
 
 </details>
 
@@ -136,8 +136,8 @@ Daca esti rank 1 intr-o factiune si ai de completat 1500 **puncte de activitate*
 
 | Tip de Actiune | XP Acordat |
 | :--- | :--- |
-| **Ziar** | 8 - 12 XP |
-| **Sesiune de Anunturi Gratuite** | 150 XP |
-| **Anunt Roleplay** | 30 XP |
+| **Ziar** | 80 - 120 XP |
+| **Sesiune de Anunturi Gratuite** | 1500 XP |
+| **Anunt Roleplay** | 300 XP |
 
 </details>
