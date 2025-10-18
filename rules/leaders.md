@@ -98,8 +98,10 @@
 | **Rank Up Sublider** | Membrul are nevoie de minim **60 zile** adunate in acel **tip de factiune** (ex: 60 zile total in Departamentele de Politie). | **LW** si restaurarea rank-ului celui caruia i-a fost acordat rank 6. |
 | **Durata Minima Functie** | **30 zile** (pentru factiunile normale), **15 zile** (pentru mafii) pentru a se demite cu Rank 6. | **LW** (prima abatere), **Uninvite** (a 2-a). |
 | **Sublider Banat** | Se demite pe motivul **"Banned"** si se anunta admin 5+ pentru modificarea FH-ului. | **AV** daca nu a anuntat legat de modificarea FH-ului.|
-| **Schimbare Sublider** | Liderul poate schimba subliderul dupa minim **5 zile**. | **LW** |
+| **Schimbare Sublider** | Liderul poate schimba un sublider o data la minim 30 de zile. | **LW** |
+| **Demitere Sublider** | Liderul nu poate demite un sublider cu rank 6, decat daca acesta a detinut functia mai mult de 14 zile. | **LW + Modificare FH Sublider** |
 * Adminii nu vor ocupa locul unui sublider non-admin; pot exista doi sublideri (un admin si un jucator).
+
 
 ---
 
