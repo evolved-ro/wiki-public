@@ -358,7 +358,6 @@ Exista **3 categorii** de skin-uri valabile pe serverul **Evolved**, dupa cum ur
 | Skin | ID | Tip | Cost |
 | :---: | :---: | :---: | :---: |
 | ![](/public/assets/skins/71.png) | 71 | Unavailable | N/A |
-| ![](/public/assets/skins/74.png) | 74 | Unavailable | N/A |
 | ![](/public/assets/skins/86.png) | 86 | Unavailable | N/A |
 | ![](/public/assets/skins/163.png) | 163 | Unavailable | N/A |
 | ![](/public/assets/skins/164.png) | 164 | Unavailable | N/A |

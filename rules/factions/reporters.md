@@ -127,5 +127,7 @@ Se sanctioneaza cu **Amenda** (valoarea in Regulamentul Intern):
 * `/endlive` - Pentru a opri un interviu (si reporterului trebuie sa i se dea `/endlive`)
 * `/startq` - Pentru a porni intrebarile din public
 * `/stopq` - Pentru a opri intrebarile din public
+* `/liveinvite <id>` - Pentru a invita un player pe live.
 * `/acceptq [iD]` - Pentru a accepta o intrebare din public
 * `/ask <intrebare>` - Pentru cei ce vor sa trimita o intrebare
+* `/getpapers` - Pentru a lua ziarele.

@@ -11,6 +11,10 @@ Proiectul a luat nastere oficial pe data de 4 noiembrie 2024, cand a fost infiin
 
 Serverul nostru combina elementele clasice de **RPG** de pe comunitatea de SA:MP din Romania cu elemente din viata reala, dar **nu** este un server Roleplay. Modul de joc ofera complexitate si autenticitate jucatorilor nostri.
 
+## Cum avansez in nivel?
+
+Pe serverul nostru avansarea in nivel se face pe baza de puncte de experienta. Punctele de experienta **(XP)** se pot obtine completand anumite activitai pe server, ca de exemplu: job-uri, activitate in cadrul factiunilor, minute jucate pe server, etc.
+
 ## Care este cel mai profitabil job de pe server?
 
 Castigul joburilor a fost realizat in asa fel incat, la o ora lucrata, sa se ajunga la acelasi castig indiferent de job-ul practicat.
