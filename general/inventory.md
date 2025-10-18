@@ -20,14 +20,14 @@ Sa luam pe rand fiecare categorie.
 Pentru a echipa sau a dezechipa un item de inventar, singurul lucru pe care trebuie sa il faci este sa apesi **DUBLU-CLICK STANGA** pe iconita obiectului respectiv si, daca dispune de functionalitatea de **EQUIP**, acesta se va comporta ca atare.
 
 <details>
-  <summary>Equip</summary>
-  <img src="/assets/equip.gif" width="100%"/>
+  <summary>Equip</summary>
+  <img src="/public/assets/gifs/equip.gif" width="100%"/>
 </details>
 
 
 <details>
-  <summary>Unequip</summary>
-  <img src="/assets/unequip.gif" width="100%"/>
+  <summary>Unequip</summary>
+  <img src="/public/assets/gifs/unequip.gif" width="100%"/>
 </details>
 
 Aceasta functionalitate este folositoare in cazul itemelor care se pot echipa, cum ar fi: **undita**, **tarnacopul**, **momeala** etc.
@@ -35,8 +35,8 @@ Aceasta functionalitate este folositoare in cazul itemelor care se pot echipa, c
 De altfel, este folositoare in cazul itemelor pe care le poti folosi cum ar fi **drogurile**, **pestii** etc.
 
 <details>
-  <summary>Use</summary>
-  <img src="/assets/use.gif" width="100%"/>
+  <summary>Use</summary>
+  <img src="/public/assets/gifs/use.gif" width="100%"/>
 </details>
 
 ## Move Items
@@ -59,16 +59,16 @@ Pentru a selecta itemul trebuie sa apesi un **SINGUR CLICK STANGA** pe obiectul 
 Dupa ce ai selectat itemul, trebuie sa apesi pe sageata dreapta **>** de pe **mijlocul TEXTDRAW-ului**.
 
 <details>
-  <summary>Move items</summary>
-  <img src="/assets/move.gif" width="100%"/>
+  <summary>Move items</summary>
+  <img src="/public/assets/gifs/move.gif" width="100%"/>
 </details>
 
 > [!TIP]
 > Pentru a muta itemele in inventar inapoi din portbagajul masinii, trebuie sa repetati aceeasi actiune, numai ca de aceasta data veti selecta itemele din portbagajul masinii si veti apasa pe sageata stanga **`<`**.
 
 <details>
-  <summary>Move Back</summary>
-  <img src="/assets/move_back.gif" width="100%"/>
+  <summary>Move Back</summary>
+  <img src="/public/assets/gifs/move_back.gif" width="100%"/>
 </details>
 
 ## Split Items
@@ -80,8 +80,8 @@ A fost introdusa posibilitatea de a imparti itemele intre inventar si portbagaju
 Pentru a selecta numarul de unitati, trebuie mai intai sa **SELECTATI** itemul cu **UN SINGUR CLICK STANGA**, iar, ulterior, sa apasati pe numarul de unitati din stanga jos a ferestrei in care este incadrat obiectul selectat.
 
 <details>
-  <summary>Quantity Move</summary>
-  <img src="/assets/quantity_move.gif" width="100%"/>
+  <summary>Quantity Move</summary>
+  <img src="/public/assets/gifs/quantity_move.gif" width="100%"/>
 </details>
 
 ## Drop Items
@@ -93,8 +93,8 @@ A fost introdusa posibilitatea de a arunca itemele din invetar, practic de a le 
 Pentru a sterge un item din inventar, trebuie mai intai sa **SELECTATI** itemul cu **UN SINGUR CLICK STANGA**, iar, ulterior, sa apasati pe butonul **DROP** de pe mijlocul textdraw-urilor.
 
 <details>
-  <summary>Drop Items</summary>
-  <img src="/assets/drop.gif" width="100%"/>
+  <summary>Drop Items</summary>
+  <img src="/public/assets/gifs/drop.gif" width="100%"/>
 </details>
 
 TBD 
