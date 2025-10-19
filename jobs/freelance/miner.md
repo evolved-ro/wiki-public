@@ -3,59 +3,89 @@ title: Miner
 sidebar_label: Miner
 ---
 
-# Miner
-## Info:
+# ⛏️ Miner (Activititate Miniera)
+## 📌 Info General
 
-Miner-ul este o activitate ce poate fi practicata pe serverul nostru. Nu este un **job**.
+Pe server, mineritul este o **activitate**, nu un job in sensul clasic, dar este esentiala pentru economie!
 
-Locatia **activitatii de Miner** este marcata cu rosu si alb pe harta.
+**Scopul principal:** Sa dinamizeze **piata de resurse** si sa furnizeze materialele de baza pentru **craftarea armelor** si **drogurilor**.
+
+* **Localizare:** Locatia minei este marcata pe harta cu un simbol rosu si alb.
 
 <img src="https://i.imgur.com/pi9rZt5.png" width="60%"/>
 
-Pentru a practica acest job aveti nevoie de un **Pickaxe**, care se poate achizitiona dintr-un business de tip **Miner Store**.
+### Echipament Necesare
 
-Pentru a gasi locatia business-ului de tip **Miner Store**, folositi comanda `/gps` -> `Businesses` -> `Miner Store`.
+Pentru a incepe, ai nevoie de:
 
-Scopul **activitatii de la Miner** este acela de a dinamiza **piata** si de a ajuta la confectionarea **armelor** si **drogurilor**.
+* **Pickaxe (Tarnacop):** Acesta se cumpara dintr-un business de tip **Miner Store**.
+* **Unde gasesti Miner Store:** Foloseste comanda `/gps` -> `Businesses` -> `Miner Store`.
 
-Pentru a folosi **Pickaxe-ul**, apasati tasta **Y** si echipati-l din inventar. Apoi, trebuie sa intrati in cave-ul destinat extragerii de fragmente din mina. Pentru a face acest lucru trebuie sa apasati **Click** in jurul pietrelor din interiorul minei.
+---
+
+## 💎 Extragerea Fragmentelor (Faza 1)
+
+Odata ce ai tarnacopul, poti incepe munca!
+
+1.  **Echipeaza Tarnacopul:** Apasa tasta **Y** si echipeaza **Pickaxe-ul** din inventar.
+2.  **Intra in Mina:** Mergi in pestera destinata extractiei.
+3.  **Sparge Pietrele:** Apasa **Click Stanga** in jurul pietrelor din interiorul minei.
 
 <img src="https://i.imgur.com/xuOTvwW.jpeg" width="60%"/>
 
-Daca nu veti avea noroc pentru a gasi ceva, veti primi un mesaj in chat care arata asa:
+### Feedback in Timpul Muncii
 
-<img src="https://i.imgur.com/pKxU22C.png" width="60%"/>
+* **Fara Noroc (No Loot):** Daca nu gasesti nimic, primesti un mesaj discret in chat.
 
-In schimb, daca aveti norocul sa gasiti ceva, vi se va afisa un textdraw care arata asa:
+    <img src="https://i.imgur.com/pKxU22C.png" width="60%"/>
 
-<img src="https://i.imgur.com/q8OZPlb.png" width="60%"/>
+* **Loot Gasit (Success):** Daca ai noroc, ti se va afisa un textdraw cu pietrele pe care trebuie sa le spargi.
 
-Pentru a primi banii de la activitate, trebuie sa "spargeti" toate pietrele, apasand **Click** pe ele.
-In schimb, daca nu apasati **Click** pe toate, ci doar pe o parte dintre ele, veti primi fragmentele aferente, insa nu si banii.
+    <img src="https://i.imgur.com/q8OZPlb.png" width="60%"/>
 
-Dupa ce ati completat task-ul aferent, veti primi ca obiecte de inventar fragmente in inventar:
+### Colectarea Premiului
+
+Pentru a finaliza *task-ul* de minerit si a primi recompensa, trebuie sa spargi toate pietrele apasand **Click** pe ele.
+
+* **Sparge TOATE pietrele:** Primesti fragmentele **SI banii** aferenti.
+* **Sparge DOAR o parte:** Primesti doar fragmentele, **fara bani**.
+
+Dupa ce ai terminat, fragmentele vor aparea in inventarul tau:
+
 <img src="https://i.imgur.com/ZKOZdDB.png" width="60%"/>
 
-Pentru a transforma aceste obiecte, va trebui sa va deplasati catre locatia de prelucrare. Acest loc este **GLOBAL** pentru toti jucatorii, adica orice actiune pe care o faceti dvs. va fi in corcondanta cu restul jucatorilor care o practica.
+---
 
-Trebuie sa prindeti timing-ul in care statusul Minecart-ului va fi **Process Fragments**:
-<img src="https://i.imgur.com/3jGEge1.png" width="60%"/>
+## ⚙️ Prelucrarea Fragmentelor (Faza 2)
 
-Comanda aferenta pentru a procesa fragmentele este `/process fragments <number>`.
+Dupa ce ai adunat fragmente, trebuie sa le procesezi la locatia de prelucrare.
 
-Dupa ce ati depus fragmentele, trebuie sa asteptati cele 30 de secunde aferente **procesarii acestora**, statusul Minecart-ului se va fi schimba in **Processing Fragments**:
-<img src="https://i.imgur.com/oc6lQCL.png" width="60%"/>
+> [!WARNING]
+> Sistemul de prelucrare a fragmentelor este **GLOBAL**. Asta inseamna ca actiunile tale sunt sincronizate cu ale celorlalti mineri de pe server! Trebuie sa fii rapid!
 
-Dupa cele 30 de secunde aferente asteptarii **procesarii fragmentelor**, aveti 30 de secunde pentru colectarea fragmentelor, folosind comanda `/collect`.
+### Etapele Procesarii
 
-<img src="https://i.imgur.com/aYEaRfK.png" width="60%"/>
+1.  **Depunerea:** Asteapta ca statusul Minecart-ului sa fie **Process Fragments**.
 
-Dupa acest aspect, veti primi in chat rezultatul procesarii dvs. si veti primi itemele in inventar:
+    <img src="https://i.imgur.com/3jGEge.png" width="60%"/>
+
+    * Foloseste comanda: `/process fragments <numarul de fragmente>`
+
+2.  **Procesarea (Asteptare):** Dupa ce ai depus, fragmentele intra in prelucrare timp de **30 de secunde**. Statusul se schimba in **Processing Fragments**.
+
+    <img src="https://i.imgur.com/oc6lQCL.png" width="60%"/>
+
+3.  **Colectarea:** Dupa ce trec cele 30 de secunde de procesare, ai la dispozitie **30 de secunde** pentru a le colecta!
+
+    <img src="https://i.imgur.com/aYEaRfK.png" width="60%"/>
+
+    * Foloseste comanda: `/collect`
+
+### Rezultatul Final
+
+Vei primi un mesaj in chat cu rezultatul procesarii si itemele prelucrate (ex: Metal, Gold etc.) vor intra direct in inventar.
 
 <img src="https://i.imgur.com/vYJRnYh.png" width="60%"/>
 
-> [!WARNING] Daca va deconectati in timpul procesarii fragmentelor, veti pierde fragmentele date spre colectare.
-> [!TIP] Nu va deconectati in timpul procesarii fragmentelor pana la colectarea lor!
-
-
-
+> [!WARNING]
+> **NU te deconecta** in timpul procesarii fragmentelor (intre `/process` si `/collect`)! Vei pierde toate fragmentele depuse.

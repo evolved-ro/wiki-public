@@ -1,52 +1,50 @@
 ---
-title: SGR
+title: SGR Bottles
 sidebar_label: SGR
 ---
 
-# SGR Bottles
-## Info:
+# ♻️ SGR Bottles (Reciclare Sticle)
+## 📌 Info General
 
-Pe server a fost implementata o noua activitate: SGR Bottles.
-Nu este un job, este pur si simplu un side activity pe care il poti practica oricand.
+Pe server am implementat o activitate noua si simpla: **SGR Bottles**. Nu e un job in sine, ci un *side activity* pe care il poti face oricand, in paralel cu alte activitati.
 
-Toate ghenele de gunoi de pe server au fost adaugate si sunt eligibile pentru aceasta activitate.
+* **Eligibilitate:** Toate ghenele de gunoi de pe server (Garbage Bins) sunt acum functionale pentru aceasta activitate.
 
+## 🗑️ Search the Trash (Cauta in Ghena)
 
-## Search the trash
+Cand te afli in fata oricarei ghene, poti folosi o comanda simpla pentru a incerca sa gasesti o sticla.
 
-Cand te afli in fata unei ghene de gunoi, poti folosi comanda **/searchtrash** si exista o mica sansa de a gasi o sticla de reciclat.
+* **Comanda:** **/searchtrash**
+* **Sansa:** Ai o sansa mica, dar reala, de a gasi o sticla de reciclat.
 
 <details>
-  <summary> Garbage Bin  </summary>
+  <summary>Exemplu: Ghena de Gunoi</summary>
 <img src="https://i.imgur.com/6ShGekL.png" width="60%"/>
 </details>
 
+> [!WARNING]
+> * **Spatiu:** Sticlele de reciclat sunt obiecte de inventar si **ocupa spatiu**. Fa-ti loc inainte sa te apuci de adunat!
+> * **Delay Global:** Dupa ce o ghena este "golita" (adica cineva gaseste o sticla in ea), se activeaza un **delay global de 15 minute**. Nimeni nu mai poate cauta la ghena respectiva in acest interval.
 
+## 💵 Recycle the Bottles (Recicleaza Sticlele)
 
->[!WARNING]
-> - **Sticlele de reciclat** sunt obiecte de inventar si ocupa spatiu.
-> - Dupa ce o ghena de gunoi a fost golita de un alt jucator sau de tine, ghena respectiva va avea un **delay global de 15 minute** in care nu se va mai putea cauta.
+Dupa ce ai adunat un numar decent de sticle, e timpul sa le transformi in bani!
 
-## Recycle the bottles
+Centrele de reciclare sunt amplasate in locuri logice, ca in viata reala, de obicei langa magazine (in principal langa 24/7).
 
-Au fost amplasate centre de reciclare ca in viata reala, langa magazine, in principiu langa 24/7.
-
-Locatiile pot fi gasite in GPS:
+* **Locatii GPS:** Poti gasi locatiile de reciclare folosind GPS-ul.
 
 <details>
-  <summary> Locatii GPS  </summary>
+  <summary>Locatii pe GPS</summary>
 <img src="https://i.imgur.com/NcwYjyX.png" width="60%"/>
 </details>
 
-
-
-La aceste centre de reciclare puteti duce sticlele din inventar si sa primiti o suma de bani in schimbul acestora.
+* **Actiune:** Mergi la aceste centre, du sticlele din inventar si vei primi o suma de bani in schimb.
 
 <details>
-  <summary> Centru de reciclare  </summary>
+  <summary>Exemplu: Centrul de Reciclare</summary>
 <img src="https://i.imgur.com/Gi9XSxg.png" width="60%"/>
 </details>
 
->[!TIP]
-> - Pentru a maxima profitul, este recomandat ca acest side activity sa fie realizat in timpul in care lucrati si la alt job. De exemplu: In timpul unei curse de la **Trucker**, puteti opri pentru a da search unui **Garbage Bin**.
-
+> [!TIP]
+> **Maximizeaza Profitul:** E cel mai eficient sa faci aceasta activitate in timp ce lucrezi la un alt job care implica calatoria (ex: **Trucker**). In timpul unei curse, opresti rapid, dai `/searchtrash` la o ghena pe traseu, si apoi pleci mai departe. Doua joburi, profit dublu!

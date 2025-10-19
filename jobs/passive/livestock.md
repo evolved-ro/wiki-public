@@ -3,55 +3,76 @@ title: Livestock
 sidebar_label: Livestock
 ---
 
-# LIVE STOCK - PASSIVE JOB
+# 🐔 LIVE STOCK - PASSIVE JOB (Job Pasiv)
 
-Pe server exista conceptul de **job pasiv**, implementat sub forma de **Live Stock**.
+Pe server am introdus conceptul de **Job Pasiv** sub forma de **Live Stock** (Cresterea Animalelor).
 
-### In ce consta?
+### 💰 In ce Consta?
 
-In cadrul fermei din Los Santos, fermierii iti pun la dispozitie o ferma pe care o poti cumpara si fata de care te poti ocupa pentru a iti genera profit.
+Aceasta este o sursa de profit constant si necesita investitie si intretinere. Poti cumpara o ferma in Los Santos de la fermieri si sa te ocupi de ea.
 
-Ferma se poate achizitiona in schimbul sumei de **$2.000.000**.
+* **Achizitie:** Ferma se poate cumpara cu **$2.000.000**.
 
 <img src="https://i.imgur.com/TyIXfjP.png" width="35%"/>
 
-Dupa ce ai achizitionat ferma, vei primi un mesaj informativ din partea fermierului:
+Dupa achizitie, vei primi un mesaj de confirmare de la fermier:
 
 <img src="https://i.imgur.com/QVl3Rhd.png" width="65%"/>
 
-In cadrul acestei activitati exista 3 comenzi disponibile:
-``/livestock``, ``/feed`` si ``/collect``.
+## 💻 Comenzi si Administrare
 
-Folosind comanda ``/livestock`` iti vor fi afisate animalele pe care le poti procura in cadrul fermei.
+Exista 3 comenzi esentiale pentru a gestiona ferma:
+
+| Comanda | Functie | Detalii |
+| :---: | :--- | :--- |
+| **`/livestock`** | Achizitie Animale | Iti arata lista de animale disponibile pentru cumparare. |
+| **`/feed`** | Hranire | Hranesti animalele cu *Wheat*. |
+| **`/collect`** | Colectare | Colectezi produsele (oua/lapte) pentru a le vinde. |
+
+### Achizitionarea Animalelor (`/livestock`)
+
+Cand folosesti comanda, vei vedea ce animale poti cumpara:
 
 <img src="https://i.imgur.com/A9kUyxi.png" width="35%"/>
 
-> [!WARNING] Nu poti achizitiona vaci pana nu cumperi numarul maxim de gaini disponibile.
+> [!WARNING]
+> Exista o progresie: **Nu poti cumpara Vaci pana cand nu ai cumparat numarul maxim de Gaini disponibil.**
 
-Folosind comanda ``/feed``, oferi de mancare animalelor.
-
-O gaina are nevoie de **0,01 KG wheat** pentru a fi hranita, in timp ce o vaca are nevoie de **0,03 KG wheat** pentru a fi hranita.
-
-### Cum fac rost de wheat?
-
-Poti face rost de **wheat** in cadrul job-ului **Farmer**. Mai multe informatii [AICI](Farmer.md).
-
-Folosi comanda ``/collect``, colectezi ceea ce au produs animalele tale, respectiv **lapte** si **oua**. Acestea pot fi vandute ulterior intr-un business de tip **Restaurant** in schimbul unei sume de bani.
-
-Pretul animalelor creste exponential cu cat cumperi mai multe, dar vor produce si mai mult.
-
-In momentul in care cumperi un animal, vei fi anuntat legat de acest aspect.
+* **Preturi:** Pretul animalelor **creste exponential** pe masura ce cumperi mai multe, dar si productia lor creste.
+* **Notificare:** Dupa ce cumperi un animal, vei primi o notificare:
 
 <img src="https://i.imgur.com/9v9Or7Y.png" width="65%"/>
 
-In label-ul afisat poti vedea cat au produs animalele tale, dar si legat de faptul daca ele sunt **hranite sau nu**.
+### Hranirea Animalelor (`/feed`)
+
+Animalele tale au nevoie de **Wheat** (Grau) pentru a produce:
+
+* **Gaini:** Necesita **0.01 KG wheat** per bucata.
+* **Vaci:** Necesita **0.03 KG wheat** per bucata.
+
+### 🌾 Cum Obtii Wheat?
+
+* **Sursa:** Poti face rost de **Wheat** lucrand la job-ul **Farmer**.
+
+Mai multe informatii [AICI](Farmer.md).
+
+### Colectarea Produselor (`/collect`)
+
+Folosind comanda `/collect`, aduni produsele (oua de la gaini, lapte de la vaci).
+
+* **Vanzare:** Aceste produse pot fi vandute in orice business de tip **Restaurant** pentru a obtine profit.
+
+## 🔔 Monitorizare si Intretinere
+
+In cadrul fermei vei avea un *label* informativ care iti arata statusul productiei si daca animalele sunt hranite:
 
 <img src="https://i.imgur.com/Y3lqEWx.png" width="35%"/>
 
-De altfel, la conectarea pe server vei fi anuntat legat de faptul ca animalele tale sunt infometate.
+### Atentie la Timp!
+
+> [!TIP]
+> **Interval de Hranire:** Animalele trebuie hranite **din 4 in 4 payday-uri**. Daca uiti, nu vor mai produce!
+
+* **Notificare la Logare:** Cand te conectezi pe server, vei fi anuntat imediat daca animalele tale sunt infometate:
 
 <img src="https://i.imgur.com/IzyrasY.png" width="65%"/>
-
-> [!TIP] Animalele trebuie hranite din 4 in 4 payday-uri.
-
-

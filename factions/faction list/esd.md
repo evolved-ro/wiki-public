@@ -2,138 +2,143 @@
 title: Emergency Services
 ---
 
-# Informații generale in legătură cu Emergency System Departments
+# 🆘 Emergency System Departments (ESD)
 
-**Emergency System Departments** de pe server au rolul de a se ocupa cu vindecarea pacientilor, transportarea acestora la spital, cu transportarea celor trecuti in nefiinta la morga si cu incendiile de pe server.
+Sistemul de urgente pe server are rolul de a gestiona toate situatiile critice: vindecarea, transportul pacientilor, preluarea decedatilor si stingerea incendiilor.
 
-Sistemul de Emergency System are 2 ramuri:
-- Paramedici
-- Pompieri
+Sistemul ESD functioneaza pe doua ramuri:
+* **Paramedici (Medics)**
+* **Pompieri (Firefighters)**
 
-Un jucator nu isi poate alege type-ul pe care il va practica in factiune, in schimb, nu pot exista mai multi paramedici online decat pompieri si viceversa.
+### Balansul Echipei (Auto-Selectare Duty)
 
-De exemplu, daca exista 2 paramedici online si doar un pompier online, urmatorul jucator care va folosi comanda ``/duty``, va fi dat automat **DUTY** ca pompier.
+Jucatorii **nu-si pot alege** tipul de duty (Paramedic sau Pompier) la logare. Sistemul mentine un balans perfect intre cele doua roluri:
 
-- daca exista un numar egal de paramedici / pompieri online, va fi ales random un status catre urmatorul jucator.
+1.  **Diferenta de Numar:** Daca sunt mai multi paramedici online decat pompieri (ex: 2 Paramedici, 1 Pompier), urmatorul jucator care foloseste comanda **/duty** va fi dat automat **Pompier**.
+2.  **Numar Egal:** Daca numarul de Paramedici si Pompieri este egal, sistemul alege **random** ce status primeste urmatorul jucator.
 
-Paramedicii din factiunea **ESD** au ca scop efectuarea unor misiune date de server, dar si acordarea de heal jucatorilor in schimbul unei sume de bani.
+---
 
-Acordarea de heal jucatorilor se poate face prin comanda ``/heal id``, cand jucatorul este in ambulanta.
+# 🚑 PARAMEDIC ACTIVITIES
 
-In rest, misiunile de pe server sunt urmatoarele:
-- Hospital Transport
-- Pedestrian Death
-- Medical Assistance.
+Paramedicii au misiuni date de server si pot oferi *heal* direct jucatorilor.
 
-Pentru a accesa misiunile, trebuie sa folositi comanda ``/missions`` cand sunteti in cadrul unui vehicul de factiune.
+* **Heal Direct:** Poti vindeca jucatorii folosind comanda **/heal id** cand pacientul se afla in ambulanta ta.
 
-La generarea unei misiuni de acest tip, va aparea o notificare pe chat de genul:
- <img src="https://i.imgur.com/5v07XDh.png" width="60%"/>
+### Accesarea Misiunilor
 
- # PARAMEDIC ACTIVITIES
+* **Comanda:** Foloseste comanda **/missions** cand esti intr-un vehicul de factiune (Ambulanta/Echipaj) pentru a vedea misiunile disponibile.
+* **Notificare:** Cand se genereaza o misiune, primesti o notificare pe chat:
 
-## Medical Assistance
+<img src="https://i.imgur.com/5v07XDh.png" width="60%"/>
 
-In cadrul acestei misiuni, paramedicul trebuie sa se deplaseze la checkpoint-ul amplasat pe minimap, iar acolo va dispune de 2 comenzi: ``/healpatient`` si ``/checkpatient``.
+## 1. Medical Assistance (Asistenta Medicala)
 
-Trebuie folosita intai comanda ``/checkpatient`` pentru a verifica de ce afectiune sufera pacientul:
+Aici trebuie sa tratezi un pacient cu o anumita afectiune.
 
-
-<details>
-  <summary> Check Patient </summary>
-  <img src="https://i.imgur.com/eaAiuEP.png" width="60%"/>
-  </details>
-
-Ulterior, trebuie folosita comanda ``/healpatient`` pentru a ii acorda medicatia potrivita afectiunii sale.
-
+1.  **Deplasare:** Mergi la checkpoint-ul de pe minimap.
+2.  **Verificare:** Foloseste comanda **/checkpatient** ca sa vezi de ce sufera pacientul.
 
 <details>
-  <summary> Heal Patient </summary>
-  <img src="https://i.imgur.com/TTh7lWY.png" width="60%"/>
-  </details>
+  <summary>Check Patient</summary>
+  <img src="https://i.imgur.com/eaAiuEP.png" width="60%"/>
+  </details>
 
-Daca pacientului nu i se va acorda medicatia potrivita, un mesaj de tip **FAIL** va fi afisat pe chat-ul factiunii.
-
-## Pedestrian Death
-
-In cadrul acestei misiuni, paramedicul trebuie sa stabileasca decesul cetateanului, sa il bage intr-un sac mortuar, in ambulanta, iar ulterior sa il transporte la morga din Los Santos.
-
+3.  **Tratament:** Foloseste comanda **/healpatient** pentru a-i acorda medicatia potrivita afectiunii.
 
 <details>
-  <summary> Cetatean Decedat </summary>
-  <img src="https://i.imgur.com/3nklohd.png" width="60%"/>
-  </details>
+  <summary>Heal Patient</summary>
+  <img src="https://i.imgur.com/TTh7lWY.png" width="60%"/>
+  </details>
 
-Paramedicii trebuie sa apese tasta **H** pentru a baga decedatul intr-un sac mortuar si apoi, sa apese **H** in spatele ambulantei pentru a il pune in spate.
+> [!WARNING]
+> Daca nu ii acorzi medicatia corecta, misiunea va fi marcata cu **FAIL** pe chat-ul factiunii!
 
-<details>
-  <summary> Sac Mortuar </summary>
-  <img src="https://i.imgur.com/B97iB5p.png" width="60%"/>
-  </details>
+## 2. Pedestrian Death (Deces Cetatean)
 
-Dupa acest aspect, va trebui sa transporte decedatul la morga, pentru a il lasa acolo.
+Aceasta misiune te transforma in *coroner* (medicul legist).
 
-> [TIP] Aceasta misiune se poate genera si in momentul in care un jucator moare pe server. Sansa este influentata de paramedicii **ON-DUTY ONLINE.**
-
-<details>
-  <summary> Morga din Los Santos </summary>
-  <img src="https://i.imgur.com/keMyTnJ.png" width="60%"/>
-  </details>
-
-## Hospital Transport
-
-In cadrul acestei misiuni, paramedicul trebuie sa se duca la pacient, sa il urce in ambulanta si, ulterior, sa il transporte in **timp util** la spital.
+1.  **Constatare:** Mergi la cetateanul decedat.
+2.  **Sac Mortuar:** Apasa tasta **H** pentru a-l baga in sacul mortuar.
 
 <details>
-  <summary> Transport </summary>
-  <img src="https://i.imgur.com/E0kGghE.png" width="60%"/>
-  </details>
+  <summary>Cetatean Decedat</summary>
+  <img src="https://i.imgur.com/3nklohd.png" width="60%"/>
+  </details>
 
-> [!WARNING] In cadrul **tuturor** acestor misiuni, paramedicul trebuie sa rezolve urgenta in timp util, pentru ca sunt presati de un **timer**.
+3.  **Incarcare:** Mergi in spatele ambulantei si apasa din nou tasta **H** pentru a-l pune la bord.
+
+<details>
+  <summary>Sac Mortuar</summary>
+  <img src="https://i.imgur.com/B97iB5p.png" width="60%"/>
+  </details>
+
+4.  **Transport:** Du decedatul la morga din Los Santos pentru a finaliza misiunea.
+
+<details>
+  <summary>Morga din Los Santos</summary>
+  <img src="https://i.imgur.com/keMyTnJ.png" width="60%"/>
+  </details>
+
+> [!TIP]
+> Aceasta misiune se poate genera si atunci cand un jucator moare pe server, in functie de numarul de Paramedici **ON-DUTY ONLINE**.
+
+## 3. Hospital Transport (Transport Spital)
+
+O misiune clasica de urgenta.
+
+1.  **Preluare:** Du-te la pacient, urca-l in ambulanta.
+2.  **Transport Rapid:** Du-l la spital in **timp util**.
+
+<details>
+  <summary>Transport</summary>
+  <img src="https://i.imgur.com/E0kGghE.png" width="60%"/>
+  </details>
+
+> [!WARNING]
+> Toate misiunile au un **timer**! Trebuie sa rezolvi urgenta rapid, altfel iei FAIL.
 
 <img src="https://i.imgur.com/G4bcs6r.png" width="60%"/>
 
+---
 
-# FIREFIGHTER ACTIVITIES
+# 🚒 FIREFIGHTER ACTIVITIES
 
-## Building on-fire
+Pompierii se ocupa cu stingerea incendiilor in timp util, fie ca sunt cladiri sau vehicule.
 
-In cadrul acestei misiuni, pompierul are misiunea de a stinge incendiul in timp util.
+## 1. Building on-fire (Cladire in Flacari)
 
-Pompierul trebuie sa se deplaseze la eveniment in timp util si sa stinga incendiul - fie din masina, fie de jos, cu extinctorul.
+* **Misiune:** Deplaseaza-te la eveniment in timp util.
+* **Stingere:** Stinge incendiul fie din masina (tunul cu apa), fie de la sol cu extinctorul.
+* **Fail:** Daca nu stingi incendiul **in timp util**, vei lua **FAIL**.
 
-Daca pompierul se opreste din a da cu apa, masina isi va regenera HP-ul.
-Daca incendiul nu se stinge **in timp util**, pompierul va lua **FAIL**.  
+> [!NOTE]
+> Cand te opresti din a da cu apa, masina ta de pompieri isi va **regenera HP-ul**.
 
-Cam asa arata momentul unui **FAIL**, pentru ca nu am prezentat niciunul pana acum.
+## 2. Vehicle on-fire (Masina in Flacari)
 
-<details>
-  <summary> FAIL </summary>
-  <img src="https://i.imgur.com/D6PY1Fo.png" width="60%"/>
-  </details>
+Dupa ce o masina explodeaza pe server, exista o sansa ca in acel loc sa se genereze o misiune de tip **Vehicle on-fire**.
 
-
-
-
-## Vehicle on-fire
-
-In momentul in care o masina explodeaza pe server, exista o sansa ca, in locul in care aceasta masina a explodat sa se genereze un eveniment de tip **Vehicle on-fire**.
 <img src="https://i.imgur.com/qI1Da0Z.png" width="60%"/>
 
-Pompierul trebuie sa se deplaseze la eveniment in timp util si sa stinga incendiul - fie din masina, fie de jos, cu extinctorul.
+* **Misiune:** Deplaseaza-te la masina in flacari in timp util.
+* **Stingere:** Stinge incendiul fie din masina, fie de la sol cu extinctorul.
 
 <details>
-  <summary> Masina in flacari </summary>
-  <img src="https://i.imgur.com/uKi7jSL.png" width="60%"/>
-  </details>
+  <summary>Masina in flacari</summary>
+  <img src="https://i.imgur.com/uKi7jSL.png" width="60%"/>
+  </details>
 
-Daca pompierul se opreste din a da cu apa, masina isi va regenera HP-ul.
-Daca incendiul nu se stinge **in timp util**, pompierul va lua **FAIL**.  
+* **Fail:** Daca incendiul nu este stins **in timp util**, vei primi **FAIL**.
 
+> [!NOTE]
+> Ca si la cladiri, daca te opresti din a da cu apa, masina isi **regenereaza HP-ul**.
 
+### Exemplu de FAIL
 
+Asa arata momentul in care ai esuat in stingerea incendiului sau rezolvarea urgentei:
 
-
-
-
-
+<details>
+  <summary>FAIL</summary>
+  <img src="https://i.imgur.com/D6PY1Fo.png" width="60%"/>
+  </details>

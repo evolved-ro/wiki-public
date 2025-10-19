@@ -1,34 +1,55 @@
-# Trucker System
-## Info:
+# 🚚 Trucker System (Sistemul de Tirist)
+## 📌 Info General
 
-**Sistemul de truck** a fost gandit in asa fel incat sa fie cat mai diversificat posibil, adica sa nu faci aceeasi cursa la infinit pe aceeasi ruta.
-Acesta este legat de sistemul de **Wanted** de pe server, pentru a **genera misiuni pentru politisti**.
+Sistemul de Truck a fost regandit complet pentru a fi cat mai **diversificat** si pentru a te scoate din monotonia curselor pe aceeasi ruta.
 
-Astfel, am introdus urmatoarele:
+De asemenea, acest job este direct legat de sistemul de **Wanted** pentru a **genera activitate pentru politisti**.
 
-- trailer-ul se va atasa automat, nu trebuie sa apasati pe nicio tasta;
-- curse care expira dupa un timp;
-- **trucker licence** pentru a conduce **legal** un tir;
-- curse ilegale;
+**Imbunatatiri Cheie:**
 
-## Trucker Licence for Truckers
+* Trailerul se ataseaza **automat** (nu trebuie sa apesi nicio tasta).
+* Cursele au un timp de expirare (*Expiring Rides*).
+* Ai nevoie de **Trucker Licence** pentru a fi 100% in siguranta.
+* Am introdus **Curse Ilegale** pentru un castig mare (si riscant!).
 
-A fost introdusa o **noua categorie de permis** pe server.
-- Jucatorii care lucreaza la job-ul **Trucker** vor avea nevoie de ea pentru a practica acest job **legal**.
-Poti practica job-ul si fara acest tip de permis de conducere, insa **exista o sansa de 20%** de a primi wanted la finalizarea cursei.
+---
 
-- Jucatorii care lucreaza la job-ul **Trucker** si nu detin un permis de conducere, dar trec pe langa camerele radar amplasate pe autostrada sunt pasibili de a primi wanted automat. (10% pentru fiecare camera radar)
+## 🛑 Trucker Licence (Permisul de Tirist)
 
-## Illegal Rides for Truckers
+Am introdus o **noua categorie de permis** speciala pentru tiristi.
 
-Au fost introduse **curse ilegale**.
-- Cursele ilegale avea un castig semnifiticativ ridicat fata de cursele legale, insa exista o sansa de 20% de a primi wanted la finalizarea cursei.
+### De Ce Ai Nevoie de El?
 
-- In timpul unei curse ilegale, daca treci pe langa o camera radar amplasata pe autostrada, esti pasibil de a primi wanted automat pentru marfa ilegala. (10% pentru fiecare camera radar)
-## Dynamic Trucker Locations
+* Jucatorii care lucreaza ca Trucker au nevoie de el pentru a practica job-ul **LEGAL**.
+* **Fara Permis:** Poti sa lucrezi si fara el, dar ai o sansa de **20%** sa primesti wanted la finalizarea fiecarei curse.
 
-Dupa finalizarea unei curse Trucker, checkpoint-ul pentru urmatoarea locatie va fi generat in functie de cel mai apropiat depozit de unde puteti lua incarcatura.
+### Atentie la Radar!
 
-## Expiring Rides
+* Daca nu detii permisul si treci pe langa camerele radar statice (intre 20:00 si 00:00), esti pasibil sa primesti wanted automat, chiar daca nu faci o cursa ilegala.
+* **Risc:** Ai **10%** sansa de a primi wanted pentru fiecare camera radar pe langa care treci.
 
-Pentru a dinamiza job-ul **Trucker** si a reduce monotonia de a face aceleasi rute la **infinit**, fiecare cursa are un timp de expirare, deci de fiecare data vor fi curse diferite.
+## 💰 Illegal Rides (Cursele Ilegale)
+
+Vrei sa faci bani multi? Incearca cursele ilegale, dar fii pregatit sa-ti asumi riscuri mari!
+
+### Riscuri vs. Recompense
+
+* **Castig:** Cursele ilegale au un castig **semnificativ mai ridicat** decat cele legale.
+* **Wanted la Finalizare:** Ai o sansa de **20%** sa primesti wanted la finalizarea cursei, indiferent daca te-a vazut cineva sau nu.
+
+### Radar si Marfa Ilegala
+
+* In timpul unei curse ilegale, daca treci pe langa o camera radar (in intervalul 20:00 - 00:00), esti pasibil sa primesti wanted **automat pentru marfa ilegala**.
+* **Risc:** Ai **10%** sansa de a primi wanted pentru fiecare camera radar.
+
+## 🔄 Dynamic & Expiring Rides (Curse Dinamice)
+
+Am redus drastic monotonia job-ului prin doua mecanici:
+
+### Dynamic Trucker Locations
+
+Dupa ce ai finalizat o cursa, jocul iti va genera automat checkpoint-ul pentru urmatoarea incarcatura bazat pe **cel mai apropiat depozit** disponibil. Nu te trimitem mereu in aceleasi doua locuri!
+
+### Expiring Rides
+
+Fiecare cursa pe care o primesti are un **timp de expirare**. Daca nu o finalizezi la timp, cursa dispare si primesti o alta ruta. Asta garanteaza ca vei avea **mereu rute diferite** si ca nu vei repeta aceeasi cursa la infinit.

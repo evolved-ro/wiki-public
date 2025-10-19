@@ -1,58 +1,84 @@
-# Billboards
-## Info:
+# 📰 Billboards (Panouri Publicitare)
+## 📌 Info General
 
-Sistemul de **Billboards** este conceput din pancarte publicitare pe care le poate inchiria sau cumpara orice jucator de pe server.
+Sistemul de **Billboards** (panouri publicitare) a fost conceput ca o oportunitate de business in-game. Orice jucator poate **inchiria** sau **cumpara** aceste panouri.
 
-Ideea de baza este faptul ca un **Billboard** de pe serverul **Evolved** este catalogat drept business, deci orice jucator poate detine unul.
+* **Concept:** Fiecare Billboard este catalogat ca **business** pe serverul **Evolved**, deci poate fi detinut de jucatori.
 
-Asa arata un **billboard**:
+Asa arata un Billboard in joc:
 
 <img src="https://i.imgur.com/0EWPXYN.png" width="60%" />
 
-Meniul unui **billboard** dispune de urmatoarele optiuni:
+### Meniul Principal (Al Oricarui Jucator)
+
+Cand te apropii de un panou, ai urmatoarele optiuni:
 
 <img src="https://i.imgur.com/lz1x3BB.png" width="60%" />
 
-> [!TIP] Font Size-ul se ajusteaza automat, nu trebuie sa va chinuiti sa incadrati un text sau sa il formatati dvs.
+| Optiune | Actiune | Aprobare Admin? |
+| :--- | :--- | :--- |
+| **Font Color** | Schimba culoarea textului. | NU |
+| **Background Color** | Schimba culoarea de fundal. | NU |
+| **Edit Text** | Schimba textul afisat. | DA (Este necesara aprobarea unui administrator.) |
 
-Optiunea **Font Color** permite schimbarea culorii de pe **Billboard**, fara a fi necesara aprobarea unui administrator.
+> [!TIP]
+> **Formatare Simplificata:** Nu trebuie sa te chinui cu incadrarea textului! Font Size-ul (Dimensiunea Fontului) se ajusteaza automat.
 
-Optiunea **Background Color** permite schimbarea culorii fundalului de pe un **Billboard**, fara a fi necesara aprobarea unui administrator.
+### Schimbarea Textului
 
-Optiunea **Edit Text** permite schimbarea textului, insa pentru acest lucru va fi nevoie de aprobarea unui administrator.
+Cand incerci sa editezi textul, primesti o notificare despre procesul de aprobare:
 
 <img src="https://i.imgur.com/hHrIfAT.png" width="60%" />
 
-> [!WARNING] Nu incercati sa schimbati textul Billboard-ului intr-unul vulgar, pentru ca riscati sa fiti sanctionati de catre un administrator.
+> [!WARNING]
+> Fii cu bagare de seama la ce scrii! Nu incerca sa schimbi textul Billboard-ului intr-unul vulgar sau nepotrivit, deoarece risti sa fii sanctionat de catre un administrator.
 
-Un player poate detine mai multe billboard-uri, nu doar unul singur, insa nu poate indisponibiliza un billboard.
+### Reguli de Proprietate si Inchirieri
 
-De altfel, un jucator **NU** isi poate inchiria propriul Billboard pentru el insusi.
+* Un jucator poate detine **mai multe** Billboard-uri.
+* Un jucator **NU** isi poate inchiria propriul Billboard lui insusi.
+* Un jucator **nu poate indisponibiliza** un Billboard (adica sa-l scoata de la inchiriere/vanzare permanent).
 
 <img src="https://i.imgur.com/DM97SQy.png" width="60%" />
 
-Un label va fi afisat jos, la stalpul Billboard-ului, legat de cine il detine si de cine este inchiriat in prealabil, dar si pana cand este inchiriat.
+### Eticheta Informativa
 
+La baza stalpului Billboard-ului este afisat un label care iti ofera detalii cheie:
+
+* Cine il detine.
+* Cine l-a inchiriat (daca este cazul).
+* Pana cand este inchiriat.
 
 <img src="https://i.imgur.com/mylGQv5.png" width="60%" />
 
-## Meniu Billboard Owner
+---
 
-Daca detineti un billboard si doriti sa folositi meniul acestuia pentru a gestiona diferite activitati, trebuie sa folositi comanda ``/billboards``.
+## 💼 Meniu Billboard Owner
+
+Daca esti proprietar de Billboard, poti folosi un meniu de gestionare dedicat.
+
+* **Comanda:** Foloseste comanda **/billboards** de oriunde.
+
+Vei vedea o lista cu toate panourile pe care le detii:
 
 <img src="https://i.imgur.com/U9MIQKC.png" width="60%" />
 
-Apasand pe Billboard-ul pe care doriti sa il gestionati, va fi afisat urmatorul meniu:
+Apasand pe Billboard-ul pe care doresti sa il gestionezi, se deschide meniul de proprietar:
 
 <img src="https://i.imgur.com/Zh89gHD.png" width="60%" />
 
-Din acest meniu puteti: **seta un checkpoint catre billboard-ul detinut de dvs**, **retrage bani din safe-ul acstuia**, **seta pretul de vanzare al unui billboard**.
+### Optiuni Proprietar
 
-> [!WARNING] Pentru a retrage bani din safe-ul unui billboard, trebuie sa va aflati langa acesta.
+Din acest meniu poti:
+* **Seta un Checkpoint:** Te trimite direct catre locatia Billboard-ului.
+* **Retrage Banii:** Scoti banii din seiful business-ului.
+* **Seta Pretul de Vanzare:** Pui Billboard-ul la vanzare.
 
-Puteti pune Billboard-ul la vanzare direct din meniul acestuia, accesand **Set sell price**.
+> [!WARNING]
+> Pentru a **retrage bani** din seif, trebuie sa te afli fizic langa Billboard-ul respectiv!
+
+### Vanzarea Billboard-ului
+
+Poti pune Billboard-ul la vanzare direct din meniul de gestionare, accesand **Set sell price**:
 
 <img src="https://i.imgur.com/gwk6zFp.png" width="60%" />
-
-
-

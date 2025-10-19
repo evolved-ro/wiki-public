@@ -1,18 +1,39 @@
-# Static Radar System
+Absolut\! Iată documentația pentru sistemul de **Radare Statice**, rescrisă fără diacritice, cu un ton direct și formatată în Markdown:
 
-Pe server este activ un sistem de radare statice, ce sunt amplaste pe zonele importante de pe autostrada.
 
-Scopul acestui sistem este acela de a genera wanted pentru politistii de pe server si, in acelasi timp, de a fluidiza circulatia pe autostrada, pentru a evita foarte mult accidente cauzate din cauza vitezei.
+# ⚡ Static Radar System (Sistemul de Radare Statice)
 
-**Radarele** sunt active pe autostrada doar intre orele de trafic maxim, adica intre orele **20:00 si 00:00**.
+## 🎯 Scop si Amplasare
 
-Acestea sunt semnalizate pe minimap cu urmatoarea iconita: <img src="https://i.imgur.com/IK9Kdih.png" width="2%" height="20%"/>
+Pe server am activat un sistem de radare statice, amplasate strategic pe portiunile importante de pe autostrada.
 
-Asa arata momentul in care esti surprins de o camera radar:
+**Scopul principal:**
+
+1.  Sa fluidizeze traficul si sa reduca numarul de accidente cauzate de viteza excesiva.
+2.  Sa genereze *wanted* pentru politisti, oferindu-le activitate.
+
+### Orarul de Functionare
+
+Radarele nu sunt active non-stop, ci doar in perioadele de trafic intens:
+
+* **Ore de Activare:** Intre **20:00 si 00:00** (trafic maxim in-game).
+
+### Semnalizare
+
+Radarele active sunt semnalizate pe minimap cu o iconita distinctiva:
+
+* **Iconita pe Minimap:** <img src="https://i.imgur.com/IK9Kdih.png" width="2%"/>
+
+## 📸 Cum Functioneaza
+
+In momentul in care treci cu o viteza ilegala printr-o zona supravegheata de radar, acesta te "surprinde" si iti aloca automat wanted.
+
+**Ce se intampla cand esti prins:**
+
+* Vei primi automat **wanted** pentru speeding.
+* Pe ecran va aparea o notificare vizuala care arata momentul in care camera radar te-a inregistrat.
 
 <img src="https://i.imgur.com/9p2qtsV.gif" width="60%"/>
 
-In momentul in care esti surprins de o camera radar, vei primi automat **wanted** pentru speeding.
-
-
-
+> [!WARNING]
+> Respecta limita de viteza pe autostrada in intervalul mentionat! Daca esti prins, *wanted*-ul tau va fi imediat vizibil pentru fortele de ordine.

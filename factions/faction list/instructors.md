@@ -1,106 +1,123 @@
-# Informații generale in legătură cu School Instructors
+# 🎓 School Instructors (Instructori Auto/Licente)
+## 📌 Info General
 
-**School Instructors** se ocupa cu oferirea licentelor in urma unui test pentru o suma de bani. 
+**School Instructors** se ocupa cu oferirea tuturor tipurilor de licente pe server. Rolul vostru este sa testati jucatorii si sa le acordati permisele necesare, contra unei sume de bani.
 
 ---
 
-## Tipurile de licente
+## 📋 Tipurile de Licente
 
 Pe server sunt valabile 5 tipuri de licente:
-- Driver Licence
-- Truck Licence
-- Gun Licence
-- Plane Licence
-- Boat Licence
 
-## Comenzile factiunii
+* Driver Licence (Permis Auto)
+* Truck Licence (Permis Tir)
+* Gun Licence (Permis Arma)
+* Plane Licence (Permis Avion)
+* Boat Licence (Permis Barca)
 
-Comenzile factiunii **School Instructors** sunt urmatoarele:
-- `/startexam`
-- `/givelicence (numarul de ore)`
-- `/stopexam`
+## 💻 Comenzile Factiunii
 
+Comenzile esentiale pentru a sustine un examen sunt:
 
-Locatiile pentru sustinerea licentei se pot gasii in comanda `/gps`
+* **/startexam**: Incepe examenul.
+* **/givelicence (numarul de ore)**: Acorda licenta (pentru un numar specific de ore de suspendare, daca e cazul).
+* **/stopexam**: Opreste examenul (anulare/finalizare).
+
+### Locatiile de Examen
+
+Poti gasi toate zonele de examinare in GPS:
+
+1.  Foloseste comanda **/gps** -> `Other`
+2.  Apoi click pe **Exam Locations**
 
 <details>
-  <summary> /gps -> Other si click pe Exam Locations</summary>
+  <summary>/gps -> Other si click pe Exam Locations</summary>
 <img src="https://i.imgur.com/pEzVeCA.jpeg" width="60%"/>
 </details>
 
-Dupa care vor fi vizibile toate zonele de examinare pentru a o alege pe cea dorita
+Toate zonele disponibile vor fi vizibile pe harta:
 
 <details>
-  <summary> Poza cu locatiile din /gps </summary>
+  <summary>Locatiile de examen vizibile in /gps</summary>
 <img src="https://i.imgur.com/8i5ZeCb.jpeg" width="60%"/>
 </details>
 
-## Informatii generale pentru licente/instructori
+---
 
-Ordinea comenzilor obligatorie pentru sustinerea licentelor este aceeasi ca in sectiunea de comenzi ale factiunii.
-- In cazul in care instructorul opreste examinarea inainte de a oferi licenta, testul trebuie reluat si banii vor fi restituiti.
+## 📜 Reguli si Raspundere
 
-Fiecare instructor trebuie sa pastreze dovezile video in calculator pentru cel putin 48h de cand a fost sustinut testul de licenta.
-- In urma oricarei licente, verificatorul de teste/liderul sau coliderul iti poate cere dovada licentei. Instructorul este obligat sa urce dovada in urmatoarele 30 de minute sau risca sa fie sanctionat.
+### Fluxul Examenului
 
-Fraudarea raportului se sanctioneaza cu Uninvite pe loc, 150 Faction Punish si interdictie in tipul de factiune pentru o perioada de 6 luni
+* Ordinea comenzilor obligatorii este **`/startexam` $\rightarrow$ `Examen` $\rightarrow$ `/givelicence` sau `/stopexam`**.
+* **Anulare:** Daca instructorul opreste examinarea (`/stopexam`) inainte de a acorda licenta, testul trebuie reluat integral, dar banii se **restituie** jucatorului.
 
-## Informatii referitoare la licenta de gun
-Prima oara si instructorul si playerul trebuie sa se afle in zona poligonului de tragere.
+### Dovezile Video (Obligatoriu)
+
+* Fiecare instructor este obligat sa pastreze dovezile video ale testului in calculator pentru cel putin **48 de ore**.
+* **Solicitare Dovada:** Liderul/Co-liderul sau verificatorul de teste iti poate cere dovada oricarei licente acordate. Esti obligat sa o uploadezi in urmatoarele **30 de minute**. Nerespectarea duce la sanctiuni!
+* **Frauda:** Fraudarea raportului (sau a dovezilor) se sanctioneaza sever: **Uninvite pe loc**, 150 Faction Punish si interdictie in factiunile de acest tip pentru **6 luni**.
+
+---
+
+## 🎯 Detalii pe Tip de Licenta
+
+### Gun Licence (Permis Arma)
+
+1.  **Locatie:** Instructorul si jucatorul trebuie sa fie in zona **poligonului de tragere**.
+2.  **Test:** Playerul trebuie sa nimereasca un numar de tinte.
 
 <details>
-  <summary> Pentru a primi licenta de gun, playerul trebuie sa nimereasca cateva tinte la poligonul de tragere </summary>
+  <summary>Tinte la Poligon</summary>
 <img src="https://i.imgur.com/YQqpkGy.jpeg" width="60%"/>
 </details>
 
-Dupa ce tintele au fost eliminate instructorul poate oferi licenta de gun folosind comanda `/givelicence <10-50>`
+3.  **Finalizare:** Dupa ce tintele sunt eliminate, poti acorda licenta: **/givelicence <10-50>** (unde *10-50* reprezinta numarul de gloante pe care playerul le poate cumpara pe zi).
+4.  **Iesire:** Foloseste **/stopexam**.
 
-Pentru iesirea din examen se foloseste comanda `/stopexam`
+### Boat Licence (Permis Barca)
 
-## Informatii referitoare la licenta de boat
-
-Prima oara si instructorul si playerul trebuie sa se afle in zona de licenta pentru boat
+1.  **Locatie:** Instructorul si playerul trebuie sa fie in zona speciala de licenta pentru barca.
+2.  **Test:** Playerul trebuie sa conduca barca trecand prin toate **checkpoint-urile de lemn**.
 
 <details>
-  <summary> Pentru a primi licenta de boat, playerul trebuie sa conduca barca trecand prin checkpoint-urile de lemn </summary>
+  <summary>Traseu Barca</summary>
 <img src="https://i.imgur.com/Y489aBq.jpeg" width="60%"/>
 </details>
 
+* **Monitorizare:** Progresul (checkpoint-urile completate) se actualizeaza in timp real.
+
 <details>
-  <summary> In timp real se actualizeaza cu checkpoint-urile completate </summary>
+  <summary>Progres Checkpoint-uri</summary>
 <img src="https://i.imgur.com/HO1QSkG.jpeg" width="60%"/>
 </details>
 
-- Odata trecut prin toate checkpoint-urile, instructorul poate acorda licenta si opri testul. 
+3.  **Finalizare:** Dupa ce toate checkpoint-urile sunt trecute, poti acorda licenta si opri testul.
 
+### Plane Licence (Permis Avion)
 
-## Informatii referitoare la licenta de plane
-
-Prima oara si instructorul si playerul trebuie sa se afle in zona de licenta pentru plane
+1.  **Locatie:** Instructorul si playerul trebuie sa fie in zona de licenta pentru avion.
+2.  **Test:** Playerul trebuie sa dirijeze avionul trecand prin toate **checkpoint-urile rosii** din aer.
 
 <details>
-  <summary> Pentru a primi licenta de plane, playerul trebuie sa dirijeze avionul trecand prin checkpoint-urile rosii </summary>
+  <summary>Traseu Avion</summary>
 <img src="https://i.imgur.com/eV0mhAM.jpeg" width="60%"/>
 </details>
 
+* **Monitorizare:** Progresul se actualizeaza in timp real.
+
 <details>
-  <summary> In timp real se actualizeaza cu checkpoint-urile completate </summary>
+  <summary>Progres Checkpoint-uri</summary>
 <img src="https://i.imgur.com/HO1QSkG.jpeg" width="60%"/>
 </details>
 
+### Driver Licence (Permis Auto)
 
-## Informatii referitoare la licenta de driving
-
-Instructorul trebuie sa dea `/startexam` in parcarea factiunii School Instructors
-
+1.  **Start Examen:** Instructorul trebuie sa dea **/startexam** in parcarea factiunii School Instructors.
 
 <details>
-  <summary>Locatie /startexam pentru Driving </summary>
+  <summary>Locatie /startexam pentru Driving</summary>
 <img src="https://i.imgur.com/3fUCHB3.jpeg" width="60%"/>
 </details>
 
-
-Odata pornit examenul, instructorul va indruma playerul catre cel mai apropiat vehicul disponibil si vor porni examenul.
-
-Odata urcati in vehicul instructorul trebuie sa indrume playerul ce traseu sa ia pentru a sustine examenul.
-
+2.  **Traseu:** Odata pornit examenul, instructorul ghideaza playerul catre cel mai apropiat vehicul disponibil.
+3.  **Indrumare:** Dupa ce urcati in masina, instructorul trebuie sa indrume verbal playerul ce traseu sa urmeze pentru sustinerea examenului.

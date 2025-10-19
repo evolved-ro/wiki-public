@@ -1,29 +1,30 @@
----
-title: Skin System
----
+# 🎭 Skin System (Sistemul de Haine)
 
-# Skin System
-## Info:
+## 📌 Info General
 
-**Skin-urile** se pot obtine pe server **muncind la job-ul Hunter**, achizitionand de la alti jucatori materialele necesare care se procura de la **job-ul Hunter** sau prin achizitionarea acestora cu **Puncte Premium**. 
+Pe **Evolved**, ai 3 moduri principale de a-ti schimba look-ul: muncesti, cumperi de la alti jucatori sau folosesti Puncte Premium.
 
-Detalii privind job-ul Hunter: [HUNTER JOB](url)
+Obtinerea materialelor (Leather) necesare pentru craftare se face in principal prin **job-ul Hunter**.
 
-Detalii privind achizitionarea skin-urilor cu Puncte Premium: [SHOP](url)
-
-### Categorii de skin-uri:
-
-Exista **3 categorii** de skin-uri valabile pe serverul **Evolved**, dupa cum urmeaza:
+* Detalii despre job-ul Hunter: [HUNTER JOB](url)
+* Detalii despre achizitionarea cu Puncte Premium (Diamonds): [SHOP](url)
 
 ---
 
-## 1. Starter Skins
+## 🔝 Cele 3 Categorii de Skin-uri
 
-- **Starter Skin-urile** sunt acele skin-uri pe care orice jucator le are in "garderoba" sa la inceputul acestuia pe server, fara a fi nevoit sa le achizitioneze. Acestea pot fi selectate din **Clothing Store**.
-- De altfel, la inregistrarea contului pe server, un **skin random** dintre acestea va fi atribuit fiecarui jucator.
+Sistemul nostru imparte toate skin-urile disponibile in trei categorii clare: Starter, Standard si Evolved.
+
+### 1. Starter Skins 👶
+
+Acestea sunt skin-urile de baza, pe care **orice jucator le are in garderoba de la inceput** fara sa plateasca.
+
+* **Accesare:** Le poti selecta oricand din **Clothing Store** (Magazinul de Haine).
+* **Alocare:** La inregistrarea contului, primesti un **skin random** din aceasta lista.
+* **Pret in Lista:** $1.000.000 (doar pentru vizualizare, deoarece le ai deja).
 
 <details>
-<summary>Starter Skins ID si Detalii</summary>
+<summary>Lista completa de Starter Skins</summary>
 
 ## Lista de Starter Skins
 
@@ -86,14 +87,15 @@ Exista **3 categorii** de skin-uri valabile pe serverul **Evolved**, dupa cum ur
 
 ---
 
-## 2. Standard Skins
+### 2. Standard Skins ✨
 
-- **Standard Skin-urile** sunt skin-uri de baza pe care orice jucator le poate confectiona sau cumpara.
-- Acestea se pot achizitiona in cadrul business-ului de tip **Clothing Store**.
-- Cost (Craftare): **500 Leather + $5.000.000**
+Acestea sunt haine de baza pe care orice jucator le poate obtine prin munca in-game.
+
+* **Accesare:** Le poti confectiona (crafta) sau le poti cumpara din **Clothing Store**.
+* **Cost (Craftare):** **500 Leather + $5.000.000**
 
 <details>
-<summary> Standard Skins ID si Detalii </summary>
+<summary>Lista completa de Standard Skins</summary>
 
 ## Lista de Standard Skins
 
@@ -295,13 +297,18 @@ Exista **3 categorii** de skin-uri valabile pe serverul **Evolved**, dupa cum ur
 
 ---
 
-## 3. Evolved Skins
+### 3. Evolved Skins 💎 (Premium / Rare)
 
-- **Evolved Skin-urile** sunt acele skin-uri pe care orice jucator le poate achizitiona in 2 feluri diferite: fie confectionandu-le in joc cu ajutorul itemelor obtinute de la **Hunter** si bani in joc, fie cu **puncte premium**.
-- Cost (Craftare / Cumparare): **2500 Leather + $20.000.000** sau **250 Diamonds**
+Acestea sunt skin-urile de top, cele mai valoroase, si pot fi obtinute in doua feluri:
+
+1.  **Craftare:** Folosesti resurse (Leather) obtinute de la job-ul Hunter + bani in joc.
+2.  **Cumparare:** Folosesti Puncte Premium (Diamonds) din Shop.
+
+* **Cost (Craftare):** **2500 Leather + $20.000.000**
+* **Cost (Cumparare):** **250 Diamonds**
 
 <details>
-<summary> Evolved Skins ID si Detalii </summary>
+<summary>Lista completa de Evolved Skins</summary>
 
 ## Lista de Evolved Skins
 
@@ -344,14 +351,13 @@ Exista **3 categorii** de skin-uri valabile pe serverul **Evolved**, dupa cum ur
 
 ---
 
-## Restrictii si Beneficii
+## 🚫 Restrictii si Egalitate
 
->[!WARNING]
-> Exista anumite skin-uri care nu pot fi cumparate / craftate, deoarece sunt skin-uri de factiune sau sunt invalide in-game.
-
+> [!WARNING]
+> **Skin-uri Indisponibile:** Exista anumite skin-uri in joc care sunt rezervate (de exemplu, **skin-uri de factiune** sau skin-uri invalide in joc). Acestea nu pot fi cumparate sau craftate.
 
 <details>
-<summary> Unavailable Skins ID si Detalii </summary>
+<summary>Lista de Unavailable Skins (ID-uri Blocate)</summary>
 
 ## Lista de Unavailable Skins
 
@@ -397,7 +403,7 @@ Exista **3 categorii** de skin-uri valabile pe serverul **Evolved**, dupa cum ur
 
 </details>
 
- Skin-urile **nu ofera niciun beneficiu**, sunt strict estetice. Nu dorim sa oferim o concurenta neloiala jucatorilor care aleg sa nu doneze pe server in detrimentul jucatorilor care o fac.
+> [!TIP]
+> **Skin-urile NU ofera niciun beneficiu** in joc. Sunt pur estetice. Nu vrem sa existe *Pay-to-Win* (P2W) sau concurenta neloiala intre jucatorii care aleg sa doneze si cei care nu o fac.
 
->[!TIP]
-> Pentru a vizualiza toate skin-urile din joc, apasa [aici](https://open.mp/ro/docs/scripting/resources/skins)
+Daca vrei sa vezi toate skin-urile posibile din SA:MP, poti folosi link-ul de referinta: [Aici gasesti lista tuturor skin-urilor](https://open.mp/ro/docs/scripting/resources/skins).

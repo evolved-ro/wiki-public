@@ -1,52 +1,78 @@
-# Informații generale in legătură cu News Reporters
+# 🎤 News Reporters (Reporteri)
+## 📌 Info General
 
- **News Reporters** se ocupa cu acordarea mai multor anunturi, printre care: anunturile roleplay, gratuite, si promovare. De asemenea, se ocupa cu acordarea interviurilor **LIVE**, dar si cu livrarea ziarelor la casele **cetatenilor** regiunii **San Andreas**.
+Factiunea **News Reporters** (Reporteri de Stiri) se ocupa cu toata partea de comunicare si media a serverului.
 
- HQ-ul factiunii News Reporters se afla in **Los Santos**, aproape de CNN.
+**Activități Principale:**
+* Acordarea de anunturi (*roleplay*, gratuite, promovari).
+* Sustinerea de interviuri **LIVE**.
+* Livrarea ziarelor la casele **cetatenilor** din San Andreas.
 
-La fel ca si factiunea **ESD**, si factiunea **News Reporters** dispune de activitati extra cu serverul, cum ar fi livrarea de ziare.
+### Locatie HQ
 
-In cadrul HQ-ului **News Reporters** se poate gasi un depozit unde se pot strange maxim 100 de ziare, iar un reporter poate lua pentru fiecare tura 10 ziare in posesia sa pentru a le livra la 10 case diferite.
+* HQ-ul factiunii News Reporters se afla in **Los Santos**, foarte aproape de CNN.
+
+---
+
+## 📰 Livrarea Ziarelor (Activitate Extra)
+
+Reporterii au o activitate suplimentara care implica livrarea de ziare, similara cu un job.
+
+### Depozitul de Ziare
+
+* In cadrul HQ-ului exista un depozit unde se pot strange maxim **100 de ziare**.
+* **Capacitate:** Un reporter poate lua **10 ziare** pe tura pentru a le livra la 10 case diferite.
 
 <details>
-  <summary> Depozit Ziare </summary>
+  <summary>Depozit Ziare</summary>
 <img src="https://i.imgur.com/B7snXN2.png" width="60%"/>
 </details>
 
-La fiecare casa, reporter-ul va fi instiintat cate ziare mai are de livrat in continuare.
+### Progres
+
+* Pe masura ce livrezi ziare, vei primi o instiintare clara care te anunta cate mai ai de livrat in tura respectiva.
 
 <details>
-  <summary> Instiintare </summary>
+  <summary>Instiintare Progres</summary>
 <img src="https://i.imgur.com/fcH1Mma.png" width="60%"/>
 </details>
 
-Cum arata un News:
+---
+
+## 📢 Anunturi si LIVE-uri
+
+### News-ul Clasic
+
+Asa arata un anunt tipic (News) transmis de reporteri:
 
 <details>
-  <summary> News </summary>
+  <summary>Exemplu News</summary>
 <img src="https://i.imgur.com/BCbb2IW.png" width="60%"/>
 </details>
 
-Cum arata chat-ul Live:
+### Chat-ul Live (Interviuri)
+
+In timpul unui interviu LIVE, conversatia este afisata intr-un chat dedicat, separat:
+
 <details>
-  <summary> Live </summary>
+  <summary>Exemplu Chat Live</summary>
 <img src="https://i.imgur.com/pBIj8Ti.png" width="60%"/>
 </details>
 
-In momentul in care reporter-ul foloseste comanda ``/startq``, va aparea un mesaj global care va instiinta toti jucatorii online.
+### Gestionarea Intrebarilor LIVE
+
+1.  **Start Interviu:** Cand reporterul foloseste comanda **/startq**, un mesaj global anunta toti jucatorii online ca pot incepe sa trimita intrebari.
+
 <details>
-  <summary> Live Start Question Announcement </summary>
+  <summary>Anunt Start Interviu</summary>
 <img src="https://i.imgur.com/qUa9d9m.png" width="60%"/>
 </details>
 
-Reporterii pot accepta o intrebare folosind comanda ``/acceptq <id>``.
+2.  **Lista Intrebari:** Intrebarile trimise de jucatori sunt listate intr-un dialog.
 
 <details>
-  <summary> Live Questions </summary>
+  <summary>Lista Intrebari Primite</summary>
 <img src="https://i.imgur.com/xUZGw3d.png" width="60%"/>
 </details>
 
-
-
-
-
+3.  **Acceptare Intrebare:** Reporterii pot alege ce intrebare accepta in LIVE folosind comanda: **/acceptq <id>**.

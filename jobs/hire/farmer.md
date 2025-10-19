@@ -1,39 +1,61 @@
-# Farmer Job
-## Info:
+---
+title: Farmer Job
+sidebar_label: Farmer
+---
 
-Pe server a fost implementat job-ul de Farmer.
-Acesta este alcatuit din **4 task-uri diferite**.
+# 🚜 Farmer Job (Fermier)
+## 📌 Info General
 
-Fiecare task va avea sansa de a oferi jucatorului un tip de **seminte** la finalizarea acestuia, ce vor putea fi folosite pentru sistemul de droguri de pe server.
+Pe server a fost implementat job-ul de Farmer, o activitate complexa alcatuita din **4 task-uri diferite**.
 
-Mai multe detalii despre job-ul pasiv de la Farmer care ajuta la fabricarea drogurilor: [PASSIVE JOB](url)
+### Recompensa
 
-Mai multe detalii despre sistemul de droguri de pe server: [DRUGS SYSTEM](url)
+* **Seminte:** La finalizarea fiecarui task, ai sansa sa primesti un tip de **seminte** (Seeds) in inventar. Aceste seminte sunt cruciale pentru sistemul de droguri de pe server.
 
-Pentru acest job a fost implementat si un **GUI** interactiv ce ofera informatii legate de cum trebuie sa se execute fiecare task in parte pentru a putea fi completat cu succes.
+Mai multe detalii despre job-ul pasiv care te ajuta sa fabrici droguri: [PASSIVE JOB](url)
+Mai multe detalii despre sistemul de droguri: [DRUGS SYSTEM](url)
+
+### Interfata
+
+Job-ul utilizeaza o interfata (GUI) interactiva care iti ofera toate informatiile necesare pentru a executa si completa cu succes fiecare task.
 
 <details>
-  <summary> Interfata GUI Farmer </summary>
+  <summary>Interfata GUI Farmer</summary>
 <img src="https://i.imgur.com/XSfEFRC.png" width="60%"/>
 </details>
 
-## Feed the animals
+---
 
-- jucatorul trebuie sa hraneasca animalele;
-- dupa colectarea fanului, jucatorul trebuie sa hraneasca un numar de animale care ii este afisat in GUI-ul din dreapta, dar sa si respecte numarul animalului respectiv. 
+## 📋 Cele 4 Task-uri Principale
 
-**info - pentru a diminua numarul jucatorilor care s-ar folosi de un route-recording avansat pentru a completa task-ul, am renuntat la a pune checkpoint-uri si am ales varianta de a genera random numarul animalului. Desigur, asta nu impiedica jucatorii din a folosi diferite "elemente ajutatoare" pentru a le facilita completarea mai rapida a job-ului.**
+### 1. Feed the Animals (Hraneste Animalele)
 
-## Plow the field 
+Acesta este un task de logistica si atentie.
 
-- jucatorul trebuie sa are terenul timp de 120 de secunde **[daca se va observa o discrepanta majora intre acest task si restul task-urilor in materie de timp, acesta va fi micsorat]**
+* **Cum Functioneaza:** Dupa ce ai colectat fanul necesar, trebuie sa hranesti un numar specific de animale.
+* **Criteriu de Succes:** Trebuie sa respecti atat **numarul total** de animale, cat si **numarul individual** al animalului pe care GUI-ul ti-l cere (ex: "Hraneste Animalul #4").
 
-## Mow the lawn
+> [!TIP]
+> **Mentinerea Dificultatii:** Am ales sa generam **random** numarul animalului pe care trebuie sa-l hranesti pentru a impiedica jucatorii sa foloseasca scripturi de tip *route-recording* si pentru a pastra un nivel de *challenge*.
 
-- jucatorul trebuie sa tunda gazonul timp de 60 secunde
-- jucatorul trebuie sa mentina o **viteza cuprinsa intre 5 si 20 km/h**, in caz contrar timpul nu se va contoriza. 
+### 2. Plow the Field (Ara Terenul)
 
-## Collect the hay
+Un task care necesita rabdare la volanul tractorului!
 
-- jucatorul trebuie sa colecteze fanul de pe parcela cu o combina.
-- jucatorul trebuie sa mentina o viteza de maximum 20 km/h.
+* **Durata:** Trebuie sa ari terenul timp de **120 de secunde** continuu.
+
+> [!NOTE]
+> *Daca se va observa ca acest task dureaza mult mai mult decat celelalte, timpul va fi ajustat in jos.*
+
+### 3. Mow the Lawn (Tunde Gazonul)
+
+Tunde gazonul si fii atent la vitezometru!
+
+* **Durata:** Jucatorul trebuie sa tunda gazonul timp de **60 de secunde**.
+* **Criteriu de Succes:** Timpul se contorizeaza **DOAR** daca mentii o viteza constanta, cuprinsa intre **5 si 20 km/h**. Daca depasesti sau mergi prea incet, contorul se opreste.
+
+### 4. Collect the Hay (Colecteaza Fanul)
+
+Colectarea fanului cu o combina.
+
+* **Criteriu de Succes:** Jucatorul trebuie sa mentina o viteza de **maximum 20 km/h** in timp ce colecteaza pe parcela. Viteza redusa asigura o colectare eficienta!

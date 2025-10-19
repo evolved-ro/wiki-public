@@ -1,33 +1,38 @@
-# Sewer
-## Info:
+# 🐀 Sewer (Canalizare) - Locatia Ascunsa
 
-Pe serverul nostru exista un mapping special care vrea sa simuleze un loc realizat pentru **oamenii strazii**, dar in care se practica si lucruri ilegale.
+## 🗺️ Info Despre Locatie
 
-Acest loc se poate gasi folosind comanda `/gps` -> `Other` -> **`Sewer`**.
+Pe serverul nostru, am creat un loc special, *custom-mapped*, care simuleaza un fel de adapost pentru **oamenii strazii**, dar care e folosit si pentru activitati... **ilegale**. Practic, e centrul lumii interlope din oras!
+
+* **Unde e:** Locatia exacta se afla langa HQ-ul factiunii **Los Santos Police Department**, dar nu e vizibila pe harta. E considerata o **locatie ascunsa**.
+* **Cum o Gasesti:** Foloseste comanda `/gps` -> `Other` -> **`Sewer`**.
 
 <img src="https://i.imgur.com/acLreoO.png" width="60%"/>
 
-Locatia se afla langa HQ-ul factiunii **Los Santos Police Department**, dar nu este semnalizata pe harta. Poate fi considerata a fi **o locatie ascunsa**.
+## 🏭 Utilitatile Sewer-ului
 
-Aceasta locatie are mai multe intrebuintari, printre care:
-- fabricarea de arme.
-- fabricarea drogurilor.
+Acest loc e vital pentru orice jucator care vrea sa se ocupe cu "business-uri" mai obscure. Principalele utilizari sunt:
 
-## Fabricarea de arme
+* **Fabricarea de Arme (Gun Crafting)**
+* **Fabricarea de Droguri (Drug Crafting)**
 
-Aceasta se poate face in una dintre incaperile Sewer-ului.
+### Fabricarea de Arme
+
+Ai o incapere speciala in Sewer unde poti transforma materia prima in arme gata de folosit.
 
 <img src="https://i.imgur.com/YnmcyDa.jpeg" width="60%"/>
 
-Puteti vedea mai multe despre **fabricarea armelor** aici: [GUN CRAFTING SYSTEM](url)
+> Poti afla mai multe despre cum functioneaza tot procesul aici: [GUN CRAFTING SYSTEM](url)
 
-## Fabricarea de droguri
+### Fabricarea de Droguri
 
-Aceasta se poate face intr-o alta caera dintre incaperile Sewer-ului.
+Intr-o alta incapere, poti prepara diverse tipuri de droguri, in functie de ingredientele pe care le aduni.
 
 <img src="https://i.imgur.com/nyDadLm.jpeg" width="60%"/>
 
-Puteti vedea mai multe despre **fabricarea drogurilor** aici: [DRUGS CRAFTING SYSTEM](url)
+> Poti afla mai multe despre cum functioneaza tot procesul aici: [DRUGS CRAFTING SYSTEM](url)
 
->[!TIP]
-Daca ai evadat din inchisoare si ai wanted pentru **escape**, in momentul in care te vei afla in interiorul **Sewer-ului**, timpul va scadea mult mai rapid.
+### ⏳ Bonus: Scaderea Wanted-ului
+
+> [!TIP]
+> Daca tocmai ai evadat din inchisoare si ai primit wanted pentru **escape**, Sewer-ul iti poate salva pielea! Cand te afli in interiorul Sewer-ului, timpul de asteptare pentru a scapa de wanted-ul de evadare va **scadea mult mai rapid**. Un loc perfect sa te ascunzi de politie!

@@ -1,72 +1,74 @@
-# Informații generale in legătură cu Departamentele de Poliție
+# 👮 Police Departments (Departamente de Politie)
+## 📌 Info General
 
-**Departamentele de Poliție** de pe server au rolul de a se ocupa cu prinderea infractorilor și cu circulația.
+Departamentele de Politie de pe server au doua roluri cheie: sa se ocupe cu **prinderea infractorilor** (wanted) si sa mentina **circulatia** in parametri legali.
 
 ---
-## Meniul Politistului
+## 💻 Cop Menu (Meniul Politistului)
 
-**Cop Menu** este un sistem ce a fost implementat pe server pentru a usura munca politistului.
-Acesta se poate activa din interiorul masinii de politie, folosnid comanda `/copmenu`.
+**Cop Menu** este un sistem implementat pentru a simplifica munca politistului si a face actiunile mai rapide.
 
-Acesta are 3 functii:
-- Equip Radar
-- Lookup Player
-- Lookup Carplate
+* **Activare:** Foloseste comanda **/copmenu** din interiorul masinii de politie.
+
+Meniul are 3 functii principale:
+
+1.  **Equip Radar** (Echipeaza Radarul)
+2.  **Lookup Player** (Verificare Jucator)
+3.  **Lookup Carplate** (Verificare Numar Inmatriculare)
 
 <details>
-  <summary> Interfata Cop Menu </summary>
+  <summary>Interfata Cop Menu</summary>
 <img src="https://i.imgur.com/mzOqXAo.png" width="60%"/>
 </details>
 
+---
 
+## 📡 Sistemul de Radar
 
-## Sistemul de radar
+Poti folosi un radar portabil pentru a prinde vitezomanii in trafic.
+
+* **Cum Obtii Radarul:** Foloseste comanda **/copmenu** in interiorul dubei de politie (Police Van).
+* **Limitare:** Radarul se poate obtine **numai din duba de politie** si este disponibil **un singur radar per masina**.
 
 <details>
-  <summary> Interfata radar</summary>
+  <summary>Interfata Radar</summary>
 <img src="https://i.imgur.com/iM6UvGk.jpeg" width="60%"/>
 </details>
 
-> [!TIP]
-> Pentru a face rost de radar, foloseste comanda `/copmenu` in interiorul dubei de politie.
+<details>
+  <summary>Duba de politie</summary>
+  <img src="https://i.imgur.com/z3iorIA.png" width="60%"/>
+  </details>
 
-> [!WARNING]
-> Radarul se poate obtine numai din duba de politie si este disponibil unul singur / masina.
+---
+
+## 🔍 Lookup Player (Verificare Jucator)
+
+Acest sistem elimina complet *Non-RP-ul* care se intampla cand politistii incearca sa confiste o licenta.
+
+### Functionalitate
+
+Sistemul **memoreaza si afiseaza informatiile** despre ultimul jucator pe care l-ai somat (i-ai dat /su sau /tazer etc.). Informatiile raman vizibile timp de **5 minute** de la ultima somatie.
+
+Meniul *Lookup Player* dispune de 2 functii vitale:
+
+1.  **View Traffic History** (Istoricul de Trafic)
+2.  **Suspend Licence(s)** (Suspenda Permisul)
 
 <details>
-  <summary> Duba de politie </summary>
-  <img src="https://i.imgur.com/z3iorIA.png" width="60%"/>
-  </details>
+  <summary>Interfata Lookup Player</summary>
+  <img src="https://i.imgur.com/LsHguI1.png" width="60%"/>
+  </details>
 
+### View Traffic History
 
-## Sistemul de Lookup Player
+* Afiseaza toate datele relevante despre jucator: cand i-a fost suspendat permisul ultima data, ce amenzi a primit, si istoricul de trafic.
 
-**Lookup Player** este un sistem ce a fost plementat pe server pentru a scapa de **NON-RP-ul** care se practica in incercarea de a confisca licenta unui jucator.
+### Suspend Licence(s)
 
-Sistemul **retine si afiseaza informatii** despre ultimul jucator somat de politist, timp de 5 minute de la ultima somatie aplicata jucatorului in cauza.
-
-Acesta dispune la randul sau de 2 functii:
-- View Traffic History
-- Suspend Licence(s) 
+* Aceasta functie iti permite sa suspenzi permisul de conducere al unui jucator (sau alte licente), chiar daca acesta se **deconecteaza** (este **OFFLINE**)!
 
 <details>
-  <summary> Interfata Lookup Player </summary>
-  <img src="https://i.imgur.com/LsHguI1.png" width="60%"/>
-  </details>
-
-
- **View Traffic History** afiseaza datele despre jucatorul in cauza, cand i-a fost suspendat permisul utima data, ce amenzi a primit etc.
-
- **Suspend Licence(s)** iti permite sa suspenzi licenta unui jucator, chiar daca acesta este **OFFLINE**.
-
-  <details>
-  <summary> Interfata Suspend Licence </summary>
-  <img src="https://i.imgur.com/q8Ue1FH.png" width="60%"/>
-  </details>
-
-
-
-
-
-
-  
+  <summary>Interfata Suspend Licence</summary>
+  <img src="https://i.imgur.com/q8Ue1FH.png" width="60%"/>
+  </details>
