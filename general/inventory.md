@@ -1,100 +1,101 @@
-# Inventory & Vehicle Trunk
+# 📦 Inventory & Vehicle Trunk System (Evolved)
 
-Sistemul de inventar de pe comunitatea **Evolved** este probabil cel mai complex sistem de inventar care a existat vreodata pe vreun server de SA:MP din Romania.
+Sistemul de inventar de pe comunitatea **Evolved** e probabil cel mai complex lucru vazut pe un server de SA:MP din Romania. L-am facut sa fie super user-friendly, dar in acelasi timp sa ofere o experienta de joc cat mai *high-quality*.
 
-Acest sistem de inventar imbina la un loc mai mult sisteme si are ca scop sporirea calitatii jocului si a experientei jucatorilor.
+Inventarul tau personal si portbagajul masinii (Trunk) sunt conectate, ca sa poti face toata logistica mult mai usor.
 
-## Ce utilitati are inventarul?
+## 🛠️ Cum Interactionezi cu Itemele
 
-Inventarul dispune de urmatoarele utilitati:
-- **Equip / Unequip Items** -> de exemplu: poti echipa / dezechipa undita, tarnacopul etc.
-- **Use Items**  -> de exemplu: poti manca un peste, poti folosi drogurile, etc.
-- **Drop Items** -> poti renunta la un item din inventar pentru a crea spatiu.
-- **Move Items** -> poti muta itemele in portbagajul masinii direct din inventar.
-- **Split Items** -> iti poti desparti itemele in 2 parti diferite.
+Aici ai un rezumat rapid cu actiunile principale pe care le poti face. E foarte simplu, se bazeaza pe Click/Dublu-Click.
 
-Sa luam pe rand fiecare categorie.
+| Ce Vrei sa Faci? | Descriere | Actiunea Cheie |
+| :--- | :--- | :--- |
+| **Equip / Unequip** | Pune pe tine sau da jos o unealta / un accesoriu (Ex: undita, tarnacop). | **DUBLU-CLICK STANGA** |
+| **Use (Consuma)** | Foloseste imediat un item (Ex: mananca un peste, foloseste droguri). | **DUBLU-CLICK STANGA** |
+| **Drop** | Sterge itemul din inventar definitiv (fara recuperare). | **CLICK STANGA** (Selectare) + Click pe **DROP**. |
+| **Transfer Total** | Muta iteme intregi intre Inventar $\leftrightarrow$ Portbagaj. | **CLICK STANGA** (Selectare) + Click pe **Sagetile** (`<` sau `>`). |
+| **Split (Cantitate)** | Muta sau Sterge doar o parte dintr-un stack de iteme. | **CLICK STANGA** (Selectare) + Click pe **Numarul de Unitati**. |
 
-## Equip / Unequip Items / Use Items
+***
 
-Pentru a echipa sau a dezechipa un item de inventar, singurul lucru pe care trebuie sa il faci este sa apesi **DUBLU-CLICK STANGA** pe iconita obiectului respectiv si, daca dispune de functionalitatea de **EQUIP**, acesta se va comporta ca atare.
+## 🖱️ Detalii Actiuni de Baza
+
+### Equip / Unequip & Use Items
+
+Pur si simplu apesi **DUBLU-CLICK STANGA** pe item. Sistemul e destept si stie daca e o unealta de echipat sau un item de consumat.
 
 <details>
-  <summary>Equip</summary>
-  <img src="/public/assets/gifs/equip.gif" width="100%"/>
+  <summary>Exemplu: Echipare & Consum (Equip & Use)</summary>
+  Echipeaza o unealta, sau foloseste un consumabil. Simplu!
+  <img src="/public/assets/gifs/equip_use.gif" width="100%"/>
 </details>
 
+### Split Items (Divizarea Itemelor)
+
+Vrei sa muti doar 10 bucati de metal, nu tot stack-ul? Poti.
+
+1.  **Selecteaza:** Da **CLICK STANGA** pe itemul stivuit.
+2.  **Ajusteaza Cantitatea:** Da **CLICK** pe **numarul de unitati** din stanga jos.
+3.  **Muta/Sterge:** Acum poti folosi **Move** sau **Drop** si se va aplica doar pe cantitatea aleasa.
 
 <details>
-  <summary>Unequip</summary>
-  <img src="/public/assets/gifs/unequip.gif" width="100%"/>
-</details>
-
-Aceasta functionalitate este folositoare in cazul itemelor care se pot echipa, cum ar fi: **undita**, **tarnacopul**, **momeala** etc.
-
-De altfel, este folositoare in cazul itemelor pe care le poti folosi cum ar fi **drogurile**, **pestii** etc.
-
-<details>
-  <summary>Use</summary>
-  <img src="/public/assets/gifs/use.gif" width="100%"/>
-</details>
-
-## Move Items
-
-Dupa cum am mentionat in introducere, sistemul de inventar combina mai multe sisteme. Unul dintre aceste sisteme este cel de **trunk**. Poti accesa doar trunk-ul unei **MASINI PERSONALE**.
-
-- Cum accesezi trunk-ul unei masini?
-
-Pentru a accesa trunk-ul unei masini este de ajuns sa pozitionezi in spatele masinii personale.
-
-- Cum selectez itemele din inventar?
-
-Pentru a selecta itemul trebuie sa apesi un **SINGUR CLICK STANGA** pe obiectul dorit pentru a completa actiunea.
-
-> [!WARNING]
-> Poti selecta maxim 12 obiecte in acelasi timp.
-
-- Cum mut itemele in portbagajul masinii?
-
-Dupa ce ai selectat itemul, trebuie sa apesi pe sageata dreapta **>** de pe **mijlocul TEXTDRAW-ului**.
-
-<details>
-  <summary>Move items</summary>
-  <img src="/public/assets/gifs/move.gif" width="100%"/>
-</details>
-
-> [!TIP]
-> Pentru a muta itemele in inventar inapoi din portbagajul masinii, trebuie sa repetati aceeasi actiune, numai ca de aceasta data veti selecta itemele din portbagajul masinii si veti apasa pe sageata stanga **`<`**.
-
-<details>
-  <summary>Move Back</summary>
-  <img src="/public/assets/gifs/move_back.gif" width="100%"/>
-</details>
-
-## Split Items
-
-A fost introdusa posibilitatea de a imparti itemele intre inventar si portbagajul masinii.
-
-- Cum selectez numarul de unitati?
-
-Pentru a selecta numarul de unitati, trebuie mai intai sa **SELECTATI** itemul cu **UN SINGUR CLICK STANGA**, iar, ulterior, sa apasati pe numarul de unitati din stanga jos a ferestrei in care este incadrat obiectul selectat.
-
-<details>
-  <summary>Quantity Move</summary>
+  <summary>Exemplu: Mutare Cantitate Specifica</summary>
+  Muta exact numarul de iteme de care ai nevoie.
   <img src="/public/assets/gifs/quantity_move.gif" width="100%"/>
 </details>
 
-## Drop Items
+***
 
-A fost introdusa posibilitatea de a arunca itemele din invetar, practic de a le sterge.
+## 🚗 Transfer Inventar $\leftrightarrow$ Portbagaj (Trunk)
 
-- Cum sterg itemele din inventar?
+### Cum Accesezi Portbagajul
 
-Pentru a sterge un item din inventar, trebuie mai intai sa **SELECTATI** itemul cu **UN SINGUR CLICK STANGA**, iar, ulterior, sa apasati pe butonul **DROP** de pe mijlocul textdraw-urilor.
+* **Regula:** Poti accesa doar portbagajul **Masinilor Personale** (ale tale).
+* **Actiune:** Stai in **spatele masinii personale** si deschide inventarul. Panoul **TRUNK** apare automat.
+
+### Cum Muti Itemele
+
+1.  **Selecteaza Itemul:** Da **SINGUR CLICK STANGA** pe itemele pe care vrei sa le transferi.
+    * *Nota:* Poti selecta maxim **12 iteme** deodata.
+2.  **Muta:** Apasa **sageata dreapta (`>`)** pentru a muta in Portbagaj, sau **sageata stanga (`<`)** pentru a muta inapoi in Inventar.
+
+> [!TIP]
+> **Super Rapid:** Daca vrei sa transferi un item IMEDIAT, fara sa mai dai select si apoi pe sageata, tine apasat **SHIFT + CLICK STANGA** pe item. Se muta pe loc!
 
 <details>
-  <summary>Drop Items</summary>
-  <img src="/public/assets/gifs/drop.gif" width="100%"/>
+  <summary>Exemplu: Mutare Item (Move)</summary>
+  Transferul itemelor selectate in portbagaj.
+  <img src="/public/assets/gifs/move.gif" width="100%"/>
 </details>
 
-TBD 
+***
+
+## ✨ Extra Functii (QoL - Quality of Life)
+
+### 🔍 Sortare si Cautare
+
+Ai prea multe iteme si nu mai gasesti nimic? Foloseste functiile de sortare si cautare:
+
+* **Sortare:** Filtreaza itemele dupa **Nume (A-Z)**, **Cantitate (Qty)**, **Tip (Category)** sau **Data Adaugarii (Newest)**.
+* **Cauta:** Tasteaza direct ce vrei sa gasesti in casuta de **Search**.
+
+### 🔗 Item Linking (Conectare Item)
+
+Asta e un *feature* avansat pentru cei care farmeaza mult. Poti conecta momeala la undita!
+
+* **Cum:** Tine apasat **CTRL + DUBLU-CLICK STANGA** pe un item consumabil (ex: Momeala).
+* **Efect:** De fiecare data cand folosesti unealta principala (Undita), consumabilul conectat va fi folosit automat din inventar. Scapi de o grija!
+
+### 🗑️ Drop Items (Stergere Definitiva)
+
+Itemele care doar iti ocupa spatiu pot fi sterse.
+
+1.  **Selecteaza:** **SINGUR CLICK STANGA** pe item.
+2.  **Confirma:** Apasa butonul **DROP** din mijloc.
+    * **ATENTIE!** Odata sters, itemul a disparut pentru totdeauna. Fii sigur!
+
+<details>
+  <summary>Exemplu: Drop Items</summary>
+  Stergerea itemelor selectate.
+  <img src="/public/assets/gifs/drop.gif" width="100%"/>
+</details>
