@@ -27,7 +27,7 @@ Pur si simplu apesi **DUBLU-CLICK STANGA** pe item. Sistemul e destept si stie d
 <details>
   <summary>Exemplu: Echipare & Consum (Equip & Use)</summary>
   Echipeaza o unealta, sau foloseste un consumabil. Simplu!
-  <img src="/public/assets/gifs/equip_use.gif" width="100%"/>
+  <img src="/public/assets/gifs/equip.gif" width="100%"/>
 </details>
 
 ### Split Items (Divizarea Itemelor)
