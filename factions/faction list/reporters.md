@@ -61,18 +61,18 @@ In timpul unui interviu LIVE, conversatia este afisata intr-un chat dedicat, sep
 
 ### Gestionarea Intrebarilor LIVE
 
-1.  **Start Interviu:** Cand reporterul foloseste comanda **/startq**, un mesaj global anunta toti jucatorii online ca pot incepe sa trimita intrebari.
+1.  **Start Interviu:** Cand reporterul foloseste comanda **/startq**, un mesaj global anunta toti jucatorii online ca pot incepe sa trimita intrebari.
 
 <details>
   <summary>Anunt Start Interviu</summary>
 <img src="https://i.imgur.com/qUa9d9m.png" width="60%"/>
 </details>
 
-2.  **Lista Intrebari:** Intrebarile trimise de jucatori sunt listate intr-un dialog.
+2.  **Lista Intrebari:** Intrebarile trimise de jucatori sunt listate intr-un dialog.
 
 <details>
   <summary>Lista Intrebari Primite</summary>
 <img src="https://i.imgur.com/xUZGw3d.png" width="60%"/>
 </details>
 
-3.  **Acceptare Intrebare:** Reporterii pot alege ce intrebare accepta in LIVE folosind comanda: **/acceptq <id>**.
+3.  **Acceptare Intrebare:** Reporterii pot alege ce intrebare accepta in LIVE folosind comanda: **/acceptq <id>**.
