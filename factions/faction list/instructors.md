@@ -20,7 +20,7 @@ Pe server sunt valabile 5 tipuri de licente:
 Comenzile esentiale pentru a sustine un examen sunt:
 
 * **/startexam**: Incepe examenul.
-* **/givelicence (numarul de ore)**: Acorda licenta (pentru un numar specific de ore de suspendare, daca e cazul).
+* **/givelicence (numarul de ore)**: Acorda licenta (pentru un numar specific de ore)
 * **/stopexam**: Opreste examenul (anulare/finalizare).
 
 ### Locatiile de Examen

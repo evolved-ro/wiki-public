@@ -1,4 +1,4 @@
-# 📦 Inventory & Vehicle Trunk System (Evolved)
+# 📦 Inventory & Vehicle Trunk System
 
 Sistemul de inventar de pe comunitatea **Evolved** e probabil cel mai complex lucru vazut pe un server de SA:MP din Romania. L-am facut sa fie super user-friendly, dar in acelasi timp sa ofere o experienta de joc cat mai *high-quality*.
 
@@ -59,8 +59,7 @@ Vrei sa muti doar 10 bucati de metal, nu tot stack-ul? Poti.
     * *Nota:* Poti selecta maxim **12 iteme** deodata.
 2.  **Muta:** Apasa **sageata dreapta (`>`)** pentru a muta in Portbagaj, sau **sageata stanga (`<`)** pentru a muta inapoi in Inventar.
 
-> [!TIP]
-> **Super Rapid:** Daca vrei sa transferi un item IMEDIAT, fara sa mai dai select si apoi pe sageata, tine apasat **SHIFT + CLICK STANGA** pe item. Se muta pe loc!
+
 
 <details>
   <summary>Exemplu: Mutare Item (Move)</summary>
@@ -70,21 +69,6 @@ Vrei sa muti doar 10 bucati de metal, nu tot stack-ul? Poti.
 
 ***
 
-## ✨ Extra Functii (QoL - Quality of Life)
-
-### 🔍 Sortare si Cautare
-
-Ai prea multe iteme si nu mai gasesti nimic? Foloseste functiile de sortare si cautare:
-
-* **Sortare:** Filtreaza itemele dupa **Nume (A-Z)**, **Cantitate (Qty)**, **Tip (Category)** sau **Data Adaugarii (Newest)**.
-* **Cauta:** Tasteaza direct ce vrei sa gasesti in casuta de **Search**.
-
-### 🔗 Item Linking (Conectare Item)
-
-Asta e un *feature* avansat pentru cei care farmeaza mult. Poti conecta momeala la undita!
-
-* **Cum:** Tine apasat **CTRL + DUBLU-CLICK STANGA** pe un item consumabil (ex: Momeala).
-* **Efect:** De fiecare data cand folosesti unealta principala (Undita), consumabilul conectat va fi folosit automat din inventar. Scapi de o grija!
 
 ### 🗑️ Drop Items (Stergere Definitiva)
 

@@ -1,4 +1,3 @@
-Absolut\! Iată documentația pentru sistemul de **Radare Statice**, rescrisă fără diacritice, cu un ton direct și formatată în Markdown:
 
 
 # ⚡ Static Radar System (Sistemul de Radare Statice)

@@ -1,54 +1,56 @@
-## Masinile de pe server
+---
+title: Masinile de pe server
+---
 
-#### Serverul **Evolved** dispune de o gama variata de masini, iar acestea pot fi cumparate din Dealership.
+# 🚗 Masinile de pe Server (Dealership)
 
-Dealership-ul de pe server poate fi localizat folosind comanda `/gps` -> `Businesses` -> `Dealership`.
+Serverul **Evolved** dispune de o gama variata de masini, iar acestea pot fi cumparate din **Dealership**.
+
+Dealership-ul de pe server poate fi localizat folosind comanda: **`/gps`** $\rightarrow$ **`Businesses`** $\rightarrow$ **`Dealership`**.
 
 > [!TIP]
-> Pentru a cumpara o masina din Dealership foloseste comanda `/buyvehicle`.
+> Pentru a cumpara o masina din Dealership, foloseste comanda: **`/buyvehicle`**.
 
- <details>
-  <summary> Interfata Dealership </summary>
-  <img src="https://i.imgur.com/rp0nLqO.png" width="60%"/>
-  </details>
+<details>
+  <summary> Interfata Dealership </summary>
+  <img src="https://i.imgur.com/rp0nLqO.png" width="60%"/>
+  </details>
 
->[!WARNING]
-> Masinile din Dealership sunt de 2 tipuri: **Diesel** si **Benzina**.
-> Masinile Diesel sunt mai ieftine, dar pretul carburantului este mai scump.
-> In schimb, masinile pe Benzina sunt mai scumpe, dar carburantul este mai ieftin.
+---
 
-Fiecare masina are un stock limitat, iar atunci cand acesta va fi reactualizat, unul dintre administratorii serverului va anunta acest lucru.
+## ⛽ Tipuri de Motorizari si Carburant
 
-## Informatii despre masini
+Masinile din Dealership sunt de 2 tipuri: **Diesel** si **Benzina**.
 
-Fiecare masina personala dispune de un **trunk personal**, care poate fi vizualizat la cumpararea acesteia din **Dealership**.
+| Tip Motorizare | Pret Vehicul | Pret Carburant | Nota |
+| :---: | :---: | :---: | :--- |
+| **Benzina (Petrol)** | Mai scump | Mai ieftin | Consum standard (100 km/h constant $\rightarrow$ $100 * 0.01 = 1$ litru/100 sec) |
+| **Diesel** | Mai ieftin | Mai scump | Consum redus (100 km/h constant $\rightarrow$ $100 * 0.007 = 0.7$ litri/100 sec) |
 
->[!TIP] 
-> Capacitatea fiecarei masini relationata la trunk este definita de marimea acesteia. [DE EXEMPLU:
-UN **LANDSTALKER** VA AVEA O CAPACITATE MULT MAI MARE A PORTBAGAJULUI DECAT UN **INFERNUS**]
+> [!WARNING]
+> Masinile Diesel sunt mai ieftine, dar pretul carburantului este mai scump. In schimb, masinile pe Benzina sunt mai scumpe, dar carburantul este mai ieftin.
 
->[!WARNING] 
-> Atunci cand vindeti o masina, tot ceea ce detine aceasta in portbagaj va ramane in portbagajul acesteia, deci jucatorul caruia i-ati vandut masina beneficiaza de toate obiectele lasate de dvs. in acesta.
+Fiecare masina are un **stock limitat**. Atunci cand acesta va fi reactualizat, unul dintre administratorii serverului va anunta acest lucru.
 
-Informatii despre carburantul masinilor in functie de motorizarea acestora:
+---
 
-- Un Infernus care este **pe benzina**, daca merge cu 100 km/h constant va arde:
+## 📦 Informatii Utile Despre Vehicule
 
-``100 * 0.01 = 1``, deci 1 litru la 100 sec.
+### Trunk Personal (Portbagaj)
 
-- In schimb, un Infernus **diesel** care merge cu 100 km/h constant va arde:
+Fiecare masina personala dispune de un **trunk personal**, a carui capacitate este vizualizata la cumparare.
 
-``100 * 0.007 = 0.7``, deci 0.7 litri la 100 sec.
+> [!TIP]
+> Capacitatea fiecarei masini (trunk) este definita de marimea acesteia. De exemplu: Un **LANDSTALKER** va avea o capacitate mult mai mare a portbagajului decat un **INFERNUS**.
 
+> [!WARNING]
+> Atunci cand vindeti o masina, tot ceea ce detine aceasta in portbagaj va ramane in portbagajul acesteia. Jucatorul caruia i-ati vandut masina beneficiaza de toate obiectele lasate de dumneavoastra in el.
 
+---
 
+## 📋 Lista Vehicule Auto
 
-
-## Lista Vehicule Auto
-
-
-
-| Vehicul | Numele Masinii | Preț Petrol | Preț Diesel | Viteză maximă | Trunk Capacity |
+| Vehicul | Numele Masinii | Pret Benzina | Pret Diesel | Viteza Maxima | Trunk Capacity |
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | ![Landstalker](/public/assets/vehicles/400.png) | Landstalker | 22.650.000$ | 20.385.000$ | 157 KM/h | 15 KG |
 | ![Bravura](/public/assets/vehicles/401.png) | Bravura | 8.350.000$ | 7.515.000$ | 147 KM/h | 10 KG |

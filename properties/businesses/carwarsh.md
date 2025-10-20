@@ -1,21 +1,38 @@
-# Car Wash System
+---
+title: Sistemul Car Wash
+---
 
-Pe serverul nostru este activ un sistem de tip **Car Wash**.
+# 🧼 Sistemul Car Wash: Mentine-ti Masina Curata!
 
-In ce consta acest sistem?
+Pe serverul nostru este activ un sistem de tip **Car Wash**, conceput pentru a simula uzura si murdaria vehiculelor in timp ce sunt conduse.
 
-Dupa un anumit numar de kilometri parcurs cu o masina, parbrizul acesteia se va "murdari".
+---
 
-Cum SA:MP-ul este destul de limitat si nu ne permite sa aplicam murdaria pe masini, a trebuit sa improvizam afisand o textura care se intensifica progresiv in functie de numarul de kilometri parcursi de la ultima spalare a masinii.
+## 🛣️ Cum Functioneaza Sistemul?
 
-Cum arata aceasta murdarie?
-In GIF-ul urmator puteti vedea diferenta:
+Sistemul activeaza un efect vizual cand parcurgi un anumit numar de kilometri:
+
+* Dupa un numar de kilometri parcursi, parbrizul masinii se va "**murdari**" progresiv.
+* Din cauza limitarilor SA:MP, nu putem aplica murdaria direct pe masina. In schimb, folosim o **textura (overlay)** care se intensifica proportional cu distanta parcursa de la ultima spalare.
+
+### Cum Arata Murdaria?
+
+Murdaria afecteaza vizibilitatea in timpul condusului. In GIF-ul urmator puteti vedea diferenta:
+
 <img src="https://i.imgur.com/U4BU8pf.gif" width="60%"/>
 
-Pentru a spala masina este de ajuns sa intrati intr-o spalatorie auto de pe server.
+---
+
+## 📍 Cum Speli Masina?
+
+Pentru a spala masina, este de ajuns sa intrati intr-o **spalatorie auto (Carwash)** de pe server.
+
 <img src="https://i.imgur.com/nQNTujU.gif" width="60%"/>
 
-Unde se pot gasi spalatoriile de pe server?
-Spalatoriile de pe server se pot gasi folosind comanda ``/gps`` -> ``Bussinesses`` -> ``Carwash``.
+### Localizarea Spalatoriilor
+
+Spalatoriile auto de pe server se pot gasi usor folosind comanda **/gps**:
+
+**/gps** $\rightarrow$ **Bussinesses** $\rightarrow$ **Carwash**
 
 <img src="https://i.imgur.com/7poVRmN.png" width="60%"/>

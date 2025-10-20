@@ -24,7 +24,7 @@ Vrei sa joci pe harta ta preferata? Nicio problema!
 * **Votul:** Alegerea hartii se face printr-un sistem de vot simplu.
 * **Comanda:** Foloseste comanda **/votemap** si alege-ti preferata din lista. Harta cu cele mai multe voturi castiga si va fi folosita in runda respectiva.
 
-**Hartile disponibile sunt:** (Lista hartilor va aparea aici, dar nu e inclusa in textul original.)
+**Hartile disponibile sunt:**
 
 ---
 

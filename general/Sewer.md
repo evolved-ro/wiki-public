@@ -2,7 +2,7 @@
 
 ## 🗺️ Info Despre Locatie
 
-Pe serverul nostru, am creat un loc special, *custom-mapped*, care simuleaza un fel de adapost pentru **oamenii strazii**, dar care e folosit si pentru activitati... **ilegale**. Practic, e centrul lumii interlope din oras!
+Pe serverul nostru, am creat un loc special, *custom-mapped*, care simuleaza un fel de adapost pentru **oamenii strazii**, dar care e folosit si pentru activitati... **ilegale**.
 
 * **Unde e:** Locatia exacta se afla langa HQ-ul factiunii **Los Santos Police Department**, dar nu e vizibila pe harta. E considerata o **locatie ascunsa**.
 * **Cum o Gasesti:** Foloseste comanda `/gps` -> `Other` -> **`Sewer`**.

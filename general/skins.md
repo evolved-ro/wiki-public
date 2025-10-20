@@ -1,4 +1,4 @@
-# 🎭 Skin System (Sistemul de Haine)
+# 🎭 Skin System
 
 ## 📌 Info General
 
@@ -19,9 +19,9 @@ Sistemul nostru imparte toate skin-urile disponibile in trei categorii clare: St
 
 Acestea sunt skin-urile de baza, pe care **orice jucator le are in garderoba de la inceput** fara sa plateasca.
 
-* **Accesare:** Le poti selecta oricand din **Clothing Store** (Magazinul de Haine).
+* **Accesare:** Le poti selecta oricand din **Clothing Store**.
 * **Alocare:** La inregistrarea contului, primesti un **skin random** din aceasta lista.
-* **Pret in Lista:** $1.000.000 (doar pentru vizualizare, deoarece le ai deja).
+* **Pret in Lista:** $1.000.000.
 
 <details>
 <summary>Lista completa de Starter Skins</summary>
