@@ -6,15 +6,15 @@ title: Masinile de pe server
 
 Serverul **Evolved** dispune de o gama variata de masini, iar acestea pot fi cumparate din **Dealership**.
 
-Dealership-ul de pe server poate fi localizat folosind comanda: **`/gps`** $\rightarrow$ **`Businesses`** $\rightarrow$ **`Dealership`**.
+Dealership-ul de pe server poate fi localizat folosind comanda: **`/gps`** -> **`Businesses`** -> **`Dealership`**.
 
 > [!TIP]
 > Pentru a cumpara o masina din Dealership, foloseste comanda: **`/buyvehicle`**.
 
 <details>
-  <summary> Interfata Dealership </summary>
-  <img src="https://i.imgur.com/rp0nLqO.png" width="60%"/>
-  </details>
+  <summary> Interfata Dealership </summary>
+  <img src="https://i.imgur.com/rp0nLqO.png" width="60%"/>
+  </details>
 
 ---
 
@@ -24,8 +24,8 @@ Masinile din Dealership sunt de 2 tipuri: **Diesel** si **Benzina**.
 
 | Tip Motorizare | Pret Vehicul | Pret Carburant | Nota |
 | :---: | :---: | :---: | :--- |
-| **Benzina (Petrol)** | Mai scump | Mai ieftin | Consum standard (100 km/h constant $\rightarrow$ $100 * 0.01 = 1$ litru/100 sec) |
-| **Diesel** | Mai ieftin | Mai scump | Consum redus (100 km/h constant $\rightarrow$ $100 * 0.007 = 0.7$ litri/100 sec) |
+| **Benzina (Petrol)** | Mai scump | Mai ieftin | Consum standard (100 km/h constant -> $100 * 0.01 = 1$ litru/100 sec) |
+| **Diesel** | Mai ieftin | Mai scump | Consum redus (100 km/h constant -> $100 * 0.007 = 0.7$ litri/100 sec) |
 
 > [!WARNING]
 > Masinile Diesel sunt mai ieftine, dar pretul carburantului este mai scump. In schimb, masinile pe Benzina sunt mai scumpe, dar carburantul este mai ieftin.
@@ -47,7 +47,6 @@ Fiecare masina personala dispune de un **trunk personal**, a carui capacitate es
 > Atunci cand vindeti o masina, tot ceea ce detine aceasta in portbagaj va ramane in portbagajul acesteia. Jucatorul caruia i-ati vandut masina beneficiaza de toate obiectele lasate de dumneavoastra in el.
 
 ---
-
 ## 📋 Lista Vehicule Auto
 
 | Vehicul | Numele Masinii | Pret Benzina | Pret Diesel | Viteza Maxima | Trunk Capacity |

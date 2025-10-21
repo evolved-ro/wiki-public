@@ -30,12 +30,12 @@ Este interzis sa folositi un limbaj ce ar putea ofensa un alt jucator (jigniri, 
 | Locatie Abatere | Tip Abatere | Sanctiune |
 | :--- | :--- | :--- |
 | **Chat-uri Admini** (`/report`, `/n`) | Jigniri | **Ban 1-14 zile** (in functie de gravitate si level) |
-| **Jigniri catre Admin** | Jigniri directe | **Ban 3-7 zile** (prima) $\rightarrow$ **Ban Permanent** (urmatoarele) |
+| **Jigniri catre Admin** | Jigniri directe | **Ban 3-7 zile** (prima) -> **Ban Permanent** (urmatoarele) |
 | **Jigniri la adresa Serverului** | Critica ofensatoare | **Ban 3-30 zile** sau **Permanent** |
 | **Chat-uri Publice** (`/ad`, `/live`, `/gov`, `/news`) | Jigniri/Vulgaritate | **Ban 3-30 zile** |
 | **Chat-uri Factiune** (`/f`) | Reclamate Liderului | AV/FW (sanctionate de Lider) |
 | **Comentarii User Panel** | Jigniri/Vulgaritate | **Suspend 1-30 zile** |
-| **Amenintari RL** (Real Life) | Amenintari | **Ban 1-30 zile** (prima) $\rightarrow$ **Ban 1-90 zile/Permanent** (urmatoarele) |
+| **Amenintari RL** (Real Life) | Amenintari | **Ban 1-30 zile** (prima) -> **Ban 1-90 zile/Permanent** (urmatoarele) |
 | **Alte abateri** | Rasism, instigare la ura, acuzatii nefondate | Sanctionabile in functie de gravitate |
 
 > [!TIP]
@@ -49,9 +49,9 @@ Este interzis sa folositi un limbaj ce ar putea ofensa un alt jucator (jigniri, 
 
 ### Cand este DM-ul permis?
 
-1.  Daca aveti permisiunea playerului atacat.
-2.  Daca faceti parte dintr-o factiune cu DM in atributii (war-uri, hitmani / bounty-hunter).
-3.  Daca atacati un **politist on duty** (skin de politist, nume albastru).
+1. Daca aveti permisiunea playerului atacat.
+2. Daca faceti parte dintr-o factiune cu DM in atributii (war-uri, hitmani / bounty-hunter).
+3. Daca atacati un **politist on duty** (skin de politist, nume albastru).
 
 ### Sancțiuni DM si DB (Drive-By)
 
@@ -72,8 +72,8 @@ Folositi **`/report`** pentru a chema un admin sa asiste la afaceri (vanzare/sch
 
 | Tip Abatere | Detalii | Sanctiune |
 | :--- | :--- | :--- |
-| **Inselatorie** | Folosirea de tactici pentru a obtine bunuri/bani ilegal. | **Ban 3 zile** (prima) $\rightarrow$ **Ban 30/90 zile** $\rightarrow$ **Permanent**. Bunurile se pierd. |
-| **Vanzarea Contului** | Vanzare/Schimb de conturi. | **Ban 7 zile** (prima) $\rightarrow$ **Ban Permanent** (a 2-a). |
+| **Inselatorie** | Folosirea de tactici pentru a obtine bunuri/bani ilegal. | **Ban 3 zile** (prima) -> **Ban 30/90 zile** -> **Permanent**. Bunurile se pierd. |
+| **Vanzarea Contului** | Vanzare/Schimb de conturi. | **Ban 7 zile** (prima) -> **Ban Permanent** (a 2-a). |
 | **Afaceri cu Bunuri Non-Joc** | Conturi Steam, iteme in alte jocuri, etc. | **Ban 7-14 zile** (Tentativa: **Ban 7 zile**). |
 | **Greseli de Pret** | Daca pretul este scris gresit in detrimentul altuia. | Ban 3 zile (pentru cel care a profitat). |
 | **Imprumuturi** | Se fac pe proprie raspundere. Adminii **NU** se implica. | N/A |
@@ -82,7 +82,7 @@ Folositi **`/report`** pentru a chema un admin sa asiste la afaceri (vanzare/sch
 | Tip Abatere | Detalii | Sanctiune |
 | :--- | :--- | :--- |
 | **Cerere Banii/Bunuri pentru Factiune** | Cerere de profit/bunuri de la membri | **Ban 7-14 zile/Permanent** + uninvite cu 100FP. |
-| **Eventuri Fara Premii** | Organizarea de eventuri fara a oferi premii. | **Warn** $\rightarrow$ **Ban 3 zile**. |
+| **Eventuri Fara Premii** | Organizarea de eventuri fara a oferi premii. | **Warn** -> **Ban 3 zile**. |
 | **Eventuri pentru Profit** | Eventuri facute doar pentru castig personal. | **Warn** + retragerea banilor castigati. |
 
 ---
@@ -101,14 +101,14 @@ Un mod care ofera un avantaj mare fata de alti playeri este considerat **cheat**
 
 | Tip Mod/Cheat | Avantaj/Descriere | Sanctiune |
 | :--- | :--- | :--- |
-| **Viteza/Teleportare/Drift/Fly** | Speedhack, Route Recorder, etc. | **Ban 30 $\rightarrow$ 90 $\rightarrow$ Permanent** |
-| **Troll / Multi Kill** | Afectarea jocului altor playeri (damage, pozitia vehiculelor). | **Ban 90 zile $\rightarrow$ Permanent** |
+| **Viteza/Teleportare/Drift/Fly** | Speedhack, Route Recorder, etc. | **Ban 30 -> 90 -> Permanent** |
+| **Troll / Multi Kill** | Afectarea jocului altor playeri (damage, pozitia vehiculelor). | **Ban 90 zile -> Permanent** |
 | **Funny Anim./Sarit/Alergat** | Sarit/urcat pe pereti, infinite-run. | **Kick** (incepatori) / **Ban 3 zile** (prima) / **Ban 7-30 zile** (excesiv) |
-| **Animatii Nepermise** | Animatii care nu sunt in joc. | **Kick/Warn $\rightarrow$ Ban 3 $\rightarrow$ 7 $\rightarrow$ 30 zile** |
+| **Animatii Nepermise** | Animatii care nu sunt in joc. | **Kick/Warn -> Ban 3 -> 7 -> 30 zile** |
 | **Aimbot / Norecoil / Wallhack** | Tintire mai buna, modificare damage, vizualizare prin obiecte. | **Ban 90 zile**. |
-| **Anti-AFK (Autoclicker)** | Evitarea AFK-ului automat. | **Ban 3 zile $\rightarrow$ 30 $\rightarrow$ 60 zile**. (Level 1-3 primesc Ban Permanent). |
+| **Anti-AFK (Autoclicker)** | Evitarea AFK-ului automat. | **Ban 3 zile -> 30 -> 60 zile**. (Level 1-3 primesc Ban Permanent). |
 | **Ascundere Moduri/Necooperare** | Ascunderea dovezilor la test admin. | **Ban 7 zile**. |
-| **Editare Dovezi** | Modificarea dovezilor. | **Ban 7-14 zile** (prima) $\rightarrow$ **Ban Permanent**. |
+| **Editare Dovezi** | Modificarea dovezilor. | **Ban 7-14 zile** (prima) -> **Ban Permanent**. |
 
 ---
 
@@ -116,7 +116,7 @@ Un mod care ofera un avantaj mare fata de alti playeri este considerat **cheat**
 
 * **Folosirea de Buguri (Server/Joc):** Interzisa. Profitarea de buguri pentru bani/bunuri este **Ban Permanent**.
 * **Buguri Mapa (Teleport):** **Ban 3 zile** (daca afecteaza alti playeri). **Warn** (daca e pentru evitarea arestarii).
-* **C-bug / C-shot (Desert Eagle, Shotgun):** Oprirea animatiilor armelor. **Warn $\rightarrow$ Ban 1 zi $\rightarrow$ Ban 2 zile**.
+* **C-bug / C-shot (Desert Eagle, Shotgun):** Oprirea animatiilor armelor. **Warn -> Ban 1 zi -> Ban 2 zile**.
 * **C-slide:** Folosirea tastei C pentru a trage in mers. Sancționat ca C-bug.
 * **Mega-Jump Bicicleta:** Facut intentional pentru a scapa de politie. **Warn**.
 * **Intrat Repetat in Cladiri:** Pentru a scapa de politie. **Warn**.
@@ -130,9 +130,9 @@ Orice lucru facut pentru a deranja alti playeri poate fi sanctionat:
 
 | Tip Abatere | Sanctiune |
 | :--- | :--- |
-| **Blocarea PNS-ului** | **Warn** (3 abateri) $\rightarrow$ **Ban 60 zile**. |
+| **Blocarea PNS-ului** | **Warn** (3 abateri) -> **Ban 60 zile**. |
 | **Blocarea strazii, deranjarea la examen** | Sanctionabile la decizia adminului. |
-| **Postarea de Informatii Personale** (fara acord) | **Ban 14 zile** (prima) $\rightarrow$ **Ban Permanent** (urmatoarea). |
+| **Postarea de Informatii Personale** (fara acord) | **Ban 14 zile** (prima) -> **Ban Permanent** (urmatoarea). |
 | **Hartuirea Jucatorilor** (Stalking, Spam) | **Warn** sau **Ban**. |
 | **Anunturi Misto/Batjocura** (`/ad`) | **Warn** sau **Ban**. |
 

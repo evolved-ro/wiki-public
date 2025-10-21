@@ -13,7 +13,7 @@ Aici ai un rezumat rapid cu actiunile principale pe care le poti face. E foarte 
 | **Equip / Unequip** | Pune pe tine sau da jos o unealta / un accesoriu (Ex: undita, tarnacop). | **DUBLU-CLICK STANGA** |
 | **Use (Consuma)** | Foloseste imediat un item (Ex: mananca un peste, foloseste droguri). | **DUBLU-CLICK STANGA** |
 | **Drop** | Sterge itemul din inventar definitiv (fara recuperare). | **CLICK STANGA** (Selectare) + Click pe **DROP**. |
-| **Transfer Total** | Muta iteme intregi intre Inventar $\leftrightarrow$ Portbagaj. | **CLICK STANGA** (Selectare) + Click pe **Sagetile** (`<` sau `>`). |
+| **Transfer Total** | Muta iteme intregi intre Inventar <-> Portbagaj. | **CLICK STANGA** (Selectare) + Click pe **Sagetile** (`<` sau `>`). |
 | **Split (Cantitate)** | Muta sau Sterge doar o parte dintr-un stack de iteme. | **CLICK STANGA** (Selectare) + Click pe **Numarul de Unitati**. |
 
 ***
@@ -25,28 +25,28 @@ Aici ai un rezumat rapid cu actiunile principale pe care le poti face. E foarte 
 Pur si simplu apesi **DUBLU-CLICK STANGA** pe item. Sistemul e destept si stie daca e o unealta de echipat sau un item de consumat.
 
 <details>
-  <summary>Exemplu: Echipare & Consum (Equip & Use)</summary>
-  Echipeaza o unealta, sau foloseste un consumabil. Simplu!
-  <img src="/public/assets/gifs/equip.gif" width="100%"/>
+  <summary>Exemplu: Echipare & Consum (Equip & Use)</summary>
+  Echipeaza o unealta, sau foloseste un consumabil. Simplu!
+  <img src="/public/assets/gifs/equip.gif" width="100%"/>
 </details>
 
 ### Split Items (Divizarea Itemelor)
 
 Vrei sa muti doar 10 bucati de metal, nu tot stack-ul? Poti.
 
-1.  **Selecteaza:** Da **CLICK STANGA** pe itemul stivuit.
-2.  **Ajusteaza Cantitatea:** Da **CLICK** pe **numarul de unitati** din stanga jos.
-3.  **Muta/Sterge:** Acum poti folosi **Move** sau **Drop** si se va aplica doar pe cantitatea aleasa.
+1. **Selecteaza:** Da **CLICK STANGA** pe itemul stivuit.
+2. **Ajusteaza Cantitatea:** Da **CLICK** pe **numarul de unitati** din stanga jos.
+3. **Muta/Sterge:** Acum poti folosi **Move** sau **Drop** si se va aplica doar pe cantitatea aleasa.
 
 <details>
-  <summary>Exemplu: Mutare Cantitate Specifica</summary>
-  Muta exact numarul de iteme de care ai nevoie.
-  <img src="/public/assets/gifs/quantity_move.gif" width="100%"/>
+  <summary>Exemplu: Mutare Cantitate Specifica</summary>
+  Muta exact numarul de iteme de care ai nevoie.
+  <img src="/public/assets/gifs/quantity_move.gif" width="100%"/>
 </details>
 
 ***
 
-## 🚗 Transfer Inventar $\leftrightarrow$ Portbagaj (Trunk)
+## 🚗 Transfer Inventar <-> Portbagaj (Trunk)
 
 ### Cum Accesezi Portbagajul
 
@@ -55,16 +55,14 @@ Vrei sa muti doar 10 bucati de metal, nu tot stack-ul? Poti.
 
 ### Cum Muti Itemele
 
-1.  **Selecteaza Itemul:** Da **SINGUR CLICK STANGA** pe itemele pe care vrei sa le transferi.
+1. **Selecteaza Itemul:** Da **SINGUR CLICK STANGA** pe itemele pe care vrei sa le transferi.
     * *Nota:* Poti selecta maxim **12 iteme** deodata.
-2.  **Muta:** Apasa **sageata dreapta (`>`)** pentru a muta in Portbagaj, sau **sageata stanga (`<`)** pentru a muta inapoi in Inventar.
-
-
+2. **Muta:** Apasa **sageata dreapta (`>`)** pentru a muta in Portbagaj, sau **sageata stanga (`<`)** pentru a muta inapoi in Inventar.
 
 <details>
-  <summary>Exemplu: Mutare Item (Move)</summary>
-  Transferul itemelor selectate in portbagaj.
-  <img src="/public/assets/gifs/move.gif" width="100%"/>
+  <summary>Exemplu: Mutare Item (Move)</summary>
+  Transferul itemelor selectate in portbagaj.
+  <img src="/public/assets/gifs/move.gif" width="100%"/>
 </details>
 
 ***
@@ -74,12 +72,12 @@ Vrei sa muti doar 10 bucati de metal, nu tot stack-ul? Poti.
 
 Itemele care doar iti ocupa spatiu pot fi sterse.
 
-1.  **Selecteaza:** **SINGUR CLICK STANGA** pe item.
-2.  **Confirma:** Apasa butonul **DROP** din mijloc.
+1. **Selecteaza:** **SINGUR CLICK STANGA** pe item.
+2. **Confirma:** Apasa butonul **DROP** din mijloc.
     * **ATENTIE!** Odata sters, itemul a disparut pentru totdeauna. Fii sigur!
 
 <details>
-  <summary>Exemplu: Drop Items</summary>
-  Stergerea itemelor selectate.
-  <img src="/public/assets/gifs/drop.gif" width="100%"/>
+  <summary>Exemplu: Drop Items</summary>
+  Stergerea itemelor selectate.
+  <img src="/public/assets/gifs/drop.gif" width="100%"/>
 </details>

@@ -33,6 +33,6 @@ Pentru a spala masina, este de ajuns sa intrati intr-o **spalatorie auto (Carwas
 
 Spalatoriile auto de pe server se pot gasi usor folosind comanda **/gps**:
 
-**/gps** $\rightarrow$ **Bussinesses** $\rightarrow$ **Carwash**
+**/gps** -> **Bussinesses** -> **Carwash**
 
 <img src="https://i.imgur.com/7poVRmN.png" width="60%"/>

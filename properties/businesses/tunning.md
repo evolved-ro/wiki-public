@@ -44,7 +44,7 @@ Luand in considerare aceste aspecte, vom aduce un aspect nou pe piata, care va m
 
 Pentru a aduce modificari masinii, trebuie sa va deplasati la un business de tip **Tunning**.
 
-**Localizare:** Puteti ajunge la Tunning folosind comanda: **`/gps`** $\rightarrow$ **`Businesses`** $\rightarrow$ **`Tunning`**.
+**Localizare:** Puteti ajunge la Tunning folosind comanda: **`/gps`** -> **`Businesses`** -> **`Tunning`**.
 
 <img src="https://i.imgur.com/WyfBwPt.gif" width="60%"/>
 

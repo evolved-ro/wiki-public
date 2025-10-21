@@ -92,8 +92,8 @@ Regulile liderilor se aplica si subliderilor. Liderul are datoria de a instiinta
 | Regula | Timp/Conditie | Sanctiune Nerespectare |
 | :--- | :--- | :--- |
 | **Rank Up Sublider** | Membrul are nevoie de minim **60 zile** adunate in acel **tip de factiune**. | **LW** (Leader Warn) si restaurarea rank-ului. |
-| **Durata Minima Functie (Normala)** | **30 zile** pentru a se demite cu Rank 6. | **LW** (prima) $\rightarrow$ **Uninvite** (a 2-a). |
-| **Durata Minima Functie (Mafii)** | **15 zile** pentru a se demite cu Rank 6. | **LW** (prima) $\rightarrow$ **Uninvite** (a 2-a). |
+| **Durata Minima Functie (Normala)** | **30 zile** pentru a se demite cu Rank 6. | **LW** (prima) -> **Uninvite** (a 2-a). |
+| **Durata Minima Functie (Mafii)** | **15 zile** pentru a se demite cu Rank 6. | **LW** (prima) -> **Uninvite** (a 2-a). |
 | **Demitere Sublider** | Liderul nu poate demite un sublider cu rank 6, decat daca acesta a detinut functia mai mult de **14 zile**. | **LW + Modificare FH Sublider** |
 | **Schimbare Sublider** | Liderul poate schimba un sublider o data la minim **30 de zile**. | **LW** |
 | **Sublider Banat** | Se demite pe motivul "**Banned**" si se anunta admin 5+ pentru modificarea FH-ului. | **AV** daca nu a anuntat legat de modificarea FH-ului. |
