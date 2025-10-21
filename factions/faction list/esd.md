@@ -12,7 +12,7 @@ Sistemul ESD functioneaza pe doua ramuri:
 
 ### Balansul Echipei (Auto-Selectare Duty)
 
-Jucatorii **nu-si pot alege** tipul de duty (Paramedic sau Pompier) la logare. Sistemul mentine un balans perfect intre cele doua roluri:
+Jucatorii **nu-si pot alege** tipul de duty (Paramedic sau Pompier) la executarea comenzii ``/duty``. Sistemul mentine un balans perfect intre cele doua roluri:
 
 1.  **Diferenta de Numar:** Daca sunt mai multi paramedici online decat pompieri (ex: 2 Paramedici, 1 Pompier), urmatorul jucator care foloseste comanda **/duty** va fi dat automat **Pompier**.
 2.  **Numar Egal:** Daca numarul de Paramedici si Pompieri este egal, sistemul alege **random** ce status primeste urmatorul jucator.

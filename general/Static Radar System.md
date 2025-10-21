@@ -20,7 +20,7 @@ Radarele sunt active doar in perioadele de varf de trafic:
 
 Radarele operationale sunt indicate pe minimap printr-o pictograma dedicata:
 
-  * **Iconita de Semnalizare:** \<img src="[https://i.imgur.com/IK9Kdih.png](https://i.imgur.com/IK9Kdih.png)" width="2%"/\>
+  * **Iconita de Semnalizare:** <img src="https://i.imgur.com/IK9Kdih.png" width="2%"/>
 
 ## 📸 Mecanismul de Functionare
 
@@ -31,7 +31,7 @@ In momentul in care un vehicul trece cu o viteza ilegala printr-o zona monitoriz
   * **Prindere Automata:** Vei primi automat **wanted** pentru depasirea vitezei (speeding).
   * **Notificare Vizuala:** Pe ecran va aparea o confirmare vizuala a momentului in care ai fost inregistrat de camera.
 
-\<img src="[https://i.imgur.com/9p2qtsV.gif](https://i.imgur.com/9p2qtsV.gif)" width="60%"/\>
+<img src="https://i.imgur.com/9p2qtsV.gif" width="60%"/>
 
 > [\!WARNING]
 > Este obligatoriu sa respecti limita de viteza pe autostrada, in special in intervalul mentionat\! Un *wanted* primit va fi imediat disponibil pentru fortele de ordine.

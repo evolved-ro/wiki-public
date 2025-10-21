@@ -1,5 +1,5 @@
 ---
-title: Masinile de pe server
+title: Dealership
 ---
 
 # 🚗 Masinile de pe Server (Dealership)

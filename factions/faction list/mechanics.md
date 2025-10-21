@@ -45,10 +45,11 @@ Reparatiile se fac la locatiile special amenajate pentru inspectie.
 Pentru a folosi rampa de reparatii si a inspecta vehiculele, mecanicii folosesc urmatoarele comenzi:
 
 * **/rampup**: Ridica vehiculul pe rampa de inspectie.
-* **/inspectvehicle**: Activeaza meniul de inspectie si reparatii.
+* **/repair**: Activeaza meniul de inspectie si reparatii.
 * **/rampdown**: Coboara vehiculul de pe rampa.
+* **/inspect**: Verifica vehiculul pentru ITP.
 
 <details>
   <summary>Exemplu: Rampa de Inspectie</summary>
-<img src="https://i.imgur.com/PWBs099.jpeg" width="60%"/>
+<img src="https://i.imgur.com/xwbyI0Z.png" width="60%"/>
 </details>

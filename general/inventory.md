@@ -50,7 +50,7 @@ Vrei sa muti doar 10 bucati de metal, nu tot stack-ul? Poti.
 
 ### Cum Accesezi Portbagajul
 
-* **Regula:** Poti accesa doar portbagajul **Masinilor Personale** (ale tale).
+* **Conditie:** Poti accesa doar portbagajul **Masinilor Personale** (ale tale).
 * **Actiune:** Stai in **spatele masinii personale** si deschide inventarul. Panoul **TRUNK** apare automat.
 
 ### Cum Muti Itemele

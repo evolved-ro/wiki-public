@@ -48,7 +48,7 @@ Toate zonele disponibile vor fi vizibile pe harta:
 
 ### Fluxul Examenului
 
-* Ordinea comenzilor obligatorii este **`/startexam` $\rightarrow$ `Examen` $\rightarrow$ `/givelicence` sau `/stopexam`**.
+* Ordinea comenzilor obligatorii este **`/startexam` -> `Examen` -> `/givelicence` sau `/stopexam`**.
 * **Anulare:** Daca instructorul opreste examinarea (`/stopexam`) inainte de a acorda licenta, testul trebuie reluat integral, dar banii se **restituie** jucatorului.
 
 ### Dovezile Video (Obligatoriu)

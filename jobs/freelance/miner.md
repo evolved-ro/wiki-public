@@ -27,11 +27,11 @@ Pentru a incepe, ai nevoie de:
 
 Odata ce ai tarnacopul, poti incepe munca!
 
-1.  **Echipeaza Tarnacopul:** Apasa tasta **Y** si echipeaza **Pickaxe-ul** din inventar.
+1.  **Echipeaza Tarnacopul:** Apasa tasta **Y** si echipeaza **Pickaxe-ul** din inventar. Vezi cum poti face acest lucru [AICI](https://wiki.evolved.ro/general/inventory#%F0%9F%9B%A0%EF%B8%8F-cum-interactionezi-cu-itemele).
 2.  **Intra in Mina:** Mergi in pestera destinata extractiei.
 3.  **Sparge Pietrele:** Apasa **Click Stanga** in jurul pietrelor din interiorul minei.
 
-<img src="https://i.imgur.com/xuOTvwW.jpeg" width="60%"/>
+<img src="https://i.imgur.com/kgmAytv.png" width="60%"/>
 
 ### Feedback in Timpul Muncii
 
@@ -52,7 +52,7 @@ Pentru a finaliza *task-ul* de minerit si a primi recompensa, trebuie sa spargi 
 
 Dupa ce ai terminat, fragmentele vor aparea in inventarul tau:
 
-<img src="https://i.imgur.com/ZKOZdDB.png" width="60%"/>
+<img src="https://i.imgur.com/5DdgVR8.png" width="25%"/>
 
 ---
 
@@ -67,17 +67,17 @@ Dupa ce ai adunat fragmente, trebuie sa le procesezi la locatia de prelucrare.
 
 1.  **Depunerea:** Asteapta ca statusul Minecart-ului sa fie **Process Fragments**.
 
-    <img src="https://i.imgur.com/3jGEge.png" width="60%"/>
+    <img src="https://i.imgur.com/7NAaUni.png" width="60%"/>
 
     * Foloseste comanda: `/process fragments <numarul de fragmente>`
 
 2.  **Procesarea (Asteptare):** Dupa ce ai depus, fragmentele intra in prelucrare timp de **30 de secunde**. Statusul se schimba in **Processing Fragments**.
 
-    <img src="https://i.imgur.com/oc6lQCL.png" width="60%"/>
+    <img src="https://i.imgur.com/dk9I9kM.png" width="60%"/>
 
 3.  **Colectarea:** Dupa ce trec cele 30 de secunde de procesare, ai la dispozitie **30 de secunde** pentru a le colecta!
 
-    <img src="https://i.imgur.com/aYEaRfK.png" width="60%"/>
+    <img src="https://i.imgur.com/SMMQPso.png" width="60%"/>
 
     * Foloseste comanda: `/collect`
 
@@ -88,4 +88,4 @@ Vei primi un mesaj in chat cu rezultatul procesarii si itemele prelucrate (ex: M
 <img src="https://i.imgur.com/vYJRnYh.png" width="60%"/>
 
 > [!WARNING]
-> **NU te deconecta** in timpul procesarii fragmentelor (intre `/process` si `/collect`)! Vei pierde toate fragmentele depuse.
+> Daca plasezi obiectele catre procesare, dar nu le colectezi in timp util si esti **ONLINE** pe server, obiectele tale vor fi pierdute definitiv. In schimb, daca iesi de pe joc sau iei crash, iti va fi restituit numarul de fragmente pe care l-ai dat spre procesare.
