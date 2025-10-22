@@ -37,7 +37,7 @@ Factiunile disponibile pe server-ul nostru sunt urmatoarele, impartite pe catego
 
 Pentru a putea aplica la oricare dintre factiuni, vei avea nevoie de un minim de **7 ore jucate in ultima saptamana**.
 
-Informatiile detaliate legate de factiuni si felul in care trebuie sa-ti desfasori activitatea se pot regasi **[aici](url)**.
+Informatiile detaliate legate de factiuni si felul in care trebuie sa-ti desfasori activitatea se pot regasi **[aici](https://wiki.evolved.ro/factions/factionactivity)**.
 
 ---
 
