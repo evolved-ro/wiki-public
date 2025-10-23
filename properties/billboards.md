@@ -31,7 +31,7 @@ Cand incerci sa editezi textul, primesti o notificare despre procesul de aprobar
 <img src="https://i.imgur.com/hHrIfAT.png" width="60%" />
 
 > [!WARNING]
-> Fii cu bagare de seama la ce scrii! Nu incerca sa schimbi textul Billboard-ului intr-unul vulgar sau nepotrivit, deoarece risti sa fii sanctionat de catre un administrator.
+> ATENȚIE! Textul Billboard-ului trebuie să rămână decent și potrivit. Orice încercare de a posta conținut vulgar sau ofensator va fi sancționată de către un administrator
 
 ### Reguli de Proprietate si Inchirieri
 

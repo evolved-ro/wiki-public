@@ -3,7 +3,7 @@
 
 Sistemul de Truck a fost regandit complet pentru a fi cat mai **diversificat** si pentru a te scoate din monotonia curselor pe aceeasi ruta.
 
-De asemenea, acest job este direct legat de sistemul de **Wanted** pentru a **genera activitate pentru politisti**.
+De asemenea, job-ul **Trucker** se afla in strânsă legătura cu sistemul de **Wanted** pentru a **activitate pentru membrii departamentelor de politie.**.
 
 **Imbunatatiri Cheie:**
 
@@ -26,7 +26,7 @@ Am introdus o **noua categorie de permis** speciala pentru tiristi.
 ### Atentie la Radar!
 
 * Daca nu detii permisul si treci pe langa camerele radar statice (intre 20:00 si 00:00), esti pasibil sa primesti wanted automat, chiar daca nu faci o cursa ilegala.
-* **Risc:** Ai **10%** sansa de a primi wanted pentru fiecare camera radar pe langa care treci.
+* **Risc:** Ai **10%** sansa de a primi wanted pentru fiecare cameră radar pe lângă care treci.
 
 ## 💰 Illegal Rides (Cursele Ilegale)
 
@@ -34,7 +34,7 @@ Vrei sa faci bani multi? Incearca cursele ilegale, dar fii pregatit sa-ti asumi 
 
 ### Riscuri vs. Recompense
 
-* **Castig:** Cursele ilegale au un castig **semnificativ mai ridicat** decat cele legale.
+* **Castig:** Cursele ilegale ofera un castig **semnificativ mai ridicat** decat cele legale.
 * **Wanted la Finalizare:** Ai o sansa de **20%** sa primesti wanted la finalizarea cursei, indiferent daca te-a vazut cineva sau nu.
 
 ### Radar si Marfa Ilegala

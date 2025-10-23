@@ -7,7 +7,7 @@ sidebar_label: Taxi Permit
 
 ## 📌 Info General
 
-Am restructurat complet activitatea de Taxi pentru a elimina monotonia si a o face accesibila tuturor!
+Facțiunea de tip 'Taxi' a fost restructurată pentru a elimina monotonia acesteia si de a o face mult mai accesibila jucătorilor!
 
 * **Status:** Taxi **nu mai este o factiune**.
 * **Cum Functioneaza:** Orice jucator poate practica Taxi ca **Side Job** (un job secundar).
