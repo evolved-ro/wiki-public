@@ -1,47 +1,54 @@
----
-title: Fisherman
-sidebar_label: Fisherman
----
+# 🎣 Fisherman
 
-## 🧭 Integrarea Sistemelor si Eficientizarea Muncii
+Activitatea de **Fisherman** pe serverul nostru imbina mai multe sisteme, printre care se numara si sistemul de **Vehicule Personale** si sistemul de **Inventar**.
 
-Activitatea de **Fisherman** pe serverul nostru imbina mai multe sisteme esentiale, printre care se numara:
-* Sistemul de vehicule personale (click [AICI](https://wiki.evolved.ro/vehicles/general))
-* Sistemul de inventar (click [AICI](https://wiki.evolved.ro/general/inventory))
+De ce spun asta?
+Pentru a lucra cel mai eficient la job-ul Fisherman va trebui sa te folosesti util de ambele sisteme pentru a gestiona spatiul de stocare.
 
-**De ce este importanta eficientizarea?**
+La inregistrarea pe server, fiecare jucator primeste by default capacitatea de **10 KG** in inventarul personal.
 
-Pentru a lucra cel mai eficient la job-ul Fisherman va trebui sa te folosesti util de ambele sisteme, in special de cel de inventar, pentru a minimiza timpul irosit cu golirea si vanzarea pestilor.
+Acest spatiu permite, impreuna cu Undita si momeala aferenta, un spatiu liber estimat de **8 KG**. Conform calculelor, **8 KG** inseamna undeva la **12 pesti** in medie pe care un jucator ii poate stoca in inventar, daca folosim ca reper momeala **LURE**, cea care permite prinderea tuturor pestilor din lista.
 
-La inregistrarea pe server, fiecare jucator primeste by default o capacitate de **10 KG** in inventarul personal.
-
-Acest spatiu in inventar permite, impreuna cu Undita si momeala aferenta, un spatiu liber estimat de **8 KG**. Conform calculelor, **8 KG** inseamna undeva la **12 pesti** in medie pe care un jucator ii poate stoca in inventar, daca folosim ca reper momeala **LURE**, cea care permite prinderea tuturor pestilor.
-
-Pentru a eficientiza munca ta in cadrul acestei activitati, recomandam achizitionarea unui vehicul personal cu o capacitate mai mare de stocare in portbagaj. Puteti vedea vehiculele personale si capacitatea acestora din portbagaj, cat si pretul lor din Dealership [AICI.](https://wiki.evolved.ro/properties/businesses/dealership#%F0%9F%93%8B-lista-vehicule-auto)
+Pentru a eficientiza munca ta, recomandam achizitionarea unui vehicul personal cu o capacitate mai mare de stocare in portbagaj (Trunk). Poti vedea vehiculele personale si capacitatea acestora in Dealership.
 
 ***
 
-## 💰 Detalii Pesti si Echipament
+## ⚙️ Mecanica Job-ului si Conditii
 
-Castigul din pescuit este echilibrat pentru a se incadra in profitul standard al serverului ($\approx 1.100 .000 \$ / \text{ora}$).
+### Cum poti prinde un peste?
+
+Pentru a prinde un peste trebuie sa apesi pe butonul **Click to reel** in momentul in care momeala se afla sub nivelul apei in Textdraw.
+
+
+
+---
+
+### 🐟 Detalii Pesti (Vanzare si XP Acordat)
+
+Aici gasesti informatii despre tipurile de pesti, raritatea lor, greutatea si valoarea pe care le poti obtine la vanzare, plus XP-ul acordat per bucata.
 
 <details>
-<summary><h2>🐟 Detalii Pesti (Vanzare si XP Acordat)</h2></summary>
+<summary>Lista Completa Pesti & Recompense</summary>
 
 | Tip Peste | Rarity | Greutate Estimata | **Pret de Vanzare (Interval)** | **XP Acordat (Per Bucata)** |
 | :--- | :--- | :--- | :--- | :--- |
-| **TUNA** | Legendary | 2.0 kg | **75.000 - 80.000 \$** | **10 XP** |
-| **SALMON** | Rare | 1.5 kg | **40.000 - 45.000 \$** | **5 XP** |
-| **PIKE** | Uncommon | 1.0 kg | **12.000 - 16.000 \$** | **3 XP** |
-| **PERCH** | Uncommon | 0.8 kg | **8.000 - 10.000 \$** | **2 XP** |
-| **ZANDER** | Common | 0.6 kg | **5.000 - 6.000 \$** | **2 XP** |
-| **CARP** | Common | 0.5 kg | **2.000 - 3.000 \$** | **1 XP** |
-| **ITEM\_NONE** | N/A (Esec) | 0.0 kg | **0 \$** | **0 XP** |
+| **TUNA** | Legendary | 2.0 kg | **56.250 - 60.000 \$** | **10 XP** |
+| **SALMON** | Rare | 1.5 kg | **30000 - 33.750 \$** | **5 XP** |
+| **PIKE** | Uncommon | 1.0 kg | **9000 - 12.000 \$** | **3 XP** |
+| **PERCH** | Uncommon | 0.8 kg | **6000 - 7500 \$** | **2 XP** |
+| **ZANDER** | Common | 0.6 kg | **3750 - 4500 \$** | **2 XP** |
+| **CARP** | Common | 0.5 kg | **1500 - 2250 \$** | **1 XP** |
 
 </details>
 
+---
+
+### 🎣 Preturi Echipament (Achizitie Per Unitate)
+
+Echipamentul si momeala au restrictii diferite in privinta tipurilor de pesti pe care ii poti prinde.
+
 <details>
-<summary><h2>🎣 Preturi Echipament (Achizitie Per Unitate)</h2></summary>
+<summary>Lista Preturi Undite si Momeli</summary>
 
 | Echipament / Momeala | Detalii | **Pret de Achizitie** |
 | :--- | :--- | :--- |
@@ -54,18 +61,19 @@ Castigul din pescuit este echilibrat pentru a se incadra in profitul standard al
 
 </details>
 
-***
+Asa arata cand momeala este deasupra apei, trebuie sa asteptati pana cand momeala ajunge sub nivelul apei. In screenshot-urile urmatoare puteti observa diferentele:
 
-## ⚙️ Instructiuni de Pescuit
 
-### Cum poti prinde un peste?
+<details>
+  <summary>Momeala deaspra apei</summary>
+<img src="https://i.imgur.com/2EOkiEH.png" width="80%"/>
+</details>
 
-In primul rand, trebuie echipate undita si cu momeala din inventar. Daca nu stii sa faci acest lucru, recomandam vizualizarea paginii de [AICI](https://wiki.evolved.ro/general/inventory#%F0%9F%9B%A0%EF%B8%8F-cum-interactionezi-cu-itemele).
+<details>
+  <summary>Momeala in apa</summary>
+<img src="https://i.imgur.com/whlJGhI.png" width="80%"/>
+</details>
 
-Pentru a prinde un peste, trebuie sa fii atent la bara de pescuit.
+Momentul cand trebuie sa apati pe butonul ``CLICK TO REEL`` este atunci cand momeala se afla in apa, aveti la dispozitie 5 secunde.
 
-Apesi pe butonul **Click to reel** in momentul in care momeala se afla sub nivelul apei in Textdraw.
-
-<img src="https://i.imgur.com/2EOkiEH.png" width="50%"/>
-
-> [!TIP] XP-ul si banii vor fi primiti in momentul in care vindeti pestii in cadrul unui business de tip 24/7. 
+> [!TIP] XP-ul si banii vor fi primiti in momentul in care vindeti pestii in cadrul unui business de tip 24/7.
