@@ -1,34 +1,26 @@
 ---
-title: Instructors
+title: School Instructors
 ---
 
+# 🧑🏼‍✈️ School Instructors (Instructori Licente) 🛩
+## 📌 Info General
 
+**School Instructors** este o factiune pasnica a carei misiune este de a oferi licente (Driver, Gun, Trucker, Fly, Boat) in urma unui test corect si a platii unei sume de bani.
 
-# 🧑🏼‍✈️Informații generale School Instructors 🛩
+## 💻 Comenzi Esentiale
 
-**School Instructors** este o factiune pasnica care are scopul de a oferii licente de tip driver, gun, trucker, fly, boat in urma unui test si unei sume de bani.
-
-## 💻 Comenzile Factiunii
-
-Comenzile esentiale pentru a sustine un examen sunt:
-
-* **/startexam**: Incepe examenul.
-* **/givelicence (numarul de ore)**: Acorda licenta (pentru un numar specific de ore)
-* **/stopexam**: Opreste examenul (anulare/finalizare).
+| Comanda | Functie |
+| :--- | :--- |
+| **/startexam** | Incepe examenul. |
+| **/givelicence (ore)** | Acorda licenta (numarul de ore specificat). |
+| **/stopexam** | Opreste examenul (anulare sau finalizare). |
 
 ### Locatiile de Examen
 
-Poti gasi toate zonele de examinare in GPS:
+Toate zonele de examinare sunt centralizate si pot fi gasite in GPS:
 
 1.  Foloseste comanda **/gps** -> `Other`
 2.  Apoi click pe **Exam Locations**
-
-<details>
-  <summary>/gps -> Other si click pe Exam Locations</summary>
-<img src="https://i.imgur.com/pEzVeCA.jpeg" width="60%"/>
-</details>
-
-Toate zonele disponibile vor fi vizibile pe harta:
 
 <details>
   <summary>Locatiile de examen vizibile in /gps</summary>
@@ -41,43 +33,42 @@ Toate zonele disponibile vor fi vizibile pe harta:
 
 ### 💡 Fluxul Examenului
 
-* Ordinea comenzilor obligatorii este **`/startexam` -> `Examen` -> `/givelicence` sau `/stopexam`**.
-* **Anulare:** Daca instructorul opreste examinarea (`/stopexam`) inainte de a acorda licenta, testul trebuie reluat integral, dar banii se **restituie** jucatorului.
+* Ordinea comenzilor obligatorii este: **`/startexam` $\rightarrow$ `Examen` $\rightarrow$ `/givelicence` sau `/stopexam`**.
+* **Anulare:** Daca instructorul opreste testul cu `/stopexam` inainte de a da licenta, banii se **restituie integral** jucatorului, iar testul trebuie reluat.
 
-### 🎥Dovezile Video (Obligatoriu)
-* Dovezile **trebuie** sa inceapa inainte ca playerul cu care se sustine licenta sa dea /showlicence (ID-ul instructorului) si sa se sfarseasca dupa ce licenta a fost acordata. In cazul in care trebuie restituiti banii, filmarea se opreste dupa ce instructorul a oferit banii inapoi playerului in scopul de a relua testul.
-* Fiecare instructor este obligat sa pastreze dovezile video ale testului in calculator pentru cel putin **48 de ore**. 
-* **Solicitare Dovada:** Liderul/Co-liderul sau verificatorul de teste iti poate cere dovada oricarei licente acordate. Esti obligat sa o uploadezi in urmatoarele **30 de minute**. Lipsa dovezii video se sanctioneaza cu Faction Warn.
-* **Frauda:** Fraudarea raportului (sau a dovezilor) se sanctioneaza sever: **Uninvite pe loc**, 150 Faction Punish si interdictie in factiunile de acest tip pentru **6 luni**.
-#### ⚠️ Dovezile video in care numele serverului, data, chatul sau numele playerului nu sunt lizibile NU vor fi luate in considerare
+### 🎥 Reguli Dovedi Video (Obligatoriu)
 
-lizibil = Care poate fi citit (cu ușurință)
+Dovezile video sunt esentiale pentru transparenta si validarea examenului.
 
-### 🚤 Reguli licente
+| Cerinta Dovada Video | Sanctiune Nerespectare |
+| :--- | :--- |
+| Filmarea trebuie sa inceapa **inainte** ca playerul sa foloseasca **/showlicence** (ID instructor) si se incheie **dupa** acordarea licentei. | **FW** (daca dovada lipseste) |
+| Dovada trebuie sa fie pastrata pe calculator pentru minim **48 de ore**. | **FW** (daca dovada lipseste) |
+| La cererea liderului/verificatorului, dovada trebuie urcata in **30 de minute**. | **FW** (daca dovada lipseste) |
+| Chat-ul (inclusiv numele serverului, data, numele playerului) trebuie sa fie **lizibil** (clar vizibil). | **NU** este luata in considerare |
+| Trebuie sa ai **/timestamp** activ pe chat si **/pagesize 30**. | Avertisment Verbal (AV) pentru chat-uri, **FW** pentru pagesize/timestamp |
+| Tine chaturile inutile (/c /wt) **inchise** pe durata filmarii. | AV |
 
-Fiecare licenta trebuie filmata video, cu **/timestamp** activ pe chat, **/pagesize 30** si restul chaturilor inchise (specific /c /wt). Fiecare abatere este sanctionata cu AV, exemple:
-- instructorul a lasat chatul clanului activ si pe chat apar injuraturi de pe /c, instructorul va fi sanctionat cu AV
-- instructorul nu are /pagesize 30 si /timestamp => FW
+### ⛔ Frauda si Bani
 
-**Acordarea licentelor** contra unei sume de bani mai mica sau mai mare decat cele mentionate **[aici](https://wiki.evolved.ro/factions/faction%20list/instructors)** este sanctionata cu Faction Warn.
-* Nerespectarea numarului de ore la o licenta acordata in functie de mentiunile de mai sus va fi sanctionat cu FW.
-* Orice licenta poate fi reinnoita daca aceasta mai are 3 ore pana sa expire
+* **Acordarea licentelor** la un pret diferit decat cel oficial (mai mic sau mai mare) este sanctionata cu **Faction Warn (FW)**.
+* Nerespectarea numarului de ore specificate pentru o licenta duce la **FW**.
+* **FRAUDA (Grave):** Oferirea de bani jucatorilor in scopul sustinerii licentei este considerata **FRAUDA** si duce la **Uninvite pe loc cu 150 FP si interdictie 6 luni**.
 
-Oferirea banilor in scopul de a sustine licenta este considerata **FRAUDA** si duce la Uninvite pe lov cu 150 FP si interdictie in factiunile de acest tip pentru **6 luni**.
+### 🗣️ Reguli de Chat (/f) si Sedinte
 
-**Limbajul vulgar, jignirile sau insultele directe/indirecte pe /f** se sanctioneaza cu FW sau Uninvite in functie de gravitate sau repetari in 24h. (La 2 FW-uri pe injuraturi in mai putin de 24h Uninvite cu 60 FP indiferent de zile)
-**Spam pe /f** se sanctioneaza in felul urmator:
-- 2-3 randuri AV, 
-- 4-5 randuri FW, 
-- 6+ randuri Uninvite cu 60 FP indiferent de zile si restrictie in factiunea respectiva 30 de zile
+* **Limbaj Vulgar/Jigniri:** Se sanctioneaza cu **FW** sau **Uninvite**, in functie de gravitate sau repetari (2 FW pe injuraturi in 24h = Uninvite cu 60 FP).
+* **Spam pe /f** se sanctioneaza gradual: 2-3 randuri $\rightarrow$ AV; 4-5 randuri $\rightarrow$ FW; 6+ randuri $\rightarrow$ Uninvite cu 60 FP si restrictie 30 de zile.
+* **Certurile pe /f** nu sunt tolerate. Rezolva problemele in PM-uri separate. Liderul poate sanctiona cu AV pana la FW.
+* **Neprezentarea la sedinta:** Se sanctioneaza cu Avertisment Verbal (AV).
 
-**Neprezentarea la sedinta** in intervalul orar decis de lider va fi sanctionat cu Avertisment Verbal
+### 🛠️ Situatii Speciale
 
-In cazul in care un player creeaza probleme(distruge barca, avionul sau nu respecta instructiunile oferite) se va da **/stopexam** si vor fi restituiti banii. In acest caz puteti anunta ceilalti colegi pe chaturile factiunii ca playerul respectiv are restrictie din a primi licente.
+* **Reinnoire Licenta:** Orice licenta poate fi reinnoita daca mai are **3 ore** pana la expirare.
+* **Player cu Probleme (Distrugere/Neascultare):** Se da **/stopexam** imediat si se restituie banii. Puteti anunta colegii pe /r ca playerul are restrictie de la a sustine licente.
+* **Deconectare (DC) in Timpul Testului:** Testul se opreste. Instructorul trebuie sa restituie banii in maxim **48 de ore**. Daca playerul nu intra in 48h, instructorul poate pastra banii si nu este sanctionat.
 
-**Certurile pe /f** nu vor fi tolerate, orice problema cu un alt coleg se rezolva pe chaturile separate, in functie de gravitatea acesteia, liderul poate sanctiona intre AV si FW.
+### 📝 Raport de Activitate
 
-In cazul i ncare un player se deconecteaza in timpul testului, instructorului ii se va oprii testul iar acesta va trebui sa restituie banii in 48h maxim.
- - Daca playerul nu a mai intrat pe server in 48h de la sustinerea testului, instructorul poate pastra banii si nu va fi sanctionat. 
-
-**Necompletarea raportului** la rank 1 va duce la Uninvite de catre lider, iar de la rank2+ se va acorda FW.
+* **Rank 1:** Necompletarea raportului duce la **Uninvite** de catre lider.
+* **Rank 2+:** Necompletarea raportului se sanctioneaza cu **FW**.
