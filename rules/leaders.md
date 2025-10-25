@@ -1,5 +1,5 @@
 ---
-title: Regulamentul Liderilor si Subliderilor
+title: Leader's and Co-leader's Rules
 ---
 
 # 👑 REGULAMENTUL LIDERILOR SI SUBLIDERILOR

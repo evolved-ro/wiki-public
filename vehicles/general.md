@@ -1,5 +1,5 @@
 ---
-title: Informatii generale despre masinile de pe server
+title: General Informations about vehicles
 ---
 
 # 🚗 Vehiculele pe Server

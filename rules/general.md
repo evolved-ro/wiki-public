@@ -1,5 +1,5 @@
 ---
-title: Regulamentul Serverului
+title: Server Rules
 ---
 
 # 📜 REGULAMENTUL SERVERULUI
