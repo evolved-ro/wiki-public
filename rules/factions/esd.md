@@ -2,48 +2,81 @@
 title: Emergency Services
 ---
 
-# Informații generale Emergency Services LS
-**Emergency Services LS** este o facțiune pașnică, sediul acesteia fiind "All Saints General Hospital" din orasul Los Santos, care are ca și domeniu de activitate următoarele:
-1. Paramedic -> Oferă heal jucătorilor cu HP scăzut.
-2. Firefighter -> Stinge incendiile izbucnite.
+# 🏥 Emergency Services LS (ESD)
+## 📌 Info General
+
+**Emergency Services LS** este factiunea de salvare a serverului. Sediul nostru este la **"All Saints General Hospital"** din Los Santos. Misiunea noastra este simpla: sa salvam vieti si sa stingem focuri!
+
+### Domenii de Activitate:
+
+1.  **Paramedic:** Ofera heal jucatorilor cu HP scazut si transporta pacientii.
+2.  **Firefighter:** Stinge incendiile izbucnite pe server.
 
 ---
-## Comenzi ale facțiunii:
-- /r -> chat-ul facțiunii.
-- /heal [id] [suma] -> oferi heal jucătorilor care vă cer ajutorul
-- /missions -> vezi apelurile active de la jucătorii care au folosit comanda /service medic
-- /duty -> te pui la datorie în cadrul facțiunii, totodata aici alegând ce doresti sa fi ( Paramedic / FireFighter)
+## 💻 Comenzi Esentiale
 
-## Vehiculele facțiunii:
-În prezent, facțiunea dispune de următoarele vehicule:
-- Ambulance -> 3
-- Firetruck -> 3
-- Rancher -> 2
-- Maverick -> 1
+| Comanda | Functie | Detalii |
+| :--- | :--- | :--- |
+| **/r** | Chat Intern | Chat-ul factiunii, folosit pentru comunicare. |
+| **/heal [id] [suma]** | Ofera Heal | Vindeci jucatorii care iti cer ajutorul in schimbul unei sume. |
+| **/missions** | Vezi Apeluri | Afiseaza apelurile active generate de comanda **/service medic**. |
+| **/duty** | Te Pui la Datorie | Te pui On-Duty si alegi daca vrei sa fii **Paramedic** sau **FireFighter** (in functie de balansul factiunii). |
 
+---
 
-## Sanctiuniile facțiunii:
-Este interzisă folosirea lor în scop personal ( Faction Warn).
-Când luați un vehicul al facțiunii , sunteți obligați să anunțați pe chat-ul facțiunii [/r Ambulance / Firetruck / Rancher / Maverick la mine] (Avertisment Verbal).
-Sunteți obligați să distrugeți mașina după ce v-ați terminat treaba cu ea / să întrebați pe /r dacă se poate acorda un fvr ( Exemplu : rank 6+ on pentru fvr ?) (Avertisment Verbal).
-Este interzisă modificarea culorii, adăugarea de NOS / hidraulice pe mașinile facțiunii. ( Avertisment Verbal)
-Sirena este folosită doar în momentul în care sunteți într-o misiune / aveti o comandă acceptată. ( Avertisment Verbal).
-Aveti voie să țineți în / pe vehicul doar colegii din facțiune / o persoana , cu condiția să ramână cel puțin un loc liber. ( Faction Warn).
-Nu aveți voie să faceți SPAM pe chat-ul facțiunii ( 3+ randuri -> Amendă $30.000, 5+ Rânduri -> Faction Warn).
-Limbajul pe chat-ul facțiunii trebuie să fie unul decent. ( Faction Warn / Uninvite în funcție de gravitate)
-Nu aveți voie să vă poziționați cu mașina facțiunii în apropierea intrărilor într-un business, blocând astfel utilizarea serviciilor biz-ului respectiv. ( Faction Warn).
-Refuzul oferirii unui serviciu cerut de client fără un motiv bine întemeiat va fi sancționat cu Faction Warn.
-Necompletarea raportului de activitate va aduce după sine sancțiunile următoare:
-Rank 1 -> Uninvite cu FP.
-Rank 2 -> FW ; 2 rapoarte neefectuate consecutiv = Uninvite.
-Perioada minimă pentru a putea fi demiși din cadrul facțiunii cu 0 Faction Punish(FP) este de 14 zile.
-Puteți deține orice tip de job legal / ilegal.
-Este interzis să cereți bacșiș (Faction Warn). Daca jucătorul vă oferă o sumă de bani pentru că l-ați ajutat cu un serviciu, îi mulțumiți politicos și păstrați banii. 
-Puteți folosi comanda /eject dacă i-ați oferit heal jucătorului și l-ați rugat frumos să coboare, iar acesta refuză. În această situație este indicat să aveți dovezi.
-Este strict interzis să abuzați de FireTruck și să dați cu jet de apă pe jucători. ( Faction Warn).
-Este interzisă fraudarea raportului sub orice formă ( se consideră fraudare și oferirea de bani jucătorilor pentru a urca în mașina facțiunii și a le acorda heal)= Uninvite.
-Nu aveți voie să oferiți heal unui jucător căruia un coleg de al vostru i-a acceptat comanda. (Avertisment Verbal).
-La două avertismente verbale acumulate în cadrul facțiunii , o să fiți sancționați cu Faction Warn.
-Nu aveți voie să furați mașina facțiunii folosită de unul dintre colegii voștrii. ( Faction Warn)
-In cazul în care doriți să reclamați un coleg din cadrul facțiunii, puteți să o faceți cu dovezile aferente și cat mai clare pe panelul server-ului, sau prin PM la lider.
-Pentru reclamațiile create pe panel, este indicat să aveți un limbaj cât mai decent, în caz contrar o să fiți sancționați în funcție de gravitate. 
+## 🚒 Vehiculele Factiunii
+
+Foloseste vehiculele doar pentru misiuni oficiale!
+
+| Vehicul | Numar Disponibil |
+| :---: | :---: |
+| Ambulance | 3 |
+| Firetruck | 3 |
+| Rancher | 2 |
+| Maverick | 1 |
+
+---
+
+## ❌ Reguli si Sanctiuni (Ghid de Conduita)
+
+Regulile sunt stricte pentru a asigura profesionalismul si seriozitatea factiunii.
+
+### Reguli Vehicule si Sirene
+
+| Conduita Interzisa | Sanctiune |
+| :--- | :--- |
+| Folosirea vehiculelor in scop personal. | **Faction Warn (FW)** |
+| A nu distruge masina dupa misiune / a nu cere FVR. | Avertisment Verbal (AV) |
+| Modificarea culorii / adaugarea de NOS / hidraulice. | Avertisment Verbal (AV) |
+| Folosirea sirenei fara a fi intr-o misiune / comanda acceptata. | Avertisment Verbal (AV) |
+| A tine in / pe vehicul mai mult de 1 persoana din afara factiunii (trebuie sa ramana 1 loc liber). | **Faction Warn (FW)** |
+| A bloca intrarile in business-uri cu masina factiunii. | **Faction Warn (FW)** |
+| Furtul masinii folosite de un coleg (Furt Faction Vehicle). | **Faction Warn (FW)** |
+| Abuzul cu FireTruck (a da cu jet de apa pe jucatori). | **Faction Warn (FW)** |
+| **NOTA:** 2x Avertismente Verbale (AV) duc la 1x **Faction Warn (FW)**. | |
+
+### Reguli Chat si Roleplay
+
+| Conduita Interzisa | Sanctiune |
+| :--- | :--- |
+| SPAM pe chat-ul factiunii (3+ randuri). | Amenda **$30.000** |
+| SPAM pe chat-ul factiunii (5+ randuri). | **Faction Warn (FW)** |
+| Limbaj indecent pe chat-ul factiunii. | **FW / Uninvite** (in functie de gravitate) |
+| Refuzul unui serviciu cerut de client (fara motiv intemeiat). | **Faction Warn (FW)** |
+| A cere bacsis (tip). | **Faction Warn (FW)** |
+| A oferi heal unui jucator care a fost acceptat de alt coleg. | Avertisment Verbal (AV) |
+
+### Reguli de Activitate si Raport
+
+| Conduita Interzisa | Sanctiune |
+| :--- | :--- |
+| Necompletarea Raportului de Activitate (Rank 1). | **Uninvite cu FP** |
+| Necompletarea Raportului de Activitate (Rank 2). | **FW** (2 rapoarte neefectuate consecutiv = Uninvite) |
+| Fraudarea raportului sub orice forma (inclusiv a oferi bani pentru heal). | **Uninvite** |
+
+### Alte Reguli Importante
+
+* **Eject:** Ai voie sa folosesti comanda **/eject** daca i-ai oferit heal jucatorului, l-ai rugat sa coboare, iar acesta refuza. Trebuie sa ai dovezi!
+* **Joburi:** Poti detine orice tip de job, fie el legal sau ilegal.
+* **Demisie Curata:** Perioada minima pentru a demisiona cu 0 Faction Punish (FP) este de **14 zile**.
+* **Reclamatii:** Poti reclama un coleg pe UCP-ul serverului. Limbajul decent la reclamatii este obligatoriu, altfel risti sanctiuni.
