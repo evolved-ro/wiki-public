@@ -15,48 +15,6 @@ Pe server sunt valabile 5 tipuri de licente:
 * Plane Licence (Permis Avion)
 * Boat Licence (Permis Barca)
 
-## 💻 Comenzile Factiunii
-
-Comenzile esentiale pentru a sustine un examen sunt:
-
-* **/startexam**: Incepe examenul.
-* **/givelicence (numarul de ore)**: Acorda licenta (pentru un numar specific de ore)
-* **/stopexam**: Opreste examenul (anulare/finalizare).
-
-### Locatiile de Examen
-
-Poti gasi toate zonele de examinare in GPS:
-
-1.  Foloseste comanda **/gps** -> `Other`
-2.  Apoi click pe **Exam Locations**
-
-<details>
-  <summary>/gps -> Other si click pe Exam Locations</summary>
-<img src="https://i.imgur.com/pEzVeCA.jpeg" width="60%"/>
-</details>
-
-Toate zonele disponibile vor fi vizibile pe harta:
-
-<details>
-  <summary>Locatiile de examen vizibile in /gps</summary>
-<img src="https://i.imgur.com/8i5ZeCb.jpeg" width="60%"/>
-</details>
-
----
-
-## 📜 Reguli si Raspundere
-
-### Fluxul Examenului
-
-* Ordinea comenzilor obligatorii este **`/startexam` -> `Examen` -> `/givelicence` sau `/stopexam`**.
-* **Anulare:** Daca instructorul opreste examinarea (`/stopexam`) inainte de a acorda licenta, testul trebuie reluat integral, dar banii se **restituie** jucatorului.
-
-### Dovezile Video (Obligatoriu)
-
-* Fiecare instructor este obligat sa pastreze dovezile video ale testului in calculator pentru cel putin **48 de ore**.
-* **Solicitare Dovada:** Liderul/Co-liderul sau verificatorul de teste iti poate cere dovada oricarei licente acordate. Esti obligat sa o uploadezi in urmatoarele **30 de minute**. Nerespectarea duce la sanctiuni!
-* **Frauda:** Fraudarea raportului (sau a dovezilor) se sanctioneaza sever: **Uninvite pe loc**, 150 Faction Punish si interdictie in factiunile de acest tip pentru **6 luni**.
-
 ---
 
 ## 🎯 Detalii pe Tip de Licenta
@@ -72,7 +30,6 @@ Toate zonele disponibile vor fi vizibile pe harta:
 </details>
 
 3.  **Finalizare:** Dupa ce tintele sunt eliminate, poti acorda licenta: **/givelicence <10-50>** (unde *10-50* reprezinta numarul de gloante pe care playerul le poate cumpara pe zi).
-4.  **Iesire:** Foloseste **/stopexam**.
 
 ### Boat Licence (Permis Barca)
 
