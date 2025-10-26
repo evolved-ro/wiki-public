@@ -21,7 +21,7 @@ Factiunea **Mechanics** se ocupa cu intretinerea si mentinerea ordinii pe drumur
 | :--- | :--- |
 | **Tasta H** | Atasezi/Dezlipesti masina de tractare (Stai cu spatele la masina de tractat). |
 | **/storecar** | Depozitezi vehiculul tractat la depozitul HQ. |
-| **/restorecar <ID masina>** | Restaurezi vehiculul din depozit (doar pentru proprietar). |
+| **/restorecar ``<ID masina>`` ** | Restaurezi vehiculul din depozit (doar pentru proprietar). |
 
 ### II. Comenzi Service si Reparatii
 
@@ -29,7 +29,7 @@ Factiunea **Mechanics** se ocupa cu intretinerea si mentinerea ordinii pe drumur
 | :--- | :--- |
 | **/rampup** | Ridica rampa de service (Obligatoriu inainte de reparatii/ITP). |
 | **/rampdown** | Coboara rampa de service. |
-| **/repair <ID jucator>** | Repari vehiculul (Dupa ce rampa e sus si motorul masinii e oprit). |
+| **/repair ``<ID jucator>`` ** | Repari vehiculul (Dupa ce rampa e sus si motorul masinii e oprit). |
 
 ### III. Comenzi ITP
 
@@ -37,7 +37,7 @@ Factiunea **Mechanics** se ocupa cu intretinerea si mentinerea ordinii pe drumur
 | :--- | :--- |
 | **/rampup** | Ridica rampa de service (Obligatoriu inainte de inspectie). |
 | **/rampdown** | Coboara rampa de service. |
-| **/inspect <ID jucator>** | Initiaza ITP-ul (Dupa ce rampa e sus si motorul masinii e oprit). |
+| **/inspect ``<ID jucator>``** | Initiaza ITP-ul (Dupa ce rampa e sus si motorul masinii e oprit). |
 
 ---
 
