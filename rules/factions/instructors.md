@@ -33,7 +33,7 @@ Toate zonele de examinare sunt centralizate si pot fi gasite in GPS:
 
 ### 💡 Fluxul Examenului
 
-* Ordinea comenzilor obligatorii este: **`/startexam` $\rightarrow$ `Examen` $\rightarrow$ `/givelicence` sau `/stopexam`**.
+* Ordinea comenzilor obligatorii este: **`/startexam` -> `Examen` -> `/givelicence` sau `/stopexam`**.
 * **Anulare:** Daca instructorul opreste testul cu `/stopexam` inainte de a da licenta, banii se **restituie integral** jucatorului, iar testul trebuie reluat.
 
 ### 🎥 Reguli Dovedi Video (Obligatoriu)
@@ -58,7 +58,7 @@ Dovezile video sunt esentiale pentru transparenta si validarea examenului.
 ### 🗣️ Reguli de Chat (/f) si Sedinte
 
 * **Limbaj Vulgar/Jigniri:** Se sanctioneaza cu **FW** sau **Uninvite**, in functie de gravitate sau repetari (2 FW pe injuraturi in 24h = Uninvite cu 60 FP).
-* **Spam pe /f** se sanctioneaza gradual: 2-3 randuri $\rightarrow$ AV; 4-5 randuri $\rightarrow$ FW; 6+ randuri $\rightarrow$ Uninvite cu 60 FP si restrictie 30 de zile.
+* **Spam pe /f** se sanctioneaza gradual: 2-3 randuri -> AV; 4-5 randuri -> FW; 6+ randuri -> Uninvite cu 60 FP si restrictie 30 de zile.
 * **Certurile pe /f** nu sunt tolerate. Rezolva problemele in PM-uri separate. Liderul poate sanctiona cu AV pana la FW.
 * **Neprezentarea la sedinta:** Se sanctioneaza cu Avertisment Verbal (AV).
 
