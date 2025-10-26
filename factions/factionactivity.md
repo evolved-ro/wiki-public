@@ -1,5 +1,5 @@
 ---
-title: Raportul de Activitate Facțională
+title: Faction Activity
 ---
 
 # 📜 Regulamentul Activitatii in Factiuni: Tot ce trebuie sa stii
