@@ -3,7 +3,8 @@ title: Livestock
 sidebar_label: Livestock
 ---
 
-# 🐔 LIVE STOCK - PASSIVE JOB (Job Pasiv)
+# 🐔 LIVE STOCK
+## 📌 Info General
 
 Pe server am introdus conceptul de **Job Pasiv** sub forma de **Live Stock** (Cresterea Animalelor).
 
@@ -18,6 +19,8 @@ Aceasta este o sursa de profit constant si necesita investitie si intretinere. P
 Dupa achizitie, vei primi un mesaj de confirmare de la fermier:
 
 <img src="https://i.imgur.com/QVl3Rhd.png" width="65%"/>
+
+---
 
 ## 💻 Comenzi si Administrare
 
@@ -61,6 +64,8 @@ Mai multe informatii [AICI](Farmer.md).
 Folosind comanda `/collect`, aduni produsele (oua de la gaini, lapte de la vaci).
 
 * **Vanzare:** Aceste produse pot fi vandute in orice business de tip **Restaurant** pentru a obtine profit.
+
+---
 
 ## 🔔 Monitorizare si Intretinere
 
