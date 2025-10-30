@@ -46,8 +46,8 @@ Dovezile video sunt esentiale pentru transparenta si validarea examenului.
 | Dovada trebuie sa fie pastrata pe calculator pentru minim **48 de ore**. | **FW** (daca dovada lipseste) |
 | La cererea liderului/verificatorului, dovada trebuie urcata in **30 de minute**. | **FW** (daca dovada lipseste) |
 | Chat-ul (inclusiv numele serverului, data, numele playerului) trebuie sa fie **lizibil** (clar vizibil). | **NU** este luata in considerare |
-| Trebuie sa ai **/timestamp** activ pe chat si **/pagesize 30**. | Avertisment Verbal (AV) pentru chat-uri, **FW** pentru pagesize/timestamp |
-| Tine chaturile inutile (/c /wt) **inchise** pe durata filmarii. | AV |
+| Trebuie sa ai **/timestamp** activ pe chat si **/pagesize 30**. |  **FW** pentru pagesize/timestamp |
+| Tine chaturile inutile (/c /wt) **inchise** pe durata filmarii. | **Avertisment Verbal (AV)** |
 
 ### ⛔ Frauda si Bani
 
@@ -57,9 +57,12 @@ Dovezile video sunt esentiale pentru transparenta si validarea examenului.
 
 ### 🗣️ Reguli de Chat (/f)
 
-* **Limbaj Vulgar/Jigniri:** Se sanctioneaza cu **FW** sau **Uninvite**, in functie de gravitate sau repetari (2 FW pe injuraturi in 24h = Uninvite cu 60 FP).
-* **Spam pe /f** se sanctioneaza gradual: 2-3 randuri -> AV; 4-5 randuri -> FW; 6+ randuri -> Uninvite cu 60 FP si restrictie 30 de zile.
-* **Certurile pe /f** nu sunt tolerate. Rezolva problemele in PM-uri separate. Liderul poate sanctiona cu AV pana la FW.
+| Conduita Interzisa | Sanctiune |
+| :--- | :--- |
+| SPAM pe chat-ul factiunii (3+ randuri). | Amenda **$30.000** |
+| SPAM pe chat-ul factiunii (5+ randuri). | **Faction Warn (FW)** |
+| Limbaj Vulgar/Jigniri |  **Faction Warn (FW)** sau **Uninvite cu 60 FP** |
+| Certurile pe /f | **Avertisment Verbal (AV)** sau **Faction Warn (FW)** |
 
 ### 🛠️ Situatii Speciale
 

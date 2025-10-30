@@ -118,7 +118,7 @@ Limbajul si comportamentul sunt esentiale.
 > Exemplu: Se baga in fata masinii acestora, le blocheaza orice cale de access spre urmarirea unui suspect.
 
 * **Conducand fara permis(driving without licence):** Cand un player este prins de radarul mobil la volanul unui vehicul fara a detine permis de conducere.
-* **Neconformare ordin:** Nu raspunde la 3 somatii **DE PERMIS/AMENDA/FRISK** (/handsup, ticket). **Fara drept predare.
+* **Neconformare ordin:** Nu raspunde la 3 somatii **DE PERMIS/AMENDA/FRISK** (/handsup, ticket).
 * **Atacarea unui politist(Cop attack):** Daca esti atacat (orice glont primit in armura/hp sau 15 pumni) 
 * **Complice la atacarea unui politist(complice Cop attack):** Pentru soferul unui vehicul in care se afla minim un pasager cu **COP ATTACK** iar acel pasager incepe sa traga in politisti, daca nu primeste /eject in 5 secunde de la primul glont tras, este considerat complice. 
 * **Uciderea unui politist(Kill Cop):** Cand un politist a fost ucis de catre playerul X, acesta ii poate acorda acest wanted. 

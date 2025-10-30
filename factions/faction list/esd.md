@@ -19,6 +19,19 @@ Jucatorii **nu-si pot alege** tipul de duty (Paramedic sau Pompier) la executare
 
 ---
 
+
+# 🚒 Vehiculele Factiunii
+
+Foloseste vehiculele doar pentru misiuni oficiale!
+
+| Vehicul | Numar Disponibil |
+| :---: | :---: |
+| Ambulance | 3 |
+| Firetruck | 3 |
+| Rancher | 2 |
+| Maverick | 1 |
+---
+
 # 🚑 PARAMEDIC ACTIVITIES
 
 Paramedicii au misiuni date de server si pot oferi *heal* direct jucatorilor.

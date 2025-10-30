@@ -14,18 +14,18 @@ Regulile liderilor se aplica si subliderilor. Liderul are datoria de a instiinta
 
 | Conditie | Sanctiune | Detalii |
 | :--- | :--- | :--- |
-| **Incalcarea Regulamentului** | Se scoate din factiune sau se acorda Faction Warn (FW). | Ex. greseli interne: /news gresit, wanted gresit, raport incomplet. |
+| **Incalcarea Regulamentului** | Se scoate din factiune sau se acorda **Faction Warn (FW)**. | Ex. greseli interne: /news gresit, wanted gresit, raport incomplet. |
 | **Demitere Fara Faction Punish (FP)** | Permisa doar daca membrul are **peste Rank 1**. | **NU** se scoate sub nicio forma fara FP daca are Rank 1. |
-| **Demitere cu 60 FP** | Daca are peste Rank 1 si a incalcat reguli clare (ex.: DM, injurii). | N/A |
+| **Demitere cu 60 FP** | N/A | Va primi automat de la server daca are raport incomplet la rank 1 |
 | **Dovada Obligatorie** | Pentru orice demitere, este nevoie de un motiv clar si de **dovezi existente**. | Liderul va fi sanctionat daca nu aduce dovezi. |
-| **Avertisment Verbal (AV)** | AV se da pentru greseli mici si rare (ex. limbaj non-grav). | Un AV expira in **15-20 zile** (liderul decide perioada). |
+| **Abuz de functie** | Se va lua legatura cu un admin sa il demita cu 150 FP | N/A |
 
 ### 1.2. Reguli Inactivitate si Ban
 
 | Conditie | Regula de Demitere | Observatii |
 | :--- | :--- | :--- |
-| **Membru Banat** | Demis dupa **3 zile** de la primirea banului. | **Rank > 1:** Fara FP. **Rank 1:** Cu FP (Motiv: "banat"). |
-| **Incalcarea Regulamentului Inainte de Ban** | Se poate sanctiona chiar daca este banat. | La 3/3 FW's, se demite cu motivul: "3/3 / Banned". |
+| **Membru Banat** | Demis dupa **3 zile** de la primirea banului. **DOAR** Pentru banurile mai mari de 14 zile | **Rank > 1:** Fara FP. **Rank 1:** Cu FP (Motiv: "banat"). |
+| **Incalcarea Regulamentului Inainte de Ban** | Se poate sanctiona daca banul nu a fost acordat pe motiv **'Abuz de functie'** | La 3/3 FW's, se demite cu motivul: "3/3 / Banned". |
 | **Membru Banat (Lider Nou)** | Demis pe motivul: **"Wipe / Banned"**, fara FP. | N/A |
 | **Mafii (Regula Speciala)** | Playerii banati **NU** vor fi demisi, se asteapta uninvite automat de la server. | **NU** aveti voie sa demiteti in timpul war-urilor. |
 
@@ -57,31 +57,22 @@ Regulile liderilor se aplica si subliderilor. Liderul are datoria de a instiinta
 
 ---
 
-## 3. 📅 Reguli Sedinte si Recrutari
+## 3. 📅 Reguli Recrutari
 
-### 3.1. Sedinte
-
-| Anunt Sedinta (Timp) | Sanctiune Absenta |
-| :--- | :--- |
-| **Minim 7 zile inainte** | FW (Faction Warn) |
-| **Intre 3 si 6 zile inainte** | Maxim AV (Avertisment Verbal) sau Amenda |
-| **Mai putin de 3 zile inainte** | Nu se sanctioneaza |
-
-* Sedintele trebuie anuntate obligatoriu pe **forum** si in joc prin **`/gmotd`**.
-
-### 3.2. Recrutari si Teste
+### 3.1. Recrutari si Teste
 
 | Regula | Conditie | Detalii |
 | :--- | :--- | :--- |
 | **Obligatia de a Recruta** | Liderul este obligat sa recruteze cel putin **un membru** intr-un interval de **3 zile**. | Se aplica doar daca factiunea are cel putin **5 locuri libere**. (NU se aplica mafiilor). |
 | **Obligatia Acceptare** | Daca sunt mai mult de **10 locuri libere**. | Liderul este obligat sa accepte orice aplicatie (daca nu exista un motiv grav de respingere). |
 | **Termen Aplicatie** | O aplicatie trebuie acceptata/respinsa in **3 zile**. | N/A |
-| **Numar Testers** | O factiune poate avea maxim **5 testeri**. | N/A |
 | **Testare (Inainte de Invite)** | Testele sunt **obligatorii** si trebuie sa fie complexe (minim 15 intrebari). | N/A |
 | **Perioada de Asteptare Test** | Minim **48 de ore** inainte de a declara neprezentarea unui jucator acceptat la test. | Se poate prelungi la 72 de ore. |
 
-### 3.3. Restrictii Recrutare
+### 3.2. Restrictii Recrutare
 
+* **Picare test factiune:** Daca un player a picat testul de intrare in factiune are restrictie **7 zile**
+* **Abuzde functie:** Are restrictie in tipul de factiune **6 luni** 
 * **Ban Cheats:** Cei care au in "Last punish" ban pentru **'cheats'** (aimbot, speed, etc.) **NU** pot fi acceptati in mafii / departamente de politie / hitmani.
 * **Mafii (in timpul WAR):** Liderii **nu pot recruta** jucatori in factiune in timpul war-urilor.
 
@@ -92,8 +83,7 @@ Regulile liderilor se aplica si subliderilor. Liderul are datoria de a instiinta
 | Regula | Timp/Conditie | Sanctiune Nerespectare |
 | :--- | :--- | :--- |
 | **Rank Up Sublider** | Membrul are nevoie de minim **60 zile** adunate in acel **tip de factiune**. | **LW** (Leader Warn) si restaurarea rank-ului. |
-| **Durata Minima Functie (Normala)** | **30 zile** pentru a se demite cu Rank 6. | **LW** (prima) -> **Uninvite** (a 2-a). |
-| **Durata Minima Functie (Mafii)** | **15 zile** pentru a se demite cu Rank 6. | **LW** (prima) -> **Uninvite** (a 2-a). |
+| **Durata Minima Functie (Mafii)** | **15 zile** pentru a se demite cu Rank 6. | **LW** (prima) -> **Remove** (a 2-a). |
 | **Demitere Sublider** | Liderul nu poate demite un sublider cu rank 6, decat daca acesta a detinut functia mai mult de **14 zile**. | **LW + Modificare FH Sublider** |
 | **Schimbare Sublider** | Liderul poate schimba un sublider o data la minim **30 de zile**. | **LW** |
 | **Sublider Banat** | Se demite pe motivul "**Banned**" si se anunta admin 5+ pentru modificarea FH-ului. | **AV** daca nu a anuntat legat de modificarea FH-ului. |

@@ -24,19 +24,6 @@ title: Emergency Services
 
 ---
 
-## 🚒 Vehiculele Factiunii
-
-Foloseste vehiculele doar pentru misiuni oficiale!
-
-| Vehicul | Numar Disponibil |
-| :---: | :---: |
-| Ambulance | 3 |
-| Firetruck | 3 |
-| Rancher | 2 |
-| Maverick | 1 |
-
----
-
 ## ❌ Reguli si Sanctiuni (Ghid de Conduita)
 
 Regulile sunt stricte pentru a asigura profesionalismul si seriozitatea factiunii.
@@ -46,9 +33,9 @@ Regulile sunt stricte pentru a asigura profesionalismul si seriozitatea factiuni
 | Conduita Interzisa | Sanctiune |
 | :--- | :--- |
 | Folosirea vehiculelor in scop personal. | **Faction Warn (FW)** |
-| A nu distruge masina dupa misiune / a nu cere FVR. | Avertisment Verbal (AV) |
-| Modificarea culorii / adaugarea de NOS / hidraulice. | Avertisment Verbal (AV) |
-| Folosirea sirenei fara a fi intr-o misiune / comanda acceptata. | Avertisment Verbal (AV) |
+| A nu distruge masina dupa misiune / a nu cere FVR. | **Avertisment Verbal (AV)** |
+| Modificarea culorii / adaugarea de NOS / hidraulice. | **Avertisment Verbal (AV)** |
+| Folosirea sirenei fara a fi intr-o misiune / comanda acceptata. | **Avertisment Verbal (AV)** |
 | A tine in / pe vehicul mai mult de 1 persoana din afara factiunii (trebuie sa ramana 1 loc liber). | **Faction Warn (FW)** |
 | A bloca intrarile in business-uri cu masina factiunii. | **Faction Warn (FW)** |
 | Furtul masinii folosite de un coleg (Furt Faction Vehicle). | **Faction Warn (FW)** |
