@@ -3,7 +3,7 @@ title: Passive Farmer
 sidebar_label: Passive Farmer
 ---
 
-# 🌱 PASSIVE FARMER (Plantarea Semintelor)
+# 🌱 PASSIVE FARMER
 ## 📌 Info General
 
 In cadrul job-ului de Farmer exista si o parte pasiva prin care iti poti planta seeds-urile pe care le-ai procurat practicand job-ul Farmer activ.
@@ -17,7 +17,7 @@ Aceasta este o sursa de profit suplimentara care necesita timp si intretinere (u
 
 <details>
   <summary> George Calinescu  NPC </summary>
-  <img src="https://imgur.com/a/JGhzb2O" width="60%"/>
+  <img src="https://i.imgur.com/gcQSQnn.png" width="30%"/>
   </details>
 
 ---
@@ -59,4 +59,4 @@ Procesul de crestere si intervalul de udare difera in functie de tipul de planta
 | **Weed** | 3 ore | La fiecare 45 de minute |
 | **Cocaine** | 4 ore | La fiecare 1 ora |
 
-* **Notificari SMS:** Vei primi un SMS care sa te instiinteze cand trebuie sa uzi plante
+* **Notificari SMS:** Vei primi un SMS care sa te instiinteze cand trebuie sa uzi plantele sau sa vii sa le colectezi.
