@@ -55,12 +55,11 @@ Dovezile video sunt esentiale pentru transparenta si validarea examenului.
 * Nerespectarea numarului de ore specificate pentru o licenta duce la **FW**.
 * **FRAUDA (Grave):** Oferirea de bani jucatorilor in scopul sustinerii licentei este considerata **FRAUDA** si duce la **Uninvite pe loc cu 150 FP si interdictie 6 luni**.
 
-### 🗣️ Reguli de Chat (/f) si Sedinte
+### 🗣️ Reguli de Chat (/f)
 
 * **Limbaj Vulgar/Jigniri:** Se sanctioneaza cu **FW** sau **Uninvite**, in functie de gravitate sau repetari (2 FW pe injuraturi in 24h = Uninvite cu 60 FP).
 * **Spam pe /f** se sanctioneaza gradual: 2-3 randuri -> AV; 4-5 randuri -> FW; 6+ randuri -> Uninvite cu 60 FP si restrictie 30 de zile.
 * **Certurile pe /f** nu sunt tolerate. Rezolva problemele in PM-uri separate. Liderul poate sanctiona cu AV pana la FW.
-* **Neprezentarea la sedinta:** Se sanctioneaza cu Avertisment Verbal (AV).
 
 ### 🛠️ Situatii Speciale
 
@@ -70,5 +69,8 @@ Dovezile video sunt esentiale pentru transparenta si validarea examenului.
 
 ### 📝 Raport de Activitate
 
-* **Rank 1:** Necompletarea raportului duce la **Uninvite** de catre lider.
-* **Rank 2+:** Necompletarea raportului se sanctioneaza cu **FW**.
+* **Rank 1:** Necompletarea raportului duce la **Uninvite** de la server
+* **Rank 2+:** La prima necompletare a raportului, raportul incomplet va fi adaugat la saptamana urmatoare. La 2 rapoarte incomplete primesti **Uninvite** de la server
+
+> [!WARNING]
+> Necompletarea raportului afecteaza data rank up-ului!

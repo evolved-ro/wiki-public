@@ -37,15 +37,15 @@ Limbajul si comportamentul sunt esentiale.
 | Nerespectarea liderului / subliderului sau a instructiunilor. | Sanctiuni (la decizia liderului) |
 | Deathmatch-ul (DM) aiurea (nejustificat). | **FW** sau **Uninvite** (in functie de gravitate) |
 | Folosirea masinilor factiunii in scopuri personale. | **FW** |
-| Injuriile / jignirile folosind comanda `/news`. | **Uninvite cu FP** (posibil si Ban) |
+| Injuriile / jignirile folosind comanda `/news`. | **Uninvite cu FP** (si Ban) |
 
-### 📝 Reguli Activitate (Raport)
-* **Rank 1:** Nu termina raportul -> **Uninvite automat cu FP**, indiferent de motiv.
-* **Rank 2+:** Primul raport incomplet -> **Avertisment**. Trebuie sa recupereze punctele in urmatorul raport.
-    * Avertismentele expira dupa **20 de zile**.
-    * Membru cu avertisment care nu termina raportul -> **Uninvite fara FP**.
-* Nu se mai pot depune **cereri de inactivitate**.
-* Playerii care nu s-au mai logat de **3 zile** in factiune nu mai primesc uninvite de la lideri.
+### 📝 Raport de Activitate
+
+* **Rank 1:** Necompletarea raportului duce la **Uninvite** de la server
+* **Rank 2+:** La prima necompletare a raportului, raportul incomplet va fi adaugat la saptamana urmatoare. La 2 rapoarte incomplete primesti **Uninvite** de la server
+
+> [!WARNING]
+> Necompletarea raportului afecteaza data rank up-ului!
 
 ### ⚖️ Reclamatii Factiuni
 * Liderul poate respinge reclamatiile care **nu respecta modelul** sau **contin jigniri**.
@@ -79,15 +79,15 @@ Urmatoarele se sanctioneaza cu **Amenda** (valoarea este in Regulamentul Intern)
 | **Nerespectare Rank Sup.** | Ironii/tupeu fata de lider/colider (**FW** sau **Demitere**). |
 | **Telefon Inchis AG** | Inchiderea telefonului (`/turn off`) in timpul anunturilor gratuite (doar cei din sesiune). |
 | **Neorganizare AG** | Neorganizarea echipei sau neindeplinirea cerintelor (start/continuare/stop). |
-| **Stop AG Dupa Payday** | Postarea anuntului de stop AG dupa Payday (ora x:00). |
 | **Interval RP/Promovare** | Nerespectarea intervalului de **2 minute** intre anunturile roleplay/promovare. |
-| **Certuri / Droguri** | Certuri pe chat-ul factiunii (**FW** sau **Demitere**). Purtarea de droguri. |
+| **Certuri** | Certuri pe chat-ul factiunii (**FW** sau **Demitere**). |
 | **Neplata Amenda** | Neplata unei amenzi in **24 de ore**. |
 | **Taxa Interviu Gresita** | Cererea unei sume gresite pentru interviu. Taxa ceruta colegilor (**AV** -> **FW**). |
 | **Interviu Cu Level Mic** | Interviu cu un player care are sub **level 10**. |
 | **Interviu Repetat** | Acelasi reporter ia interviu aceluiasi jucator in decurs de **30 zile**. |
 | **Greseli Interviu** | Scrierea gresita in interviu (cuvinte ca: test, da etc.). |
 | **Anunt RP Gresit** | Anunt Roleplay gresit (Ex: soarele rasare la 21:00) (**AV** la prima, **FW** la a doua). |
+
 
 ### ⛔ Demitere (Abuz)
 
@@ -97,15 +97,14 @@ Urmatoarele se sanctioneaza cu **Amenda** (valoarea este in Regulamentul Intern)
 
 | Regula | Timp/Conditie | Sanctiune |
 | :--- | :--- | :--- |
-| **Program Live Saptamana** | Luni - Vineri: 9:00 - 00:00. | Folosirea /live in afara intervalului: **FW** sau **Uninvite**. |
-| **Program Live Weekend** | Sambata - Duminica: 9:00 - 1:00. | Folosirea /live in afara intervalului: **FW** sau **Uninvite**. |
+| **Program Live Saptamana** | Luni - Duminica: 10:00 - 23:00. | Folosirea /live in afara intervalului: **FW** sau **Uninvite**. |
 | **Timp Raspuns Live** | Asteptare minim **5 secunde** dupa raspunsul intervievatului. | La 3 greseli intr-un live: **AV**. |
 | **Spam AG** | 5 anunturi in 3 secunde cu binder. | **AV**, la urmatoarea abatere **FW**. |
 | **Dovada Reguli/Greseli** | Dovezile (reguli explicate, greseli player) se pastreaza **minim 24 de ore**. | Lipsa dovezilor: **AV** (prima), **FW** (a doua). |
 
 ### ❓ Intrebari din Public (/question)
 
-* **Numar Intrebari:** Minim **8**, Maxim **10** intrebari acceptate. (Nerespectarea = **FW**).
+* **Numar Intrebari:** Maxim **10** intrebari acceptate. (Nerespectarea = **FW**).
 * **Structura Interviu:**
     1.  3 intrebari standard (alese de reporter).
     2.  5 intrebari interviu (alese de intervievat sau reporter).
@@ -124,9 +123,7 @@ Urmatoarele se sanctioneaza cu **Amenda** (valoarea este in Regulamentul Intern)
 | :---: | :--- | :--- |
 | **Rank 1** | Nu poate da interviu | Toate tipurile de anunturi |
 | **Rank 2** | Max. 1 persoana | Toate tipurile de anunturi |
-| **Rank 3** | Max. 2 persoane | Toate tipurile de anunturi |
-| **Rank 4** | Max. 2 persoane | Toate tipurile de anunturi |
-| **Rank 5** | Max. 3 persoane | Toate tipurile de anunturi |
+| **Rank 3/4/5** | Max. 2 persoane | Toate tipurile de anunturi |
 * Anunturile de promovare se pun la raport de la orice rank.
 
 ---
@@ -137,8 +134,8 @@ Urmatoarele se sanctioneaza cu **Amenda** (valoarea este in Regulamentul Intern)
 | :--- | :--- |
 | **/f** | Chatul factiunii. |
 | **/news** | Pentru a da un anunt. |
-| **/live** | Pentru a incepe un interviu (Rank 2+). |
-| **/endlive** | Pentru a opri un interviu (ambii trebuie sa o foloseasca). |
+| **/startlive** | Pentru a incepe un interviu (Rank 2+). |
+| **/endlive** | Pentru a opri un interviu (ambii trebuie sa o foloseasca).|
 | **/startq** | Porneste sesiunea de intrebari din public. |
 | **/stopq** | Opreste sesiunea de intrebari din public. |
 | **/liveinvite `<id>`** | Invita un jucator la interviul live. |

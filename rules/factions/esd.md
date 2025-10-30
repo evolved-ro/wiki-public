@@ -64,15 +64,15 @@ Regulile sunt stricte pentru a asigura profesionalismul si seriozitatea factiuni
 | Limbaj indecent pe chat-ul factiunii. | **FW / Uninvite** (in functie de gravitate) |
 | Refuzul unui serviciu cerut de client (fara motiv intemeiat). | **Faction Warn (FW)** |
 | A cere bacsis (tip). | **Faction Warn (FW)** |
-| A oferi heal unui jucator care a fost acceptat de alt coleg. | Avertisment Verbal (AV) |
+| A oferi heal unui jucator care a fost acceptat de alt coleg. | **Avertisment Verbal (AV)** |
 
-### Reguli de Activitate si Raport
+### 📝 Raport de Activitate
 
-| Conduita Interzisa | Sanctiune |
-| :--- | :--- |
-| Necompletarea Raportului de Activitate (Rank 1). | **Uninvite cu FP** |
-| Necompletarea Raportului de Activitate (Rank 2). | **FW** (2 rapoarte neefectuate consecutiv = Uninvite) |
-| Fraudarea raportului sub orice forma (inclusiv a oferi bani pentru heal). | **Uninvite** |
+* **Rank 1:** Necompletarea raportului duce la **Uninvite** de la server
+* **Rank 2+:** La prima necompletare a raportului, raportul incomplet va fi adaugat la saptamana urmatoare. La 2 rapoarte incomplete primesti **Uninvite** de la server
+
+> [!WARNING]
+> Necompletarea raportului afecteaza data rank up-ului!
 
 ### Alte Reguli Importante
 

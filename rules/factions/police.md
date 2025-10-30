@@ -80,9 +80,13 @@ Limbajul si comportamentul sunt esentiale.
 
 ## 📝 Reguli Activitate (Raport) si Reclamatii
 
-### 📊 Raport de Activitate
-* **Rank 1:** Cei care nu termina raportul de activitate primesc **Uninvite cu FP**, indiferent de motiv.
-* **Rank 2+:** Se primeste FW si fara promovarea la urmatorul rank.
+### 📝 Raport de Activitate
+
+* **Rank 1:** Necompletarea raportului duce la **Uninvite** de la server
+* **Rank 2+:** La prima necompletare a raportului, raportul incomplet va fi adaugat la saptamana urmatoare. La 2 rapoarte incomplete primesti **Uninvite** de la server
+
+> [!WARNING]
+> Necompletarea raportului afecteaza data rank up-ului!
 
 ### ⚖️ Reclamatii Factiuni
 * Liderul poate respinge reclamatiile care nu respecta modelul sau contin jigniri.
@@ -219,7 +223,6 @@ Limbajul si comportamentul sunt esentiale.
 * **Somatii:** Asteapta minim 5 secunde intre ele.
 * **Circulatie Politisti:** Respecta regulile. Daca esti prins pe contrasens cu personala -> ti se confisca permisul (refuz=FW).
 * **Control / Frisk:** Controalele de rutina se pot face pe orice player inafara de mafii in perioada war-urilor. Daca ai folosit comanda /frisk pe un player o mai poti folosi dupa 24h pe acelasi player.
-* **Sedinte:** Poti merge dupa wanted in ale HQ-uri chiar daca sunt la sedinta.
 ---
 
 ## 🎖️ Responsabilitati pe Rank

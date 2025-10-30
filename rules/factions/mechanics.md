@@ -63,10 +63,13 @@ Limbajul si comportamentul adecvat sunt necesare.
 
 ## 📝 Reguli Activitate (Raport) si Reclamatii
 
-### 📊 Raport de Activitate
-* **Rank 1:** Cei care nu termina raportul de activitate primesc **Uninvite cu FP**, indiferent de motiv.
-* **Rank 2+:** La primul raport incomplet, primiti un **Avertisment**. Trebuie sa recuperati punctele in urmatorul raport.
-    * *Nota: Regulile specifice privind avertismentele si recuperarea pot varia; consulta anunturile liderului.*
+### 📝 Raport de Activitate
+
+* **Rank 1:** Necompletarea raportului duce la **Uninvite** de la server
+* **Rank 2+:** La prima necompletare a raportului, raportul incomplet va fi adaugat la saptamana urmatoare. La 2 rapoarte incomplete primesti **Uninvite** de la server
+
+> [!WARNING]
+> Necompletarea raportului afecteaza data rank up-ului!
 
 ### ⚖️ Reclamatii Factiuni
 * Liderul poate respinge reclamatiile care nu respecta modelul sau contin jigniri.
