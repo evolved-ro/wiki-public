@@ -3,7 +3,7 @@ title: Farmer Job
 sidebar_label: Farmer
 ---
 
-# 🚜 Farmer Job (Fermier)
+# 🚜 Farmer Job
 ## 📌 Info General
 
 Pe server a fost implementat job-ul de Farmer, o activitate complexa alcatuita din **4 task-uri diferite**.

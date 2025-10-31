@@ -1,8 +1,10 @@
 ---
 title: General Informations about vehicles
+sidebar_label: General Info
 ---
 
 # 🚗 Vehiculele pe Server
+## 📌 Info General
 
 Pe serverul nostru, ne-am propus ca valoarea masinilor sa fie determinata de componente si caracteristici reale, eliminand caracteristicile artificiale intalnite frecvent pe alte comunitati de SA:MP din Romania.
 
@@ -19,7 +21,7 @@ Sistemul de Tunning nativ din GTA a fost rescris pentru a permite evaluarea core
 * **Speedometer Personalizat:** Fiecare masina personala poate avea un design unic al vitezometrului, modificabil in cadrul business-ului de Tunning.
 
 <details>
-  <summary>Speedometer Vanilla</summary>
+  <summary>Speedometer Vanilla</summary>
 <img src="https://i.imgur.com/oRW26DG.png" width="60%"/>
 </details>
 

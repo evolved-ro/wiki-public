@@ -3,7 +3,7 @@ title: Fisherman
 sidebar_label: Fisherman
 ---
 
-# 🎣 Fisherman (Pescar)
+# 🎣 Fisherman
 ## 📌 Info General
 
 Activitatea de **Fisherman** pe serverul nostru imbina mai multe sisteme, cum ar fi cel de **Vehicule Personale** si cel de **Inventar**. Este important sa le intelegi pentru a fi eficient.

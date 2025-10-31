@@ -3,7 +3,7 @@ title: Hunter Job
 sidebar_label: Hunter
 ---
 
-# 🦌 Hunter Job (Vanator)
+# 🦌 Hunter Job
 ## 📌 Info General
 
 Pe server am implementat job-ul de Hunter. La fel ca toate celelalte job-uri, scopul lui e sa ajute la dezvoltarea economiei serverului. E o sursa importanta de materiale.

@@ -3,7 +3,7 @@ title: SGR Bottles
 sidebar_label: SGR
 ---
 
-# ♻️ SGR Bottles (Reciclare Sticle)
+# ♻️ SGR Bottles
 ## 📌 Info General
 
 Pe server am implementat o activitate noua si simpla: **SGR Bottles**. Nu e un job in sine, ci un *side activity* pe care il poti face oricand, in paralel cu alte activitati.

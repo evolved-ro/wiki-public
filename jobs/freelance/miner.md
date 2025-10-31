@@ -3,7 +3,7 @@ title: Miner
 sidebar_label: Miner
 ---
 
-# ⛏️ Miner (Activititate Miniera)
+# ⛏️ Miner
 ## 📌 Info General
 
 Pe server, mineritul este o **activitate**, nu un job in sensul clasic, dar este esentiala pentru economie!

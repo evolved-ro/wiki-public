@@ -3,7 +3,7 @@ title: Taxi Permit
 sidebar_label: Taxi Permit
 ---
 
-# 🚖 Taxi Permit System (Sistemul de Autorizatii Taxi)
+# 🚖 Taxi Permit System
 
 ## 📌 Info General
 

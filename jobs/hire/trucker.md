@@ -1,4 +1,4 @@
-# 🚚 Trucker System (Sistemul de Tirist)
+# 🚚 Trucker System
 ## 📌 Info General
 
 Sistemul de Truck a fost regandit complet pentru a fi cat mai **diversificat** si pentru a te scoate din monotonia curselor pe aceeasi ruta.
