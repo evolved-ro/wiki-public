@@ -14,7 +14,7 @@ Aceasta este o sursa de profit constant si necesita investitie si intretinere. P
 
 * **Achizitie:** Ferma se poate cumpara cu **$2.000.000**.
 
-<img src="https://i.imgur.com/TyIXfjP.png" width="35%"/>
+<img src="https://i.imgur.com/flUsf2t.png" width="35%"/>
 
 Dupa achizitie, vei primi un mesaj de confirmare de la fermier:
 
@@ -36,7 +36,7 @@ Exista 3 comenzi esentiale pentru a gestiona ferma:
 
 Cand folosesti comanda, vei vedea ce animale poti cumpara:
 
-<img src="https://i.imgur.com/A9kUyxi.png" width="35%"/>
+<img src="https://i.imgur.com/Zq5U2GD.png" width="35%"/>
 
 > [!WARNING]
 > Exista o progresie: **Nu poti cumpara Vaci pana cand nu ai cumparat numarul maxim de Gaini disponibil.**
@@ -71,7 +71,7 @@ Folosind comanda `/collect`, aduni produsele (oua de la gaini, lapte de la vaci)
 
 In cadrul fermei vei avea un *label* informativ care iti arata statusul productiei si daca animalele sunt hranite:
 
-<img src="https://i.imgur.com/Y3lqEWx.png" width="35%"/>
+<img src="https://i.imgur.com/I9PNVVK.png" width="35%"/>
 
 ### Atentie la Timp!
 
