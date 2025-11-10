@@ -1,4 +1,3 @@
-@@ -1,73 +1,43 @@
 ---
 title: Achievements
 ---
