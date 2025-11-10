@@ -1,3 +1,4 @@
+@@ -1,73 +1,43 @@
 ---
 title: Achievements
 ---
@@ -29,45 +30,47 @@ De exemplu, mai jos puteti vedea badge-ul pentru al 2-lea achievement din cadrul
 
 ## 📑 Lista Achievement-uri
 
+
 | Nume Achievement | Descriere | Recompensa |
-| :--------------------- | :-------------------------------------------------------- | :--- |
-| Angler Apprentice | Acumuleaza 1000 XP in cadrul job-ului Fisherman. | TBD |
-| Journeyman Angler | Acumuleaza 5000 XP in cadrul job-ului Fisherman. | TBD |
-| Master Angler | Acumuleaza 15000 XP in cadrul job-ului Fisherman. | TBD |
-| Road Rookie | Acumuleaza 1000 XP in cadrul job-ului Trucker. | TBD |
-| Highway Veteran | Acumuleaza 5000 XP in cadrul job-ului Trucker. | TBD |
-| King of the Road | Acumuleaza 15000 XP in cadrul job-ului Trucker. | TBD |
-| Prospector | Acumuleaza 1000 XP in cadrul job-ului Miner. | TBD |
-| Deep Miner | Acumuleaza 5000 XP in cadrul job-ului Miner. | TBD |
-| Ore Lord | Acumuleaza 15000 XP in cadrul job-ului Miner. | TBD |
-| Farm Hand | Acumuleaza 1000 XP in cadrul job-ului Farmer. | TBD |
-| Cultivator | Acumuleaza 5000 XP in cadrul job-ului Farmer. | TBD |
-| Harvest Master | Acumuleaza 15000 XP in cadrul job-ului Farmer. | TBD |
-| Tracker | Acumuleaza 1000 XP in cadrul job-ului Hunter. | TBD |
-| Skilled Stalker | Acumuleaza 5000 XP in cadrul job-ului Hunter. | TBD |
-| Wilderness Expert | Acumuleaza 15000 XP in cadrul job-ului Hunter. | TBD |
-| Rising Star | Avanseaza la nivel 5. | TBD |
-| Established Citizen | Avanseaza la nivel 15. | TBD |
-| City Veteran | Avanseaza la nivel 25. | TBD |
-| Local Figure | Avanseaza la nivel 35. | TBD |
-| Legend of Los Santos | Avanseaza la nivel 50. | TBD |
-| First Style | Achizitioneaza un skin Standard. | TBD |
-| Premium Look | Achizitioneaza un skin Premium. | TBD |
-| My First Ride | Achizitioneaza o masina din Dealership. | TBD |
-| Property Owner | Achitioneza-ti prima proprietate (Casa, Business, Billboard) | TBD |
-| Joining the Force | Alatura-te unei factiuni de tip Police Department. | TBD |
-| Licensed to Teach | Alatura-te unei factiuni de tip School Instructors. | TBD |
-| First Responder | Alatura-te unei factiuni de tip ESD. | TBD |
-| Under the Hood | Alatura-te unei factiuni de tip Mecanici. | TBD |
-| Family Business | Alatura-te unei factiuni de tip Mafie. | TBD |
-| Trucker Certified | Obtine licenta de Trucker. | TBD |
-| Cleared for Takeoff | Obtine licenta de Avion. | TBD |
-| Sea Legs | Obtine licenta de Barca. | TBD |
-| Licensed to Carry | Obtine licenta de Arme. | TBD |
-| On the Road | Obtine licenta de Condus. | TBD |
-| Squeaky Clean | Spala-ti pentru prima oara masina. | TBD |
-| Custom Touch | Tuneaza-ti pentru prima oara masina. | TBD |
-| Rebel on the Road | Incalca regulile de circulatie de pe autostrada. | TBD |
-| Jailbreak! | Evadeaza din inchisoare. | TBD |
-| Dumpster Diver | Cauta in gunoaie pentru prima data. | TBD |
-| Starting the Meter | Upgradeaza o masina la statutul de Taxi. | TBD |
+| :--- | :--- | :--- |
+| **Angler Apprentice** | Acumuleaza 1000 XP in cadrul job-ului Fisherman. | **Unlock Skin: 8 + 25 Diamonds + $500.000** |
+| **Journeyman Angler** | Acumuleaza 5000 XP in cadrul job-ului Fisherman. | **Unlock Skin: 1 + 50 Diamonds + $2.000.000** |
+| **Master Angler** | Acumuleaza 15000 XP in cadrul job-ului Fisherman. | **Unlock Skins: 297 + 100 Diamonds + $5.000.000** |
+| **Road Rookie** | Acumuleaza 1000 XP in cadrul job-ului Trucker. | **Unlock Skin: 9 + 25 Diamonds + $500.000** |
+| **Highway Veteran** | Acumuleaza 5000 XP in cadrul job-ului Trucker. | **Unlock Skin: 2 + 50 Diamonds + $2.000.000** |
+| **King of the Road** | Acumuleaza 15000 XP in cadrul job-ului Trucker. | **Unlock Skins: 289 + 100 Diamonds + $5.000.000** |
+| **Prospector** | Acumuleaza 1000 XP in cadrul job-ului Miner. | **Unlock Skin: 10 + 25 Diamonds + $500.000** |
+| **Deep Miner** | Acumuleaza 5000 XP in cadrul job-ului Miner. | **Unlock Skin: 3 + 50 Diamonds + $2.000.000** |
+| **Ore Lord** | Acumuleaza 15000 XP in cadrul job-ului Miner. | **Unlock Skins: 119 + 100 Diamonds + $5.000.000** |
+| **Farm Hand** | Acumuleaza 1000 XP in cadrul job-ului Farmer. | **Unlock Skin: 31 + 25 Diamonds + $500.000** |
+| **Cultivator** | Acumuleaza 5000 XP in cadrul job-ului Farmer. | **Unlock Skin: 4 + 50 Diamonds + $2.000.000** |
+| **Harvest Master** | Acumuleaza 15000 XP in cadrul job-ului Farmer. | **Unlock Skins: 90 + 100 Diamonds + $5.000.000** |
+| **Tracker** | Acumuleaza 1000 XP in cadrul job-ului Hunter. | **Unlock Skin: 33 + 25 Diamonds + $500.000** |
+| **Skilled Stalker** | Acumuleaza 5000 XP in cadrul job-ului Hunter. | **Unlock Skin: 5 + 50 Diamonds + $2.000.000** |
+| **Wilderness Expert** | Acumuleaza 15000 XP in cadrul job-ului Hunter. | **Unlock Skins: 104 + 100 Diamonds + $5.000.000** |
+| Rising Star | Avanseaza la nivel 5. | **$250.000 + 10 Diamonds**  |
+| Established Citizen | Avanseaza la nivel 15. | **$1.000.000 + 25 Diamonds** |
+| City Veteran | Avanseaza la nivel 25. | **$3.000.000 + 100 Diamonds** |
+| Local Figure | Avanseaza la nivel 35. | **$5.000.000 + 150 Diamonds** |
+| Legend of Los Santos | Avanseaza la nivel 50. | **$10.000.000 + 250 Diamonds** |
+| First Style | Achizitioneaza un skin Standard. | **200 Leather** |
+| Premium Look | Achizitioneaza un skin Premium. | **500 Leather** |
+| My First Ride | Achizitioneaza o masina din Dealership. | **Un slot pentru vehicule** |
+| Property Owner | Achitioneza-ti prima proprietate (Casa, Business, Billboard) | **25 Diamonds** |
+| Joining the Force | Alatura-te unei factiuni de tip Police Department. | **Unlock Skin: 309** |
+| Licensed to Teach | Alatura-te unei factiuni de tip School Instructors. | **Unlock Skin: 223** |
+| First Responder | Alatura-te unei factiuni de tip ESD. | **Unlock Skin: 211** |
+| Under the Hood | Alatura-te unei factiuni de tip Mecanici. | **Unlock Skin: 291** |
+| Big News Coming | Alatura-te unei factiuni de tip News Reporters. | **Unlock Skin: 295** |
+| Family Business | Alatura-te unei factiuni de tip Mafie. | **Unlock Skins: 292** |
+| Trucker Certified | Obtine licenta de Trucker. | **10 Diamonds** |
+| Cleared for Takeoff | Obtine licenta de Avion. | **10 Diamonds** |
+| Sea Legs | Obtine licenta de Barca. | **10 Diamonds** |
+| Licensed to Carry | Obtine licenta de Arme. | **10 Diamonds** |
+| On the Road | Obtine licenta de Condus. | **10 Diamonds** |
+| Squeaky Clean | Spala-ti pentru prima oara masina. | **$250.000** + **5 Diamonds**|
+| Custom Touch | Tuneaza-ti pentru prima oara masina. | **$250.000** + **5 Diamonds** |
+| Rebel on the Road | Incalca regulile de circulatie de pe autostrada. | **$250.000** + **5 Diamonds** |
+| Jailbreak! | Evadeaza din inchisoare. | **$250.000** + **5 Diamonds** |
+| Dumpster Diver | Cauta in gunoaie pentru prima data. | **$250.000** + **5 Diamonds** |
+| Starting the Meter | Upgradeaza o masina la statutul de Taxi. | **$1.000.000 + 25 Diamonds** |
