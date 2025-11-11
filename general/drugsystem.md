@@ -38,5 +38,5 @@ Odata procesate, drogurile ofera urmatoarele bonusuri la utilizare:
 
 | Drog | Efecte |
 | :--- | :--- |
-| **Weed** | **15% Job Boost** (timp de 30 minute)<br>90% Sansa sa primesti **100 HP** la utilizare. |
-| **Cocaine** | **15% Job Boost** (timp de 60 minute)<br>80% Sansa sa primesti **Regenerare HP** (timp de 30 secunde)<br>Ascundere de pe minimap (in cadrul war-urilor). |
+| **Weed** | **15% Job Boost** (timp de 30 minute)<br>90% Sansa sa primesti **100 HP** la utilizare.<br>10% sansa de OD **(kill instant)** |
+| **Cocaine** | **15% Job Boost** (timp de 60 minute)<br>80% Sansa sa primesti **Regenerare HP** (timp de 30 secunde)<br>Ascundere de pe minimap (in cadrul war-urilor).<br>20% Sansa de OD **(kill instant)** |

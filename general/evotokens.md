@@ -44,7 +44,7 @@ Itemele care se pot achizitiona cu EV Tokens in acest moment sunt urmatoarele (l
 
 | Item (Voucher) | Cost |
 | :--- | :---: |
-| Hidden Voucher | **125 EV Tokens** |
-| Neon Voucher | **250 EV Tokens** |
-| Taxi Voucher | **500 EV Tokens** |
-| Paintjob Voucher | **500 EV Tokens** |
+| Hidden Color | **125 EV Tokens** |
+| Neon  | **250 EV Tokens** |
+| Taxi Permit | **500 EV Tokens** |
+| Paintjob (ex. Elegy) | **500 EV Tokens** |
