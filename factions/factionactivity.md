@@ -70,12 +70,12 @@ Punctele de activitate sunt constituite din 2 parti:
 
 | Tip de Actiune | Nivel Wanted | XP Standard | XP Bonus (Daca e singurul in range / arrest) |
 | :--- | :---: | :---: | :---: |
-| **Arestare (Wanted)** | Wanted 1 | 250 XP | 500 XP |
-| **Arestare (Wanted)** | Wanted 2 | 300 XP | 600 XP |
+| **Arestare (Wanted)** | Wanted 1 | 350 | 700 XP |
+| **Arestare (Wanted)** | Wanted 2 | 350 XP | 700 XP |
 | **Arestare (Wanted)** | Wanted 3 | 350 XP | 700 XP |
-| **Arestare (Wanted)** | Wanted 4 | 400 XP | 800 XP |
-| **Arestare (Wanted)** | Wanted 5 | 450 XP | 900 XP |
-| **Arestare (Wanted)** | Wanted 6 | 500 XP | 1000 XP |
+| **Arestare (Wanted)** | Wanted 4 | 350 XP | 700 XP |
+| **Arestare (Wanted)** | Wanted 5 | 350 XP | 700 XP |
+| **Arestare (Wanted)** | Wanted 6 | 350 XP | 700 XP |
 | **Amenda** | N/A | 400 XP | N/A |
 | **Confiscare Permis** | N/A | 750 XP | N/A |
 | **Confiscare Ambele Licente** | N/A | 1500 XP | N/A |
@@ -119,7 +119,8 @@ Punctele de activitate sunt constituite din 2 parti:
 
 | Tip de Actiune | XP Acordat | Detalii |
 | :--- | :---: | :--- |
-| **Masina Tractata** | 500 XP | XP per masina tractata |
+| **Masina Tractata** | 250 XP | XP per masina tractata |
+| **Masina Reparata** | 500 XP | XP per masina reparata |
 | **Inspect Vehicle (ITP)** | 1250 XP | XP per inspectie tehnica periodica |
 
 </details>
@@ -134,7 +135,7 @@ Punctele de activitate sunt constituite din 2 parti:
 | Tip de Actiune | XP Acordat |
 | :--- | :---: |
 | **Ziar** | 80 - 120 XP |
-| **Sesiune de Anunturi Gratuite** | 1500 XP |
+| **Sesiune de Anunturi Gratuite** | 150 XP |
 | **Anunt Roleplay** | 300 XP |
 
 </details>
