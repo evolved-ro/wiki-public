@@ -13,8 +13,8 @@ Sistemul de droguri de pe serverul nostru este unul complex si este in stransa l
 Pentru a fabrica droguri, ai nevoie de resurse din 4 locuri diferite, intr-un proces in mai multi pasi:
 
 1.  **Job [FARMER](https://wiki.evolved.ro/jobs/hire/farmer):** Trebuie sa lucrezi activ la job-ul Farmer pentru a avea sansa sa obtii **Seminte** (Seeds) de Weed sau Cocaine.
-2.  **Job Pasiv [FARMER_PASSIVE](https://wiki.evolved.ro/jobs/passive/seeds):** Trebuie sa plantezi semintele la parcela si sa le intretii (udat) pentru a obtine planta neprocesata (Unprocessed Weed / Unprocessed Cocaine).
-3.  **Job [Miner](https://wiki.evolved.ro/jobs/freelance/miner):** Trebuie sa minezi pentru a obtine **Gold** si **Silver**, necesare la rafinare.
+2.  **Job [PASIV](https://wiki.evolved.ro/jobs/passive/seeds):** Trebuie sa plantezi semintele la parcela si sa le intretii (udat) pentru a obtine planta neprocesata (Unprocessed Weed / Unprocessed Cocaine).
+3.  **Job [MINER](https://wiki.evolved.ro/jobs/freelance/miner):** Trebuie sa minezi pentru a obtine **Gold** si **Silver**, necesare la rafinare.
 4.  **Locatia [SEWER](https://wiki.evolved.ro/general/Sewer):** Este singurul loc unde poti procesa (rafina) plantele neprocesate in droguri utilizabile.
 
 ---
