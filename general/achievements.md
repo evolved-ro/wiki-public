@@ -15,12 +15,33 @@ Sistemul de achievements-uri este modul nostru de a recompensa jucatorii activi 
 * Poti vedea toate achievement-urile si progresul tau pe aceasta pagina.
 * Poti folosi comanda ``/achievements`` direct in joc.
 
+<details>
+  <summary> Interfata Achievements </summary>
+<img src="https://i.imgur.com/YYMSB0E.png" width="50%"/>
+</details>
+
+
 De exemplu, mai jos puteti vedea badge-ul pentru al 2-lea achievement din cadrul jobului **Fisherman**.
 
 <details>
   <summary> Badge Journeyman Angler </summary>
 <img src="https://i.imgur.com/jiSpkf4.png" width="40%"/>
 </details>
+
+In momentul in care completezi un achievement, vei primi o notificare in coltul din dreapta sus pentru cateva secunde.
+
+<details>
+  <summary> Notificare HUD </summary>
+<img src="https://i.imgur.com/kIzRKEp.png" width="40%"/>
+</details>
+
+De altfel, vei primi si in chat ceea ce ai primit datorita achievement-ului.
+
+<details>
+  <summary> Notificare in chat </summary>
+<img src="https://i.imgur.com/h7qBgVB.png" width="40%"/>
+</details>
+
 
 > [!TIP]
 > Nu vom posta aici toate badge-urile, pentru a nu strica sentimentul de a descoperi lucruri noi pe masura ce progresezi!
