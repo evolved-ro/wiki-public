@@ -32,7 +32,7 @@ Poti folosi un radar portabil pentru a prinde vitezomanii in trafic.
 
 <details>
   <summary>Interfata Radar</summary>
-<img src="https://i.imgur.com/iM6UvGk.jpeg" width="60%"/>
+<img src="https://i.imgur.com/ihfb7jx.png" width="60%"/>
 </details>
 
 <details>
