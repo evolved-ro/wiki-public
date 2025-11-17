@@ -759,7 +759,7 @@ Acesta poate fi gasit in orasul LV in apropierea casei cu ID 57
 <img src="https://i.imgur.com/rdpJ6FN.jpeg" width="80%"/>
 </details>
 
-## Vehiculul de tip Sandking
+## Vehiculul de tip Comet
 
 Acesta poate fi gasit in orasul LV in jurul business-ului cu ID 12
 <details>
