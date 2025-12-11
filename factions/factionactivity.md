@@ -70,7 +70,7 @@ Punctele de activitate sunt constituite din 2 parti:
 
 | Tip de Actiune | Nivel Wanted | XP Standard | XP Bonus (Daca e singurul in range / arrest) |
 | :--- | :---: | :---: | :---: |
-| **Arestare (Wanted)** | Wanted 1 | 350 | 700 XP |
+| **Arestare (Wanted)** | Wanted 1 | 350 XP | 700 XP |
 | **Arestare (Wanted)** | Wanted 2 | 350 XP | 700 XP |
 | **Arestare (Wanted)** | Wanted 3 | 350 XP | 700 XP |
 | **Arestare (Wanted)** | Wanted 4 | 350 XP | 700 XP |

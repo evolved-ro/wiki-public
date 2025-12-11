@@ -6,8 +6,8 @@ Pe **Evolved**, ai 3 moduri principale de a-ti schimba look-ul: muncesti, cumper
 
 Obtinerea materialelor (Leather) necesare pentru craftare se face in principal prin **job-ul Hunter**.
 
-* Detalii despre job-ul Hunter: [HUNTER JOB](url)
-* Detalii despre achizitionarea cu Puncte Premium (Diamonds): [SHOP](url)
+* Detalii despre job-ul Hunter: [HUNTER JOB](https://wiki.evolved.ro/jobs/freelance/hunter)
+* Detalii despre achizitionarea cu Puncte Premium (Diamonds): [SHOP](evolved.ro/shop)
 
 ---
 

@@ -87,7 +87,7 @@ Fiecare masina personala dispune de un **trunk personal**, a carui capacitate es
 | ![Sandking](/public/assets/vehicles/495.png) | Sandking | 65.500.000$ | 58.950.000$ | 176 KM/h | 15 KG |
 | ![Blista Compact](/public/assets/vehicles/496.png) | Blista Compact | 18.500.000$ | 16.650.000$ | 162 KM/h | 10 KG |
 | ![Mesa](/public/assets/vehicles/500.png) | Mesa | 12.500.000$ | 11.250.000$ | 140 KM/h | 15 KG |
-| ![Super GT](/public/assets/vehicles/505.png) | Super GT | 54.000.000$ | 48.600.000$ | 174 KM/h | 10 KG |
+| ![Super GT](/public/assets/vehicles/506.png) | Super GT | 54.000.000$ | 48.600.000$ | 174 KM/h | 10 KG |
 | ![Elegant](/public/assets/vehicles/507.png) | Elegant | 12.500.000$ | 11.250.000$ | 166 KM/h | 10 KG |
 | ![Bike](/public/assets/vehicles/509.png) | Bike | 350.000$ | 315.000$ | 79 KM/h | 1 KG |
 | ![M Bike (Mountain Bike)](/public/assets/vehicles/510.png) | M Bike (Mountain Bike) | 1.000.000$ | 900.000$ | 101 KM/h | 1 KG |

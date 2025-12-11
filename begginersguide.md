@@ -13,7 +13,7 @@ Aceasta pagina este dedicata, asa cum spune si numele, incepatorilor si celor ca
 * **Spawn:** La inregistrarea pe server, dupa ce iti introduci datele, vei fi spawnat random la o casa de pe server (pentru a diminua aglomeratia intr-un singur loc).
 * **Transport (Inceput):** Pentru o deplasare mai usoara, recomandam sa vizitezi un business de tip **Rent Car** si sa iti inchiriezi o masina.
     * Poti gasi un Rent Car folosind comanda ``/gps`` -> ``Businesses`` -> ``Rent Car``.
-    * Mai multe informatii despre Rent Car gasesti [AICI](https://wiki.evolved.ro/properties/businesses/rent-car).
+    * Mai multe informatii despre Rent Car gasesti [AICI](https://wiki.evolved.ro/properties/businesses/rentcar).
 * **Masini Free:** De altfel, pe server exista si masini "free" (publice), care se gasesc usor pe harta (marcate pe minimap ca un patrat gri inchis). Mai multe informatii despre locatia lor gasesti [AICI](https://wiki.evolved.ro/vehicles/general-info).
 
 ### 2. Echipament Initial si Job-uri
