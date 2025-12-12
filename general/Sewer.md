@@ -13,26 +13,30 @@ Pe serverul nostru, am creat un loc special, *custom-mapped*, care simuleaza un 
 
 Acest loc e vital pentru orice jucator care vrea sa se ocupe cu "business-uri" mai obscure. Principalele utilizari sunt:
 
-* **Fabricarea de Arme (Gun Crafting)**
-* **Fabricarea de Droguri (Drug Crafting)**
+* **Confectionarea de Echipament (Item Crafting)**
+* **Fabricarea de Droguri (Drugs Factory)**
+* **Spalarea de bani (Money Laundering)**
 
-### Fabricarea de Arme
+### Confectionarea Echipamentelor
 
-Ai o incapere speciala in Sewer unde poti transforma materia prima in arme gata de folosit.
+Ai o incapere speciala in Sewer unde poti transforma materia prima in unelte ajutatoare sau munitie gata de folosit.
 
-<img src="https://i.imgur.com/YnmcyDa.jpeg" width="60%"/>
+<img src="/public/assets/sewer/crafting.png" width="60%"/>
 
-> Poti afla mai multe despre cum functioneaza tot procesul aici: [GUN CRAFTING SYSTEM](url)
+> Poti afla mai multe despre sistemul de crafting aici: [ITEM CRAFTING SYSTEM](url)
 
 ### Fabricarea de Droguri
 
 Intr-o alta incapere, poti prepara diverse tipuri de droguri, in functie de ingredientele pe care le aduni.
 
-<img src="https://i.imgur.com/nyDadLm.jpeg" width="60%"/>
+<img src="/public/assets/sewer/drugs.png" width="60%"/>
 
-> Poti afla mai multe despre cum functioneaza tot procesul aici: [DRUGS CRAFTING SYSTEM](url)
+> Poti afla mai multe despre sistemul de droguri aici: [DRUG SYSTEM](https://wiki.evolved.ro/general/drugsystem)
 
-### ⏳ Bonus: Scaderea Wanted-ului
+### Spalarea de bani
 
-> [!TIP]
-> Daca tocmai ai evadat din inchisoare si ai primit wanted pentru **escape**, Sewer-ul iti poate salva pielea! Cand te afli in interiorul Sewer-ului, timpul de asteptare pentru a scapa de wanted-ul de evadare va **scadea mult mai rapid**. Un loc perfect sa te ascunzi de politie!
+In alta incapere, poti "spala" banii marcati primiti in urma unui jaf pentru a primi bani "reali" (currency-ul de pe server).
+
+<img src="/public/assets/sewer/launder.png" width="60%"/>
+
+> Poti afla mai multe despre sistemul de rob si bani marcati aici: [ROB SYSTEM](https://wiki.evolved.ro/general/rob_system)
