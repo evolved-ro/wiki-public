@@ -27,17 +27,21 @@ Deci, un wanted de 6 stele inseamna 60 de minute de penitenciar.
 
 ## 🏃 Escape (Evadarea)
 
-Nu trebuie sa stai sa-ti expire toata pedeapsa! Poti incerca sa evadezi, dar nu va fi usor.
+Nu trebuie sa astepti sa-ti expire toata pedeapsa! Poti incerca sa evadezi, dar nu va fi usor.
 
 ### Conditii de Evadare
 
-Pentru a incerca o evadare, ai nevoie de un **Escape Tool**. Acesta este un item pe care il poti obtine in joc (din diverse surse).
+* **Escape Tool:** Pentru a incerca o evadare, ai nevoie de un **Escape Tool**. Acesta este un item pe care il poti fabrica la [Sewer](https://wiki.evolved.ro/general/Sewer), folosind urmatoarele resurse:
+    - **20x Gun Powder** (se obtine de la [Miner](https://wiki.evolved.ro/jobs/freelance/miner))
+    - **10x Iron** (se obtine de la [Miner](https://wiki.evolved.ro/jobs/freelance/miner))
+    - **1x Gold** (se obtine de la [Miner](https://wiki.evolved.ro/jobs/freelance/miner))
+    - **1x Circuit Board** (se obtine din activitatea [SGR](https://wiki.evolved.ro/jobs/freelance/sgr))
 
-* **Locatia:** Poti folosi tool-ul doar la poarta principala a inchisorii.
+* **Locatia pentru evadare:** Poti folosi **Escape Tool-ul** doar la poarta principala a inchisorii.
 
 <img src="https://i.imgur.com/ZTVy6oG.png" width="60%"/>
 
-* **Actiunea:** Deschizi inventarul, gasesti **Escape Tool-ul** si dai **DUBLU-CLICK** pe el pentru a incepe.
+* **Actiunea:** Deschizi inventarul, gasesti **Escape Tool-ul** si apesi **DUBLU-CLICK** pe el pentru a incepe.
 
 ### Testul Evadarii: Piramida Matematica
 
