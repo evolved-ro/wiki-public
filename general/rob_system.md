@@ -25,6 +25,8 @@ Item-ul **Heist Tool** este necesar pentru a sparge seiful si se poate crafta (f
 * **1x Gold** (se obtine de la [Miner](https://wiki.evolved.ro/jobs/freelance/miner))
 * **1x Circuit Board** (se obtine din activitatea [SGR](https://wiki.evolved.ro/jobs/freelance/sgr))
 
+**Heist Tool** poate fi obtinut la Crafting Table-ul aflat la locatia [Sewer](https://wiki.evolved.ro/general/Sewer).
+
 ---
 
 ## 💻 Procesul Jafului
