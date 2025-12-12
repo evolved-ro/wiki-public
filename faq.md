@@ -10,7 +10,7 @@ Scopul acestei pagini este de a diminua intrebarile puse prin chat-ul de ajutor 
 
 ## 📅 Cand a luat nastere proiectul?
 
-Proiectul a luat nastere oficial pe data de **4 noiembrie 2024**, cand a fost infiintat serverul de [DISCORD](discord.gg/evolved). La serverul SA:MP se lucreaza de mai mult timp.
+Proiectul a luat nastere oficial pe data de **4 noiembrie 2024**, cand a fost infiintat serverul de [DISCORD](https://discord.gg/evolved). La serverul de SA:MP se lucreaza de mai mult timp.
 
 ---
 
@@ -36,7 +36,7 @@ Pe serverul nostru exista 3 tipuri de job-uri: **Freelance**, **Hire** si **Pass
 | :---: | :--- |
 | **Freelance** | [FISH](https://wiki.evolved.ro/jobs/freelance/fisherman), [HUNTER](https://wiki.evolved.ro/jobs/freelance/hunter), [MINER](https://wiki.evolved.ro/jobs/freelance/miner), [SGR](https://wiki.evolved.ro/jobs/freelance/sgr), [TAXI](https://wiki.evolved.ro/jobs/freelance/taxi_permit) |
 | **Hire** | [TRUCKER](https://wiki.evolved.ro/jobs/hire/trucker), [FARMER](https://wiki.evolved.ro/jobs/hire/farmer) |
-| **Passive** | [LIVESTOCK](https://wiki.evolved.ro/jobs/passive/livestock) |
+| **Passive** | [LIVESTOCK](https://wiki.evolved.ro/jobs/passive/livestock), [PLANTS](https://wiki.evolved.ro/jobs/passive/seeds) |
 
 ---
 

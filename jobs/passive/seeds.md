@@ -1,9 +1,9 @@
 ---
-title: Passive Farmer
-sidebar_label: Passive Farmer
+title: Plants
+sidebar_label: Plants
 ---
 
-# 🌱 PASSIVE FARMER
+# 🌱 PLANTS
 ## 📌 Info General
 
 In cadrul job-ului de Farmer exista si o parte pasiva prin care iti poti planta seeds-urile pe care le-ai procurat practicand job-ul Farmer activ.
