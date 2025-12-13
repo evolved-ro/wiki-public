@@ -49,13 +49,13 @@ In cazul in care parasesti o factiune si ai mai putin de **7 zile** in aceasta, 
 
 ### Cerere de Demisie
 
-Daca un jucator doreste sa paraseasca factiunea, acesta va fi nevoit sa faca o cerere de demisie pe **[UCP](url)** unde va trebui sa specifice motivul demisiei.
+Daca un jucator doreste sa paraseasca factiunea, acesta va fi nevoit sa faca o cerere de demisie pe **[UCP](https://ucp.evolved.ro/)** unde va trebui sa specifice motivul demisiei.
 
 * **Atentie:** Daca jucatorul are mai putin de 7 zile in factiune va fi demis cu FP, in caz contrar, nu va primi FP.
 
 ### Cerere de Invoire
 
-Daca jucatorul nu isi poate completa raportul de activitate pe o perioada scurta, acesta poate face o cerere de invoire pe **[UCP](url)**.
+Daca jucatorul nu isi poate completa raportul de activitate pe o perioada scurta, acesta poate face o cerere de invoire pe **[UCP](https://ucp.evolved.ro/)**.
 
 * **Nota:** Vei putea face maxim **2 invoiri pe luna**.
 
@@ -63,4 +63,4 @@ Daca jucatorul nu isi poate completa raportul de activitate pe o perioada scurta
 
 ## 📣 Informatii Utile (Reclamatii)
 
-Daca un membru al unei factiuni te-a deranjat sau a incalcat regulamentul, poti sa faci o reclamatie pe **[UCP](url)**.
+Daca un membru al unei factiuni te-a deranjat sau a incalcat regulamentul, poti sa faci o reclamatie pe **[UCP](https://ucp.evolved.ro/)**.
