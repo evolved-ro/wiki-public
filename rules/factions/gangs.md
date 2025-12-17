@@ -16,7 +16,7 @@ Mafiile au rolul de a cuceri teritorii in cele 2 orase (LS, LV).
 * **Conditii de Castig:**
     1.  Daca minim un atacator se afla pe turf dupa cele 20 minute, mafia cu cele mai multe puncte castiga.
     2.  Daca toti atacatorii mor sau ies de pe turf, turful ramane mafiei care il detinea.
-    3.  Daca ambele mafii raman pe turf, cea care strange cele mai multe puncte la finalul celor 15 minute castiga.
+    3.  Daca ambele mafii raman pe turf, cea care strange cele mai multe puncte la finalul celor 20 minute castiga.
 
 ---
 
