@@ -42,13 +42,13 @@ Odata ce instalarea SA:MP e gata, esti pregatit sa te conectezi pe server.
 
 <img src="https://i.imgur.com/dAO09be.png" width="70%"/>
 
-3.  **Introdu Adresa:** Introdu IP-ul sau DNS-ul serverului pe care vrei sa joci. **Recomandarea noastra** este sa folosesti DNS-ul: **evolved.ro**.
+3.  **Introdu Adresa:** Introdu IP-ul sau DNS-ul serverului pe care vrei sa joci. **Recomandarea noastra** este sa folosesti DNS-ul: **go.evolved.ro**.
 
-<img src="https://i.imgur.com/JgLnUMw.png" width="70%"/>
+<img src="/public/assets/intro/DNS.png" width="70%"/>
 
 4.  **Conectare:** Da **DUBLU-CLICK STANGA** pe serverul adaugat in lista si apasa pe butonul **connect**.
 
-<img src="https://i.imgur.com/YOb9Yce.png" width="70%"/>
+<img src="/public/assets/intro/DNS-connect.png" width="70%"/>
 
 Jocul ar trebui sa porneasca acum! Distractie placuta!
 
